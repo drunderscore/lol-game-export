@@ -1,8 +1,7 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="forcepulse"}}, 
 {Function=BBPreloadSpell, Params={Name="voidstone"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="kassadinbladefx"}}, 
 {Function=BBPreloadSpell, Params={Name="riftwalk_urf"}}, 
-{Function=BBPreloadSpell, Params={Name="netherbladebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="forcepulse"}}, 
 }

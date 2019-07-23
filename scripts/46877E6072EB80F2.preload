@@ -1,8 +1,6 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="threesisters"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="lissandrapassive"}}, 
-{Function=BBPreloadCharacter, Params={Name="lissandrapassive"}}, 
 {Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
 {Function=BBPreloadSpell, Params={Name="crestbigmarker"}}, 
 {Function=BBPreloadSpell, Params={Name="lissandratauntsejuani"}}, 

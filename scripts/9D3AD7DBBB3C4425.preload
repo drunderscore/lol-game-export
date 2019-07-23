@@ -1,4 +1,5 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sheendelay"}}, 
 {Function=BBPreloadSpell, Params={Name="lichbane"}}, 
 {Function=BBPreloadParticle, Params={Name="item_junglelichbane_tar.troy", SkinID="-1"}}, 
 {Function=BBPreloadParticle, Params={Name="item_magus_manarestore.troy", SkinID="-1"}}, 
@@ -7,5 +8,4 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadCharacter, Params={Name="testcube"}}, 
 {Function=BBPreloadSpell, Params={Name="itemfrozenfistfield"}}, 
 {Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
-{Function=BBPreloadSpell, Params={Name="sheendelay"}}, 
 }

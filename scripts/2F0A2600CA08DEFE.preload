@@ -1,11 +1,8 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="caitlynheadshotcount"}}, 
-{Function=BBPreloadSpell, Params={Name="caitlynheadshot"}}, 
-{Function=BBPreloadSpell, Params={Name="caitlynptrappedtarget"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
-{Function=BBPreloadSpell, Params={Name="caitlynheadshotpassive"}}, 
 {Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
 {Function=BBPreloadSpell, Params={Name="caitlynpulsefiregunmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynptrappedtarget"}}, 
 {Function=BBPreloadSpell, Params={Name="caitlynsyntheticattackorder"}}, 
 }

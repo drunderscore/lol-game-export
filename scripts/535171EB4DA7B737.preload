@@ -4,10 +4,11 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
 {Function=BBPreloadSpell, Params={Name="lucianruncyclemanager"}}, 
 {Function=BBPreloadSpell, Params={Name="lucianr"}}, 
+{Function=BBPreloadModule, Params={Name="Lucian.LucianPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="lucianwcastingbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="lucianw"}}, 
 {Function=BBPreloadModule, Params={Name="Lucian.LucianFunctionModule"}}, 
 {Function=BBPreloadSpell, Params={Name="luciantauntthresh"}}, 
 {Function=BBPreloadSpell, Params={Name="luciantaunthecarim"}}, 
 {Function=BBPreloadSpell, Params={Name="luciantauntmordekaiser"}}, 
-{Function=BBPreloadSpell, Params={Name="lucianwcastingbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="lucianw"}}, 
 }

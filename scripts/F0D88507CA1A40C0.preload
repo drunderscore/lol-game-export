@@ -1,3 +1,0 @@
-PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="mordekaisersyphondmg"}}, 
-}

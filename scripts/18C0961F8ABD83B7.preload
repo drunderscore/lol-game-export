@@ -1,6 +1,5 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="luxultimateskinelementmissile"}}, 
-{Function=BBPreloadSpell, Params={Name="luxmalicecannonresettracker"}}, 
 {Function=BBPreloadModule, Params={Name="Lux.LuxIlluminationPassive"}}, 
 {Function=BBPreloadSpell, Params={Name="luxmalicecannon"}}, 
 }

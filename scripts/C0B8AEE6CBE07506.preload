@@ -7,8 +7,6 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Xayah.XayahFunctionModule"}}, 
 {Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
 {Function=BBPreloadSpell, Params={Name="xayahpassivefeather"}}, 
-{Function=BBPreloadSpell, Params={Name="xayahpassiveactive"}}, 
-{Function=BBPreloadSpell, Params={Name="xayahpassive"}}, 
 {Function=BBPreloadSpell, Params={Name="xayahqmissile1"}}, 
 {Function=BBPreloadSpell, Params={Name="xayahqmissile2"}}, 
 {Function=BBPreloadSpell, Params={Name="xayahq"}}, 

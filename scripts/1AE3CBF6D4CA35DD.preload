@@ -5,7 +5,6 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="hallucinatefull"}}, 
 {Function=BBPreloadSpell, Params={Name="shacostatstonerkilltracker"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="backstab"}}, 
 {Function=BBPreloadModule, Params={Name="Shaco.ShacoFunctionModule"}}, 
 {Function=BBPreloadParticle, Params={Name="globalinvisibilityexit_ally.troy", SkinID="-1"}}, 
 {Function=BBPreloadParticle, Params={Name="globalinvisibilityexit.troy", SkinID="-1"}}, 

@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sylaseshield"}}, 
 {Function=BBPreloadSpell, Params={Name="sylasemanager"}}, 
 }

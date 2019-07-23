@@ -2,5 +2,4 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="varuspassivebuff"}}, 
 {Function=BBPreloadSpell, Params={Name="varusrunspeed"}}, 
-{Function=BBPreloadSpell, Params={Name="varusw"}}, 
 }

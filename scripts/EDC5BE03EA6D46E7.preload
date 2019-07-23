@@ -1,4 +1,3 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="dianaarcready"}}, 
 {Function=BBPreloadSpell, Params={Name="dianapassive"}}, 
 }

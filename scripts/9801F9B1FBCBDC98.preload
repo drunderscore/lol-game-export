@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_avatarhaste_enabler"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_avatarhastemanager"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_Item_Unknown"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_requestmakeitemforplayer"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_coinbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff"}}, 
+}

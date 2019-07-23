@@ -1,4 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="root"}}, 
 {Function=BBPreloadSpell, Params={Name="fizzqprotect"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
 }

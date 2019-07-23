@@ -1,6 +1,6 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="backstab"}}, 
 {Function=BBPreloadSpell, Params={Name="twoshivpoison"}}, 
+{Function=BBPreloadSpell, Params={Name="backstab"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="traplimiter_shaco"}}, 
 {Function=BBPreloadSpell, Params={Name="jackinthebox"}}, 

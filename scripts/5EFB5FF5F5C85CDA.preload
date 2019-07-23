@@ -1,10 +1,10 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="lulufaeriespawn"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaeriemultishot"}}, 
 {Function=BBPreloadSpell, Params={Name="lulupassivemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieoverridetemp"}}, 
 {Function=BBPreloadParticle, Params={Name="waenasignalnovareverse.troy", SkinID="-1"}}, 
 {Function=BBPreloadSpell, Params={Name="root"}}, 
-{Function=BBPreloadSpell, Params={Name="lulufaerieoverridetemp"}}, 
 {Function=BBPreloadSpell, Params={Name="luluq"}}, 
 {Function=BBPreloadSpell, Params={Name="lulufaerieroot"}}, 
-{Function=BBPreloadSpell, Params={Name="lulufaeriemultishot"}}, 
 }

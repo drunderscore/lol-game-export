@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadCharacter, Params={Name="tft_shyvanadragon"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_shyvanaburndamage"}}, 
 }

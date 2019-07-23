@@ -1,10 +1,10 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
-{Function=BBPreloadSpell, Params={Name="kledespeedbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="klede2target"}}, 
 {Function=BBPreloadSpell, Params={Name="klede2"}}, 
 {Function=BBPreloadSpell, Params={Name="root"}}, 
 {Function=BBPreloadSpell, Params={Name="klede"}}, 
 {Function=BBPreloadSpell, Params={Name="kledeminiontrample"}}, 
 {Function=BBPreloadModule, Params={Name="Global.PlayerTerrian"}}, 
+{Function=BBPreloadSpell, Params={Name="kledespeedbuff"}}, 
 }

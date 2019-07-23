@@ -1,5 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="warwickp"}}, 
 {Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
 }

@@ -1,7 +1,8 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="eliseincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="elisespiderlingstats"}}, 
 {Function=BBPreloadSpell, Params={Name="elisespidert"}}, 
 {Function=BBPreloadSpell, Params={Name="eliseinbrush"}}, 
 {Function=BBPreloadSpell, Params={Name="elisepassive_spiderstealth"}}, 
-{Function=BBPreloadSpell, Params={Name="elisespiderlingstats"}}, 
+{Function=BBPreloadSpell, Params={Name="eliser"}}, 
 }

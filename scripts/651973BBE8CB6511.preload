@@ -2,9 +2,8 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="kledpassive"}}, 
 {Function=BBPreloadSpell, Params={Name="kledruncyclemanager"}}, 
-{Function=BBPreloadSpell, Params={Name="kledw"}}, 
 {Function=BBPreloadModule, Params={Name="Kled.KledFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="kledcelebratebuff"}}, 
 {Function=BBPreloadSpell, Params={Name="kledfootprintparticlebuff"}}, 
 {Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
-{Function=BBPreloadSpell, Params={Name="kledcelebratebuff"}}, 
 }

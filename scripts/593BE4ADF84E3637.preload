@@ -1,7 +1,5 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="poppypassive"}}, 
-{Function=BBPreloadSpell, Params={Name="poppypassivebuff"}}, 
 {Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
 {Function=BBPreloadSpell, Params={Name="poppye"}}, 
 {Function=BBPreloadSpell, Params={Name="poppyepushenemy"}}, 

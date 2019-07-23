@@ -8,4 +8,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="akaliqmis"}}, 
 {Function=BBPreloadModule, Params={Name="Akali.AkaliFunctionModule"}}, 
 {Function=BBPreloadSpell, Params={Name="akaliqslow"}}, 
+{Function=BBPreloadModule, Params={Name="Akali.AkaliP"}}, 
 }

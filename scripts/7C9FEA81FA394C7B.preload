@@ -1,4 +1,3 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadParticle, Params={Name="rebirthready.troy", SkinID="-1"}}, 
 {Function=BBPreloadSpell, Params={Name="tft_item_guardianangel_revive_buff"}}, 
 }

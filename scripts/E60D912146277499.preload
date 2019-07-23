@@ -6,7 +6,6 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="sylase2"}}, 
 {Function=BBPreloadSpell, Params={Name="sylase"}}, 
 {Function=BBPreloadSpell, Params={Name="sylasrvobuff"}}, 
-{Function=BBPreloadSpell, Params={Name="sylasrstatstonetracker"}}, 
 {Function=BBPreloadSpell, Params={Name="sylasrcasttimecheck"}}, 
 {Function=BBPreloadSpell, Params={Name="khazixrevo"}}, 
 }

@@ -1,4 +1,3 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="tahmkenchw"}}, 
-{Function=BBPreloadModule, Params={Name="TahmKench.TahmKenchPassive"}}, 
 }

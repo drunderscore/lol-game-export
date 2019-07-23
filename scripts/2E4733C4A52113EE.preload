@@ -1,4 +1,6 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="grounded"}}, 
 {Function=BBPreloadSpell, Params={Name="poppywknockup"}}, 
 {Function=BBPreloadSpell, Params={Name="poppyw"}}, 
 }

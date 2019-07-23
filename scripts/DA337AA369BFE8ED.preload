@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="MissFortune.MissFortunePassive"}}, 
 {Function=BBPreloadSpell, Params={Name="missfortunebasicattack"}}, 
 }

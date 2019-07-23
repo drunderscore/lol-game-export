@@ -1,4 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadParticle, Params={Name="ironstylus_cas.troy", SkinID="-1"}}, 
 {Function=BBPreloadSpell, Params={Name="tft_item_locketoftheironsolarishield_buff"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_StagesRoundsPhases"}}, 
 }

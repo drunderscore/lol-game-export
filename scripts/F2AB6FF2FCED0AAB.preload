@@ -1,5 +1,0 @@
-PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="mordekaisermaceofspades2"}}, 
-{Function=BBPreloadSpell, Params={Name="mordekaisermaceofspadesdmg"}}, 
-{Function=BBPreloadSpell, Params={Name="mordekaiserqattacklockout"}}, 
-}

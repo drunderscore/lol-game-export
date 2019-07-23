@@ -1,5 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="orianaspellsword"}}, 
 {Function=BBPreloadSpell, Params={Name="orianaghostself"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 }

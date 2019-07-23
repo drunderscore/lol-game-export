@@ -4,7 +4,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Aatrox.AatroxFunctionModule"}}, 
 {Function=BBPreloadParticle, Params={Name="aatrox_base_r_activate.troy", SkinID="-1"}}, 
 {Function=BBPreloadParticle, Params={Name="aatrox_base_r_decal.troy", SkinID="-1"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxrreviveearned"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxrrevive"}}, 
 {Function=BBPreloadSpell, Params={Name="aatroxincombat"}}, 
 }

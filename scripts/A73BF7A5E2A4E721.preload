@@ -11,5 +11,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="elisespider4"}}, 
 {Function=BBPreloadSpell, Params={Name="elisespider5"}}, 
 {Function=BBPreloadSpell, Params={Name="elisespiderlingfadeout"}}, 
-{Function=BBPreloadSpell, Params={Name="elisehumaneheal"}}, 
+{Function=BBPreloadModule, Params={Name="Elise.ElisePassive"}}, 
 }

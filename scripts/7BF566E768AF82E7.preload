@@ -1,5 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="katarinapassive"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="katarinaruncyclemanager"}}, 
 {Function=BBPreloadSpell, Params={Name="root"}}, 

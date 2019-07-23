@@ -1,7 +1,7 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="xinzhaoruncyclemanager"}}, 
-{Function=BBPreloadSpell, Params={Name="xinzhaop"}}, 
-{Function=BBPreloadModule, Params={Name="XinZhao.XinZhaoFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="XinZhao.XinZhaoP"}}, 
 {Function=BBPreloadSpell, Params={Name="xinzhaorlasttargettracker"}}, 
+{Function=BBPreloadModule, Params={Name="XinZhao.XinZhaoFunctionModule"}}, 
 }

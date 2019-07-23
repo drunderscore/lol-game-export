@@ -2,4 +2,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
 {Function=BBPreloadCharacter, Params={Name="iverntotem"}}, 
 {Function=BBPreloadSpell, Params={Name="ivernwbrushlogic"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernwpassive"}}, 
 }

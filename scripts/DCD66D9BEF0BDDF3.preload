@@ -1,11 +1,10 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Aatrox.AatroxFunctionModule"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxqmarker"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxq"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxqknockback"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxincombat"}}, 
 {Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxqmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxqknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxq"}}, 
 {Function=BBPreloadSpell, Params={Name="aatroxrfleeslow"}}, 
 {Function=BBPreloadSpell, Params={Name="aatroxw"}}, 
-{Function=BBPreloadSpell, Params={Name="aatroxincombat"}}, 
 }

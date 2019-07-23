@@ -1,4 +1,3 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="tft_yasuoq1wrapper"}}, 
 {Function=BBPreloadSpell, Params={Name="root"}}, 
 }

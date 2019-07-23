@@ -10,4 +10,6 @@ BuffTextureName = L0_0
 L0_0 = "Qiyana_AssassinPv1CDGrass"
 BuffName = L0_0
 L0_0 = true
+PersistsThroughDeath = L0_0
+L0_0 = true
 NonDispellable = L0_0

@@ -1,7 +1,7 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="quinnrfinale"}}, 
 {Function=BBPreloadSpell, Params={Name="quinnrchannel"}}, 
-{Function=BBPreloadSpell, Params={Name="quinnrreturntoquinn"}}, 
-{Function=BBPreloadSpell, Params={Name="quinnvalorselfslow"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnrfinale"}}, 
 {Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnvalorselfslow"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnrreturntoquinn"}}, 
 }

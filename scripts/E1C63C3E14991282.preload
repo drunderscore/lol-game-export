@@ -1,6 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeself"}}, 
-{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeally"}}, 
 {Function=BBPreloadSpell, Params={Name="kalistavoehighstack"}}, 
 {Function=BBPreloadSpell, Params={Name="kalistavoenormal"}}, 
 {Function=BBPreloadSpell, Params={Name="kalistaexpungeparticle"}}, 

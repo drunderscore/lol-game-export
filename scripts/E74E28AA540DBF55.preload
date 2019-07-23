@@ -1,3 +1,2 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadModule, Params={Name="TFT_Krug.CharScriptTFT_Krug"}}, 
 }

@@ -1,5 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="missfortunepassive"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="missfortunegungoddessgearmanager"}}, 
 {Function=BBPreloadSpell, Params={Name="missfortuneruncyclemanager"}}, 

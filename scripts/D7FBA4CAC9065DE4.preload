@@ -1,8 +1,7 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="ziggstowerindicator"}}, 
-{Function=BBPreloadSpell, Params={Name="ziggspassivebuff"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="ziggsshortfuse"}}, 
 {Function=BBPreloadSpell, Params={Name="nightmarebotziggsbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsmanager"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellPings"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggstowerindicator"}}, 
 }

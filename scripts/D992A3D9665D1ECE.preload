@@ -1,9 +1,9 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="root"}}, 
 {Function=BBPreloadSpell, Params={Name="akaliestatstonetracker"}}, 
-{Function=BBPreloadModule, Params={Name="Akali.AkaliFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Akali.AkaliP"}}, 
+{Function=BBPreloadSpell, Params={Name="akalieui"}}, 
 {Function=BBPreloadSpell, Params={Name="akalie"}}, 
 {Function=BBPreloadSpell, Params={Name="akalieextendwlife"}}, 
 {Function=BBPreloadSpell, Params={Name="akalieendvfx"}}, 
-{Function=BBPreloadSpell, Params={Name="akalieui"}}, 
 }

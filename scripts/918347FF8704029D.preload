@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff_Items"}}, 
 }

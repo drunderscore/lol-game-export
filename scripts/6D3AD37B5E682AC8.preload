@@ -1,4 +1,3 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="tft_item_redemption_spell"}}, 
-{Function=BBPreloadSpell, Params={Name="itemredemption"}}, 
 }

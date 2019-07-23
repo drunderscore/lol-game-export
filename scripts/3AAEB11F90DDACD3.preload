@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_item_blackcleaver_shred_buff"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_item_sheeneffect_buff"}}, 
+}

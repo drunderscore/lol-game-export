@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="caitlynheadshotcount"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellPings"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynheadshot"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynptrappedtarget"}}, 
+}

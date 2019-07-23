@@ -1,7 +1,5 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="ekkopassive"}}, 
 {Function=BBPreloadSpell, Params={Name="ekkor"}}, 
 {Function=BBPreloadSpell, Params={Name="ekkorheal"}}, 
-{Function=BBPreloadSpell, Params={Name="ekkowpassive"}}, 
 }

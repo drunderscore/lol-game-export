@@ -1,5 +1,6 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="leblancemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="globaltruesight"}}, 
 {Function=BBPreloadModule, Params={Name="Leblanc.LeblancFunctionModule"}}, 
 {Function=BBPreloadSpell, Params={Name="leblanceroot"}}, 
 }

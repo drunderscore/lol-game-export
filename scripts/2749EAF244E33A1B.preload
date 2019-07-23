@@ -1,5 +1,5 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Fizz.FizzFunctions"}}, 
 {Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
 {Function=BBPreloadSpell, Params={Name="fizzqprotect"}}, 
-{Function=BBPreloadModule, Params={Name="Fizz.FizzFunctions"}}, 
 }

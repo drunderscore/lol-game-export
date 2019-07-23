@@ -1,4 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="globalinvisibility"}}, 
 {Function=BBPreloadSpell, Params={Name="deceivecritbonus"}}, 
+{Function=BBPreloadSpell, Params={Name="globalinvisibility"}}, 
 }

@@ -1,5 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
 {Function=BBPreloadSpell, Params={Name="ivernpselfbufftracker"}}, 
-{Function=BBPreloadSpell, Params={Name="ivernwpassive"}}, 
 }

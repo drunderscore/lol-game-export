@@ -1,6 +1,0 @@
-PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="castfrombehind"}}, 
-{Function=BBPreloadModule, Params={Name="Shaco.ShacoFunctionModule"}}, 
-{Function=BBPreloadSpell, Params={Name="frombehind"}}, 
-{Function=BBPreloadSpell, Params={Name="shacopcritbonus"}}, 
-}

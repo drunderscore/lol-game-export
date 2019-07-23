@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ireliapassivestacks"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliapassivestacksmax"}}, 
+}

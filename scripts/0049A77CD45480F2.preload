@@ -1,6 +1,5 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
-{Function=BBPreloadSpell, Params={Name="gangplankpassive"}}, 
 {Function=BBPreloadSpell, Params={Name="gangplankqwrapper"}}, 
 {Function=BBPreloadSpell, Params={Name="gangplankw"}}, 
 {Function=BBPreloadSpell, Params={Name="gangplanke"}}, 

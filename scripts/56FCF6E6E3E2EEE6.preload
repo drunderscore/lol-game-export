@@ -1,3 +1,0 @@
-PreLoadBuildingBlocks = {
-{Function=BBPreloadParticle, Params={Name="global_pet_ping-attack.troy", SkinID="-1"}}, 
-}

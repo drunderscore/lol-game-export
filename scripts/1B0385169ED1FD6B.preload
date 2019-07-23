@@ -1,7 +1,5 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="galiopassive"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="galioskin04particle"}}, 
 {Function=BBPreloadSpell, Params={Name="galiowpassive"}}, 
-{Function=BBPreloadSpell, Params={Name="galiopassivebuff"}}, 
 }

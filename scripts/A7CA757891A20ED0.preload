@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Lucian.LucianPassive"}}, 
 {Function=BBPreloadSpell, Params={Name="lucianqdamage"}}, 
 }

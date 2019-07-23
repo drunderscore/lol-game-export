@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="TFT_Graves.TFT_GravesFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_traiteffect_gunslingerattack"}}, 
 }

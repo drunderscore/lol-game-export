@@ -13,6 +13,8 @@ L0_0 = "TFT_Anivia_GlacialStorm"
 BuffName = L0_0
 L0_0 = 4
 SpellToggleSlot = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0
 L0_0 = {
   "BlackIceTFT_Anivia"
 }

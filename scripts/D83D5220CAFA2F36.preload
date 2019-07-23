@@ -1,3 +1,3 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadModule, Params={Name="Aatrox.AatroxFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Aatrox.AatroxPassive"}}, 
 }

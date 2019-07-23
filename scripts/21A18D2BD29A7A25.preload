@@ -2,5 +2,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="lucianrdisable"}}, 
 {Function=BBPreloadSpell, Params={Name="lucianrmissile"}}, 
 {Function=BBPreloadSpell, Params={Name="lucianrmissileoffhand"}}, 
-{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadModule, Params={Name="Lucian.LucianPassive"}}, 
 }

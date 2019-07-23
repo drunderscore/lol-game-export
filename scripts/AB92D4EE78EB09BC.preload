@@ -1,6 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="fizzpassive"}}, 
-{Function=BBPreloadSpell, Params={Name="fizzwattack"}}, 
-{Function=BBPreloadSpell, Params={Name="fizzw"}}, 
 }

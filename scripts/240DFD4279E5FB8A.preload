@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_Players"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_avatarwinstreaksizebuff"}}, 
+}

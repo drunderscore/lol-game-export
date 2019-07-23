@@ -6,9 +6,9 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadParticle, Params={Name="global_ss_teleport_flash_red.troy", SkinID="-1"}}, 
 {Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_blue.troy", SkinID="-1"}}, 
 {Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
 {Function=BBPreloadSpell, Params={Name="teleport_turret"}}, 
 {Function=BBPreloadSpell, Params={Name="teleport_target"}}, 
 {Function=BBPreloadSpell, Params={Name="teleport_deathremoval"}}, 
 {Function=BBPreloadSpell, Params={Name="destealth"}}, 
-{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
 }

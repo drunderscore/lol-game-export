@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="shacopcooldown"}}, 
+{Function=BBPreloadModule, Params={Name="Shaco.ShacoPassive"}}, 
+}

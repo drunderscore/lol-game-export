@@ -1,3 +1,5 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzonhitbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzwdot"}}, 
 }

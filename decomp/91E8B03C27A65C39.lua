@@ -136,6 +136,7 @@ SpellTags = {
   "Trait_Ammo",
   "Trait_NonPrimaryAttack",
   "SpecialCase_StasisLocked",
+  "SpecialCase_CastWhileTeleporting",
   "SpecialCase_CastNotTriggerTear"
 }
 UnitTagFlags = {}

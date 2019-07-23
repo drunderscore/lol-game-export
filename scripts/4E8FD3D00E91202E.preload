@@ -1,4 +1,5 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="tft_checkitemtraitcompatibility"}}, 
 {Function=BBPreloadSpell, Params={Name="tft_customizechamptraits"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_StagesRoundsPhases"}}, 
 }

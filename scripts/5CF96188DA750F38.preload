@@ -1,8 +1,8 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="azirwprocbuff"}}, 
-{Function=BBPreloadModule, Params={Name="Azir.AzirFunctionModule"}}, 
-{Function=BBPreloadSpell, Params={Name="azirspellqueueq"}}, 
-{Function=BBPreloadSpell, Params={Name="azirspellqueuee"}}, 
 {Function=BBPreloadSpell, Params={Name="azirq"}}, 
 {Function=BBPreloadSpell, Params={Name="azire"}}, 
+{Function=BBPreloadSpell, Params={Name="azirspellqueueq"}}, 
+{Function=BBPreloadSpell, Params={Name="azirspellqueuee"}}, 
+{Function=BBPreloadModule, Params={Name="Azir.AzirFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="azirwprocbuff"}}, 
 }

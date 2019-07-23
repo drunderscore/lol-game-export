@@ -2,5 +2,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
 {Function=BBPreloadSpell, Params={Name="ireliae"}}, 
 {Function=BBPreloadSpell, Params={Name="ireliamark"}}, 
-{Function=BBPreloadModule, Params={Name="Irelia.IreliaFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Irelia.IreliaPassive"}}, 
 }

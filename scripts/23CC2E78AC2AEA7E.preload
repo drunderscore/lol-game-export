@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_sound"}}, 
 {Function=BBPreloadSpell, Params={Name="tft_portalinvisandwait"}}, 
 }

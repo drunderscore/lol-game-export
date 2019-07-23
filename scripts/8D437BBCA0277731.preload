@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="katarinadaggerpickupanimationlock"}}, 
+{Function=BBPreloadModule, Params={Name="Katarina.KatarinaPassive"}}, 
 }

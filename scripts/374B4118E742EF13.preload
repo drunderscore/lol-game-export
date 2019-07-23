@@ -1,10 +1,10 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadSpell, Params={Name="toxicshot"}}, 
 {Function=BBPreloadSpell, Params={Name="camouflage"}}, 
 {Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
 {Function=BBPreloadSpell, Params={Name="traplimiter_teemo"}}, 
 {Function=BBPreloadSpell, Params={Name="teemoruncyclemanager"}}, 
 {Function=BBPreloadSpell, Params={Name="teemomovequickpassive"}}, 
 {Function=BBPreloadSpell, Params={Name="camouflagecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="toxicshot"}}, 
 {Function=BBPreloadSpell, Params={Name="perks_presenceofmindammoupdate"}}, 
 }

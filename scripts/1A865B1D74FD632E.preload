@@ -6,5 +6,6 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadModule, Params={Name="Akali.AkaliFunctionModule"}}, 
 {Function=BBPreloadSpell, Params={Name="akalieanim"}}, 
 {Function=BBPreloadSpell, Params={Name="akaliweapontrailvfx"}}, 
+{Function=BBPreloadModule, Params={Name="Akali.AkaliP"}}, 
 {Function=BBPreloadSpell, Params={Name="root"}}, 
 }

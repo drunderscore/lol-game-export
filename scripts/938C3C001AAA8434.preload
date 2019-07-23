@@ -1,5 +1,0 @@
-PreLoadBuildingBlocks = {
-{Function=BBPreloadCharacter, Params={Name="sru_dragon_fire"}}, 
-{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetid"}}, 
-{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetbuff2"}}, 
-}

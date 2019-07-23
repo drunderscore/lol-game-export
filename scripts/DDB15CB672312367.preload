@@ -9,7 +9,6 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="threshrpenta_darkstar"}}, 
 {Function=BBPreloadSpell, Params={Name="threshqmissile_darkstar"}}, 
 {Function=BBPreloadSpell, Params={Name="threshwlanternout_darkstar"}}, 
-{Function=BBPreloadSpell, Params={Name="threshepassive"}}, 
 {Function=BBPreloadSpell, Params={Name="threshbasicattack"}}, 
 {Function=BBPreloadSpell, Params={Name="threshbasicattack1m"}}, 
 {Function=BBPreloadSpell, Params={Name="threshbasicattack2m"}}, 

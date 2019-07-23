@@ -1,4 +1,2 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadModule, Params={Name="Shaco.ShacoFunctionModule"}}, 
-{Function=BBPreloadSpell, Params={Name="deceive"}}, 
 }

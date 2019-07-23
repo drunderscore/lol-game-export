@@ -1,5 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadParticle, Params={Name="global_slow.troy", SkinID="-1"}}, 
-{Function=BBPreloadModule, Params={Name="TahmKench.TahmKenchPassive"}}, 
 {Function=BBPreloadSpell, Params={Name="tahmkenchw"}}, 
 }

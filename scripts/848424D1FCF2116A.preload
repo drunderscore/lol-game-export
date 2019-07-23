@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="amumuvfxmanagerskin08"}}, 
+{Function=BBPreloadModule, Params={Name="Amumu.AmumuP"}}, 
 }

@@ -8,4 +8,5 @@ PreLoadBuildingBlocks = {
 {Function=BBPreloadSpell, Params={Name="akalicritattack"}}, 
 {Function=BBPreloadSpell, Params={Name="akalibasicattack"}}, 
 {Function=BBPreloadSpell, Params={Name="akalibasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="akalipzoneground"}}, 
 }

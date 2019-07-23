@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globaltruesight"}}, 
 {Function=BBPreloadParticle, Params={Name="loc_stun.troy", SkinID="-1"}}, 
 }

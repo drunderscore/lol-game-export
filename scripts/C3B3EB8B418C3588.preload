@@ -1,3 +1,4 @@
 PreLoadBuildingBlocks = {
-{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_UnitRecords"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_StagesRoundsPhases"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_item_cursedblade_debuff"}}, 
 }
