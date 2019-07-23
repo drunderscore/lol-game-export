@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="orianaglobalcooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaslow"}}, 
+{Function=BBPreloadSpell, Params={Name="orianahaste"}}, 
+}

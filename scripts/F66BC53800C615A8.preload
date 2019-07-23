@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tt_bossattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_actiontimer2"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbossvortexcaster"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbossvortexcd"}}, 
+}

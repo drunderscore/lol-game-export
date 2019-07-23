@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_ss_smite_duel_challenged.troy", SkinID="-1"}}, 
+}

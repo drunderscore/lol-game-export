@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="riven_base_e_interupt.troy", SkinID="-1"}}, 
+}

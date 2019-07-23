@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritsingedpoisontrailmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritsinged"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritsingedpoisontrailtarget"}}, 
+}

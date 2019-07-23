@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrpassivemonkeyagility"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrvo"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrvospawn"}}, 
+{Function=BBPreloadSpell, Params={Name="crestbigmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrvoearlygame"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrvoattacks"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotudyrbuff"}}, 
+}

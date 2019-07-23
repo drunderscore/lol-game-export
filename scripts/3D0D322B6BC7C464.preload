@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_reksairmovelockout"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaiw"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="seraphsembrace_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="spectral_fury_cas.troy", SkinID="-1"}}, 
+}

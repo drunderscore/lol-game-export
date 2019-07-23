@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_stasis"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_arenaparticipant"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_arenaspectator"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SLIME_ArenaRoundParticipantTracker"}}, 
+{Function=BBPreloadSpell, Params={Name="disconnecttimer"}}, 
+}

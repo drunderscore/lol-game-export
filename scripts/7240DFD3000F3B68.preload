@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bantamtrapshort"}}, 
+{Function=BBPreloadSpell, Params={Name="bantamtrap"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindammospellcd"}}, 
+}

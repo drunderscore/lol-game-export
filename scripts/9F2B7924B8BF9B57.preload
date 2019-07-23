@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankrzone"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankrinitialimpact"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankrzonespeed"}}, 
+}

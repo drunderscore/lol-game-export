@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ryzepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ryzeq"}}, 
+{Function=BBPreloadSpell, Params={Name="ryzee"}}, 
+}

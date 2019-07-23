@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="srturretsecondaryshielderbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="srturretsecondaryshielderrangevalidation"}}, 
+}

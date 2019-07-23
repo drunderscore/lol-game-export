@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_rewardblessingofstatikk_chain"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_rewardblessingofstatikk_marker"}}, 
+{Function=BBPreloadSpell, Params={Name="itemstatikshank"}}, 
+}

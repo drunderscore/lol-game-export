@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="darius_r_ready.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="dariuscleaveclosetarget"}}, 
+{Function=BBPreloadSpell, Params={Name="spellnostackcdreset"}}, 
+}

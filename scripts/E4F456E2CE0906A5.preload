@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="evelynnpassivedelay"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnhatespikemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcamouflage"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnstealthring"}}, 
+}

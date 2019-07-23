@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="nightmarebotschogathferalscream_cas3.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="nightmarebotschogathferalscream_cas2.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="feralscream_cas.troy", SkinID="-1"}}, 
+}

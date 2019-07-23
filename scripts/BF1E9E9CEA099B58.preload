@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="resistantskindragon"}}, 
+{Function=BBPreloadSpell, Params={Name="monsterminiondamageamp"}}, 
+{Function=BBPreloadModule, Params={Name="Global.JungleCampSpawn"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonincombat"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_elderdragon_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonslain"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_dragon_activation_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_dragon_activation_buf_avatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="empoweredelderdragonbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="elderdragonbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="elderdragonbufftracker"}}, 
+{Function=BBPreloadSpell, Params={Name="dragondamage"}}, 
+}

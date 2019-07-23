@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="bardhealthshrine"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_manaorb_minionbuff"}}, 
+}

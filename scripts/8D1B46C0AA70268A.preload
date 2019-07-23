@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemgeminispeedgive"}}, 
+{Function=BBPreloadSpell, Params={Name="itemgeminispeedbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="itemgeminiarmorgive"}}, 
+{Function=BBPreloadSpell, Params={Name="itemgeminiarmorbuff"}}, 
+}

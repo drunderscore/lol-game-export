@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gladiatordravenleftaxereturn"}}, 
+{Function=BBPreloadModule, Params={Name="Draven.CharFunctionDraven"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="reksairvo"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaitunnel"}}, 
+{Function=BBPreloadCharacter, Params={Name="reksaitunnel"}}, 
+{Function=BBPreloadSpell, Params={Name="reksairtunnelkiller"}}, 
+{Function=BBPreloadSpell, Params={Name="reksairmove"}}, 
+{Function=BBPreloadSpell, Params={Name="reksair2"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+}

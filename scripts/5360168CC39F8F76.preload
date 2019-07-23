@@ -1,0 +1,17 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="braummarkdamagetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="braumpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="braumedummyvoashe"}}, 
+{Function=BBPreloadSpell, Params={Name="braumedummyvonami"}}, 
+{Function=BBPreloadSpell, Params={Name="braumedummyvoezreal"}}, 
+{Function=BBPreloadSpell, Params={Name="braumedummyvocaitlyn"}}, 
+{Function=BBPreloadSpell, Params={Name="braumedummyvodraven"}}, 
+{Function=BBPreloadSpell, Params={Name="braumedummyvoriven"}}, 
+{Function=BBPreloadParticle, Params={Name="braum_base_q_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="braumflashrlockout"}}, 
+{Function=BBPreloadSpell, Params={Name="braumcamerafacingrecallbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="braumporomustachebuff"}}, 
+}

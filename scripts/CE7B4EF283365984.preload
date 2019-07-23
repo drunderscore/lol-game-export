@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="skarnerpassivecrystalbuffregencooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="skarnerpassivecrystalbuffcaptureon"}}, 
+{Function=BBPreloadSpell, Params={Name="skarnerpassivecrystalbuffcooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="skarnerpassivecrystalmsmax"}}, 
+}

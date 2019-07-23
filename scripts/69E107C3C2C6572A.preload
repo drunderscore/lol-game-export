@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="interventionheal_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="maladycounter"}}, 
+{Function=BBPreloadSpell, Params={Name="maladyspell"}}, 
+}

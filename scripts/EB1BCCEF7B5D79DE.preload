@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_towerdestroyed_idle.troy", SkinID="-1"}}, 
+}

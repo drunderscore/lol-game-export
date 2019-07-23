@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="alistarpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="alistarpassivestacks"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadModule, Params={Name="Alistar.AlistarFunctions"}}, 
+}

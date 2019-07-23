@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="lulufaerieshield"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieburn"}}, 
+{Function=BBPreloadSpell, Params={Name="luluevision"}}, 
+{Function=BBPreloadParticle, Params={Name="waena_faerie_flash.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieoverride"}}, 
+}

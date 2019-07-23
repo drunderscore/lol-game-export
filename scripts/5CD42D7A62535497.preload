@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="olafaxeexpirationtimer2"}}, 
+{Function=BBPreloadSpell, Params={Name="olafaxethrowcast"}}, 
+{Function=BBPreloadParticle, Params={Name="olaf_pentakill_axe_trigger_02.troy", SkinID="-1"}}, 
+}

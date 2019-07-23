@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalcannotclickobjects"}}, 
+{Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kledrchargeshield"}}, 
+{Function=BBPreloadSpell, Params={Name="kledrchargeallyspeedbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kledrtrail"}}, 
+{Function=BBPreloadModule, Params={Name="Kled.KledFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

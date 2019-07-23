@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="illaoiehold"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoiemis"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoievessel"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoieattacklockout"}}, 
+}

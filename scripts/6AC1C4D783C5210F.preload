@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_monsterburn.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_summonerselectunit"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_GameManager"}}, 
+{Function=BBPreloadParticle, Params={Name="goldaquisition_glb.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_applytraitbonusestoplayer"}}, 
+}

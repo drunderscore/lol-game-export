@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_gromp_casting"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_chargeknockaway"}}, 
+}

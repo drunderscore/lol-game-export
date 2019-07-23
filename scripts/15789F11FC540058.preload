@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tft_baron_base_spike_animated.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="baronspellcast0"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_baronspikehit"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_barondebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="baronbacksidestun"}}, 
+{Function=BBPreloadSpell, Params={Name="baronbacksidedetect"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_backspikes.troy", SkinID="-1"}}, 
+}

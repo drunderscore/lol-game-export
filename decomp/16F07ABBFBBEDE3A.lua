@@ -1,0 +1,13 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "1041_HuntersTalisman.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemMonsterBurn"
+BuffName = L0_0
+L0_0 = "SRU_JungleBuff_MonsterBurn.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_CHEST_LOC"
+AutoBuffActivateAttachBoneName = L0_0

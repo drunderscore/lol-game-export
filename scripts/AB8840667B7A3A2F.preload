@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_stasis"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_urfdeathmatchparticipant"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_arenaspectator"}}, 
+}

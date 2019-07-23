@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_cartnearby"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_cartneartower"}}, 
+}

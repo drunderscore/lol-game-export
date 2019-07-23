@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="trundlepainhealbig"}}, 
+{Function=BBPreloadSpell, Params={Name="trundlepainheal"}}, 
+{Function=BBPreloadSpell, Params={Name="trundlepainshred"}}, 
+}

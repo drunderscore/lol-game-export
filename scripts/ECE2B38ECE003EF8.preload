@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="fiddlestickspassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotfiddlesticksbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="fiddlesticksdread"}}, 
+{Function=BBPreloadSpell, Params={Name="fiddlesticksstatstonefeartracker"}}, 
+}

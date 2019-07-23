@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_trinket_blue_ward.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_yellow.troy", SkinID="-1"}}, 
+}

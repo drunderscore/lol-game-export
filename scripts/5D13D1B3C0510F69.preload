@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_3193_active_hand.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_3193_active_large.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_3193_active_small.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Grit"}}, 
+}

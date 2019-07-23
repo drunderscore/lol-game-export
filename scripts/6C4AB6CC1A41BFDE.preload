@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="direction-arrow.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="AurelionSol.AurelionSolFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="aurelionsolwtoggleoff"}}, 
+{Function=BBPreloadSpell, Params={Name="aurelionsolwactive"}}, 
+}

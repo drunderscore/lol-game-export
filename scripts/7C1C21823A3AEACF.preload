@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_fishthing_shieldbeam.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_fishthing_shieldindicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_fishthing_shield.troy", SkinID="-1"}}, 
+}

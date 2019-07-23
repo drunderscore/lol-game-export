@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+{Function=BBPreloadParticle, Params={Name="vlad_bloodking_blood_skin.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimirbloodballvfxbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimirsanguinepoolparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimirsanguinepoolslow"}}, 
+}

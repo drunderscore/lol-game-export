@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bardwdirectheal"}}, 
+{Function=BBPreloadSpell, Params={Name="bardwhealthpack"}}, 
+{Function=BBPreloadSpell, Params={Name="bardwactualhealing"}}, 
+{Function=BBPreloadCharacter, Params={Name="bardhealthshrine"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_bardcurse_warn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_bardcurse_windup.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_bardcurse_explo.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscursebardrstasis"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscursebardrstasisspellimmunitycheck"}}, 
+}

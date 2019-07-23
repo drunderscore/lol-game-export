@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tristanapassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebottristanabuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanavodamagetrackerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanaecharge"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanae"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanabasicattacksound"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanavorinmidair"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanavorcloserange"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanavor"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanavowpassoverterrain"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanavowcloseescapeimmediate"}}, 
+}

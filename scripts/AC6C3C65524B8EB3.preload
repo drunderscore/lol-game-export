@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kagestribute"}}, 
+{Function=BBPreloadSpell, Params={Name="goldpertencounter"}}, 
+}

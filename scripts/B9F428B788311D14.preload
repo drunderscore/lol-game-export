@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_velkozr"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_velkoz"}}, 
+}

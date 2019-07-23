@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="frozenheart"}}, 
+{Function=BBPreloadSpell, Params={Name="frozenheartaura"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_jinxwshove"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxw"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_jinxwsight"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_jinxwshotgunmarker"}}, 
+}

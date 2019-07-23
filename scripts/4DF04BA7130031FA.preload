@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ezrealpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="ezrealpfemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="ezrealrecalloverride"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+}

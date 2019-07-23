@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_item_sunfirecape_pulse.troy", SkinID="-1"}}, 
+}

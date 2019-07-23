@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_StagesRoundsPhases"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_sound"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_shareddraftactive"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_Shop"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_SharedDraft"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_shareddraftpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_isinnoncombatround"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_isinshareddraft"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_shareddraftunitavailable"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_unitinvisandwait"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff_Items"}}, 
+}

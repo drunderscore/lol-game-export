@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rivenwindslashready"}}, 
+{Function=BBPreloadSpell, Params={Name="rivenizunablade"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="riven_skin16_idle_wings_ult.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="skin16_rivenruncyclemanager"}}, 
+}

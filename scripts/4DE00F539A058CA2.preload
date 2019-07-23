@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ClonePet"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingkillclonew"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingdecoy"}}, 
+}

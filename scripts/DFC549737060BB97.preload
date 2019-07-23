@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="toxicshotparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="toxicshot"}}, 
+}

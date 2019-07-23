@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.ParticleTools"}}, 
+{Function=BBPreloadParticle, Params={Name="item_rapidfirecannon_range.troy", SkinID="-1"}}, 
+}

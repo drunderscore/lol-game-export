@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_petalclaw"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_skarner"}}, 
+}

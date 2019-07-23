@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaisaqmarker"}}, 
+{Function=BBPreloadParticle, Params={Name="kaisa_base_q_mis_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaeevolveavailable"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaqminionmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaqparticle"}}, 
+{Function=BBPreloadModule, Params={Name="Kaisa.KaisaFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaqevolveavailable"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisawevolveavailable"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaqlaunchmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisapassivemarkerr"}}, 
+}

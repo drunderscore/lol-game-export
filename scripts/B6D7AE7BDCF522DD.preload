@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoewobjectmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewpassivemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="ahriorbofdeception"}}, 
+}

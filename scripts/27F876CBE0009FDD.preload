@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="aatroxrrevivematerialoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcannotclickobjects"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxincombat"}}, 
+{Function=BBPreloadParticle, Params={Name="aatrox_base_passive_death_activate.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxq2"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxq3"}}, 
+}

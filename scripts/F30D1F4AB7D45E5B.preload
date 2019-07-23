@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_shopkeeperspawn.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="cp_storekeeper"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_objective_notimes"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_objective_rt_room"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_objective_rt_hallwayrun"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_objective_rt_inplacehold"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_objective_rt_boss"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_betweenround_ceremony"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_betweenround_retryceremony"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_teleportspire"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_betweenround_forcefield.troy", SkinID="-1"}}, 
+{Function=BBPreloadTexture, Params={Name="wavestar_betweenround_warningoverlay.dds"}}, 
+}

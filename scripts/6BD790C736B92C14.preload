@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_lvl2_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_lvl3_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_lvl4_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_lvl5_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_lvl2_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_lvl3_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_lvl4_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_lvl5_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_lvl1_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_cast_audio_minion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_order_beam_cast_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_lvl1_audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_cast_audio_minion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_inhibitor_tower_chaos_beam_cast_audio.troy", SkinID="-1"}}, 
+}

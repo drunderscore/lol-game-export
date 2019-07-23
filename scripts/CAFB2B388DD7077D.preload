@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="malzaharpassiveshieldwinddown"}}, 
+{Function=BBPreloadParticle, Params={Name="malzahar_base_p_mat_override.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+}

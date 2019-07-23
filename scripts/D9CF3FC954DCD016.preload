@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_inlane_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_spellportal.troy", SkinID="-1"}}, 
+}

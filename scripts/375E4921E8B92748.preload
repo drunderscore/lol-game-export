@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="darkstarhypeboth"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_hype_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_hype_red.troy", SkinID="-1"}}, 
+}

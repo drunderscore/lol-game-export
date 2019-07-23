@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="karmaq"}}, 
+{Function=BBPreloadSpell, Params={Name="karmaspiritbind"}}, 
+{Function=BBPreloadSpell, Params={Name="karmasolkimshield"}}, 
+}

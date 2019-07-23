@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_revive_invuln.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_target_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_silent_global_ss_teleport_target_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="teleporthome.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_silent_teleportarrive.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="levelup_glb.troy", SkinID="-1"}}, 
+}

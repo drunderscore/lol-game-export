@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="teemo_base_w_buf.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_radar_test.troy", SkinID="-1"}}, 
+}

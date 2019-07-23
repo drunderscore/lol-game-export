@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kindredqasbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredqmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredqmissileminor"}}, 
+}

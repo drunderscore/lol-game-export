@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_target_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_target_red.troy", SkinID="-1"}}, 
+}

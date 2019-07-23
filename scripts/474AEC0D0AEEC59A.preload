@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="howlingabyssiceblock"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_spawn_m.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_spawn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_spawn_xs.troy", SkinID="-1"}}, 
+}

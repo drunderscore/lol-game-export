@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="cassiopeiadeathparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+}

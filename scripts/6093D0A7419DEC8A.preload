@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="bw_chaos_turret_ba_cast_champ_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_order_turret_ba_cast_champ_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_chaos_turret_ba_cast_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_order_turret_ba_cast_sound.troy", SkinID="-1"}}, 
+}

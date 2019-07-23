@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Graves/HUD/Icons2D/GravesSmokeGrenade.dds"
+BuffTextureName = L0_0
+L0_0 = "GravesSmokeCloud"
+BuffName = L0_0
+L0_0 = "r:Graves_W_Nearsight"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0

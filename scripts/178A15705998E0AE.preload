@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dianateleportresetcheck"}}, 
+{Function=BBPreloadModule, Params={Name="Diana.DianaFunctionModule"}}, 
+}

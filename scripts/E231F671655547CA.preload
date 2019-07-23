@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="xayahpassiveattack"}}, 
+{Function=BBPreloadModule, Params={Name="Xayah.XayahGetSpellData"}}, 
+}

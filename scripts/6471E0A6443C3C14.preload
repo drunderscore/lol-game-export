@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="destiny"}}, 
+{Function=BBPreloadSpell, Params={Name="twistedfateclassicdestiny"}}, 
+}

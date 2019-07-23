@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="pantheonesound"}}, 
+{Function=BBPreloadSpell, Params={Name="pantheonechannel"}}, 
+}

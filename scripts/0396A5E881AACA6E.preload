@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="warwickqleap"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickqwinddownanimationmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickqinternal"}}, 
+{Function=BBPreloadModule, Params={Name="Warwick.WarwickFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickqdrain"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickq"}}, 
+}

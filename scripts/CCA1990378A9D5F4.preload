@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sonasongofdiscord_aura.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinshamanbuff"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_redbuff_swiper"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_redbuff_slasher"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_redbuff_groundpounder"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_redbuff_volcano"}}, 
+}

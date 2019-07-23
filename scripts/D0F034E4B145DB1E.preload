@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_velkoz_base_e_explo.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozestun"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkoze"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozresearchapply"}}, 
+}

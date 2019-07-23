@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camilleqspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleq"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleq2damageconversion"}}, 
+}

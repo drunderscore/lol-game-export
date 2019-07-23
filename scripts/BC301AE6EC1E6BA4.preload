@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leesinq2statstonetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkqone"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkqtwodashparticle"}}, 
+}

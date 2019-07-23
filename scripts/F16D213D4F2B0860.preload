@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ekkorheal"}}, 
+{Function=BBPreloadModule, Params={Name="Ekko.EkkoFunctions"}}, 
+{Function=BBPreloadCharacter, Params={Name="ekko"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkorminion"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkorinvuln"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkorstatstonetracker"}}, 
+}

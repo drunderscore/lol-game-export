@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="npcinitializer"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_blue_srublueeemanager"}}, 
+{Function=BBPreloadModule, Params={Name="Global.JungleCampSpawn"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_sharedmonsterbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_monstersingletargetspellvulnerability"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_bluebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="crestoftheancientgolemlines"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_gromp_death_pop.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_gromp_death_sound.troy", SkinID="-1"}}, 
+}

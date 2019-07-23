@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siegeblankspell"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeshieldgeneratorregenerateindicators"}}, 
+{Function=BBPreloadSpell, Params={Name="siegedeployableghosting"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_offenseteleporter_rangering.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_rangering.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_shieldgenerator_rangering.troy", SkinID="-1"}}, 
+}

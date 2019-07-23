@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuowmovingwallenemy"}}, 
+{Function=BBPreloadModule, Params={Name="Yasuo.YasuoFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuowburstbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuowblockmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuowfailsafe"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuowchildmis"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuowchildmis_burst"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuow_visualmis"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuow_visualmis_burst"}}, 
+}

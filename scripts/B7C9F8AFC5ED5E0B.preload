@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_haste.troy", SkinID="-1"}}, 
+}

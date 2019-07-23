@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camillepassivecooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleenemyscouter"}}, 
+{Function=BBPreloadSpell, Params={Name="camillepassiveshieldphysical"}}, 
+{Function=BBPreloadSpell, Params={Name="camillepassiveshieldmagic"}}, 
+}

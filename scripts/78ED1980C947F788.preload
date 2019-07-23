@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.SnowballMissile"}}, 
+{Function=BBPreloadSpell, Params={Name="summonersnowurfsnowball_mark_followupself"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_poro_snowflake_tagged.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_snowflake_tagged.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="alphastrikefadein"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="immortal_masteryi_trail_fx"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryialphastrikeuntargetability"}}, 
+{Function=BBPreloadSpell, Params={Name="alphastrikemissile"}}, 
+}

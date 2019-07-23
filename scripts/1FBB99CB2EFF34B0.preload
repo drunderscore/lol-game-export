@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="immortal_masteryi_trail_fx"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryipassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryiwujudeactivated"}}, 
+{Function=BBPreloadSpell, Params={Name="wujustyle"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryiblademanager"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryitauntmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="wujustylevisual"}}, 
+{Function=BBPreloadSpell, Params={Name="doublestrikestacks"}}, 
+{Function=BBPreloadSpell, Params={Name="doublestrike"}}, 
+}

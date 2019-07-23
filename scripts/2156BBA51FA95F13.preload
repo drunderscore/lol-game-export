@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="missfortunestrutstacks"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunestrutmax"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunestrutdebuff"}}, 
+}

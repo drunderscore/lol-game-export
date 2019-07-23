@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoewpickupismoving"}}, 
+{Function=BBPreloadCharacter, Params={Name="trundlewall"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewpickupicon"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewslotactive"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewvisualmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeidlemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewreservoir"}}, 
+}

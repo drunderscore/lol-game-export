@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="tft_swaindemonform"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_swainrmeganovamissile"}}, 
+}

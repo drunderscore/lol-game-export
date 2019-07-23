@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_safezone"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

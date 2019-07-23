@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuoisincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuonotincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuopassivecounter"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotyasuopassivemsshieldon"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuopassiveshield"}}, 
+}

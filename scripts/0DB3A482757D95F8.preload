@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="talonpassivestack"}}, 
+{Function=BBPreloadSpell, Params={Name="talonpassivebleed"}}, 
+}

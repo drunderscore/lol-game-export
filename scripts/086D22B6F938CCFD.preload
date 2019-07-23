@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="projectmode17_scannerbot_proximity.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_scannerbot_danger.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

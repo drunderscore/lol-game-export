@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "ASSETS/Spells/Icons2D/Caitlyn_YordleSnapTrap.dds"
+BuffTextureName = L0_0
+L0_0 = "r:Fizz_R_Shark_trap_set_01"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = false
+IsDamagingSpell = L0_0

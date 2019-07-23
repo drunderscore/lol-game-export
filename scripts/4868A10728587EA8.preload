@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="targonslineshield"}}, 
+{Function=BBPreloadSpell, Params={Name="targonquestdisplaytt"}}, 
+{Function=BBPreloadSpell, Params={Name="targonquestdisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="outofcombatdebuffmanager"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TimeFormatting"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_complete.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_reward60.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_reward20.troy", SkinID="-1"}}, 
+}

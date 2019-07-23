@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="aramturretbonus"}}, 
+{Function=BBPreloadSpell, Params={Name="turretpackage"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_order_turret_idle2.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_order_turret_idle.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_order_turret_ba_cast_champ_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_order_turret_ba_cast_sound.troy", SkinID="-1"}}, 
+}

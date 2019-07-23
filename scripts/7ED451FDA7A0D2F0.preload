@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="disarm"}}, 
+{Function=BBPreloadSpell, Params={Name="cursedtouch"}}, 
+{Function=BBPreloadSpell, Params={Name="cursedtouchmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="curseofthesadmummycasteffects"}}, 
+}

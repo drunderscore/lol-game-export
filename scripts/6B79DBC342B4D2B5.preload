@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="globalcamouflageenter_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageshimmersfx.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageshimmer.troy", SkinID="-1"}}, 
+}

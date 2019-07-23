@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="sonapassivedebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

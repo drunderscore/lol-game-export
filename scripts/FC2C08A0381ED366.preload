@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_slow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="piratecutlass_cas.troy", SkinID="-1"}}, 
+}

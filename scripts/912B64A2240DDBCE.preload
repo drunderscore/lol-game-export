@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_ba_1_fistslam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_ba_minion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_ba_turret.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadModule, Params={Name="Galio.GalioFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="galioknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="galioe"}}, 
+}

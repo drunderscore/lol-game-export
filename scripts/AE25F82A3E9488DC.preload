@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odinquestindicator"}}, 
+{Function=BBPreloadCharacter, Params={Name="odinquestindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="odinquestparticleremover"}}, 
+}

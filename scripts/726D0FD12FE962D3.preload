@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_kennenshurikennocast"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_kennenmarkofstorm"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_kennenshurikenstormholder"}}, 
+}

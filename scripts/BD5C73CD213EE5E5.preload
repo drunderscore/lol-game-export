@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_statikkshiv_ready.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_rapidfirecannon_ready.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_energyshard_ready.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemstatikshankcharge"}}, 
+}

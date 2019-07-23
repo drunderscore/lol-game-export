@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_trinket_spotter.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="trinketlenslvl1audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemblackout"}}, 
+{Function=BBPreloadSpell, Params={Name="relicspotter"}}, 
+}

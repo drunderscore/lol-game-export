@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Qiyana.QiyanaW"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawmis_grass"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawmis_water"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawmis_rock"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawdash"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawenchantedbuff"}}, 
+}

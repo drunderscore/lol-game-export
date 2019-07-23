@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_fizzetwo"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzeone"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizze"}}, 
+}

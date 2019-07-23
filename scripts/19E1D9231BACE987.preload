@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="azirsoldierstabready"}}, 
+{Function=BBPreloadSpell, Params={Name="azirtriggersoldierattack"}}, 
+{Function=BBPreloadSpell, Params={Name="azirsoldierinactive"}}, 
+}

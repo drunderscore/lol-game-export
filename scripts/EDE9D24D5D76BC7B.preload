@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="karmaqmissilemantraslow"}}, 
+{Function=BBPreloadSpell, Params={Name="karmapassiveprocessor"}}, 
+{Function=BBPreloadSpell, Params={Name="karmaqalreadyhit"}}, 
+}

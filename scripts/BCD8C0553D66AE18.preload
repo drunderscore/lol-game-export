@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="lulufaerie"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotpixspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotlulupixsize"}}, 
+}

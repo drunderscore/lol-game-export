@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camillepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleattackanimationcycle"}}, 
+{Function=BBPreloadSpell, Params={Name="camillevomanager"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+}

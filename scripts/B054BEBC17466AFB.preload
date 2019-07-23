@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="spellshieldspellimmunity"}}, 
+{Function=BBPreloadParticle, Params={Name="item_sorcerersbane_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadParticle, Params={Name="item_sorcerersbane_shield_pop.troy", SkinID="-1"}}, 
+}

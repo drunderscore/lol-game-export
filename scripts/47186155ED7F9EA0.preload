@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="vladimir_base_p_ripe_indicator.troy", SkinID="-1"}}, 
+}

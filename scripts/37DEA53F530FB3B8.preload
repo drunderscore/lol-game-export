@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="threshqleapattack"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarhookpostinvuln"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarq2spelllockoutcaster"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarq2spelllockouttarget"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq_darkstar"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq"}}, 
+{Function=BBPreloadModule, Params={Name="Thresh.ThreshFunctionModule"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="fizze"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+}

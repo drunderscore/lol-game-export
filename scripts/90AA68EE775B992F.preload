@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_stampede_porospinup.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_mis_project.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_mis.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_mis_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="porotoss_spinup_arrows_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="porotoss_spinup_arrows_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_explosion_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_explosion_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking3"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking3_move"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking3_alreadyhit"}}, 
+}

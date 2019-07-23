@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_baron_acidball_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_baron_base_acidball_pool.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="baronacidballpool"}}, 
+}

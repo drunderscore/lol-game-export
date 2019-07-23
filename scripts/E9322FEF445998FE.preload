@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="fearmonger_marker"}}, 
+{Function=BBPreloadSpell, Params={Name="globaldrain"}}, 
+}

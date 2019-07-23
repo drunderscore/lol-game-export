@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="pacified"}}, 
+{Function=BBPreloadCharacter, Params={Name="ha_ap_poro"}}, 
+}

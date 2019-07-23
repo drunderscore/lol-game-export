@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zacqcheatdeath"}}, 
+{Function=BBPreloadSpell, Params={Name="zacq"}}, 
+{Function=BBPreloadSpell, Params={Name="zacqhit"}}, 
+{Function=BBPreloadSpell, Params={Name="zacpassivespawnchunk"}}, 
+{Function=BBPreloadSpell, Params={Name="zace"}}, 
+{Function=BBPreloadSpell, Params={Name="zacqempowered"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="aatroxqwrappercast"}}, 
+{Function=BBPreloadModule, Params={Name="Aatrox.AatroxFunctionModule"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="varuseaoe.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="varusespellshieldcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="varuse"}}, 
+{Function=BBPreloadSpell, Params={Name="varuseslow"}}, 
+{Function=BBPreloadSpell, Params={Name="internal_50ms"}}, 
+{Function=BBPreloadSpell, Params={Name="grievouswound"}}, 
+{Function=BBPreloadSpell, Params={Name="varusgrieviouswoundsminion"}}, 
+{Function=BBPreloadSpell, Params={Name="varuswdetonate"}}, 
+}

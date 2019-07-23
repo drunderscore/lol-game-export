@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "48thSlave_Enfeeble.dds"
+BuffTextureName = L0_0
+L0_0 = "S5Test_TowerWrath"
+BuffName = L0_0
+L0_0 = "Global_Debuff_ArmorPen.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "Global_Slow.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

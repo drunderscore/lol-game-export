@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingerq"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingerw"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingere"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingerwattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingerwreturn"}}, 
+{Function=BBPreloadCharacter, Params={Name="heimertyellow"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerq"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerswagger"}}, 
+}

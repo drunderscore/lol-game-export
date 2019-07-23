@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TrinketCD"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_greaterspotter.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="trinketlenslvl3audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemblackout"}}, 
+{Function=BBPreloadParticle, Params={Name="spotter_marker.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="trinketsweeperpersistvfx"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ContribScores"}}, 
+}

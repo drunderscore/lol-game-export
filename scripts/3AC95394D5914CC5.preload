@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nexusturretregen"}}, 
+{Function=BBPreloadSpell, Params={Name="bwturretsoundhandler"}}, 
+{Function=BBPreloadSpell, Params={Name="turretdamagemarker"}}, 
+{Function=BBPreloadParticle, Params={Name="ha_pororay.troy", SkinID="-1"}}, 
+}

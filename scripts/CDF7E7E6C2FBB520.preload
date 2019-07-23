@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.MonsterEmoteFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="poultry_mem_turret"}}, 
+}

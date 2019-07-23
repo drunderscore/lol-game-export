@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="bardedoorclickhandler"}}, 
+{Function=BBPreloadSpell, Params={Name="bardecreatedoor"}}, 
+{Function=BBPreloadSpell, Params={Name="bardeoncastclicklistener"}}, 
+}

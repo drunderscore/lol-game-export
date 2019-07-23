@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Flora"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_plant_vision_roots.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ContribScores"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Vector"}}, 
+{Function=BBPreloadSpell, Params={Name="planthawkshot"}}, 
+{Function=BBPreloadSpell, Params={Name="planthawkshotaudio"}}, 
+}

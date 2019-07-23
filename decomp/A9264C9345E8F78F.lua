@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "3112_Orb_of_Winter.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemAvalanche"
+BuffName = L0_0
+L0_0 = "ItemAvalanche_buf.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_Buffbone_Glb_Center_Loc"
+AutoBuffActivateAttachBoneName = L0_0

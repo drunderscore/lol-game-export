@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leviathancheck"}}, 
+{Function=BBPreloadSpell, Params={Name="leviathancap"}}, 
+}

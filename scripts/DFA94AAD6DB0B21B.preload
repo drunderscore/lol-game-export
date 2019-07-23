@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="blindmonkwonedash"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkwmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="destealth"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkwoneshield"}}, 
+}

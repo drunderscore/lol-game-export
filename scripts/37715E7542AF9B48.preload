@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="missfortune_base_w_max_avatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunestrutstacks"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunestrutdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunestruttrail"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sion_q_indicator_end.troy", SkinID="-1"}}, 
+}

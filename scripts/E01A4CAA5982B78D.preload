@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_chaos_turret_sparkles.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sruap_chaos_turret_activation_flash.troy", SkinID="-1"}}, 
+}

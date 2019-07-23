@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_velkozqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="npc_velkozq"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="viktorgravitonfieldnostun"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorgravitonfield"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorwaugstun"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorgravitonfieldstun"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="azirw_urf"}}, 
+{Function=BBPreloadModule, Params={Name="Azir.AzirFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="azirpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="azirruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="azirtowerbuff"}}, 
+}

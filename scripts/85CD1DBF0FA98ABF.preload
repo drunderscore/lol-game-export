@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_fizzrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzr"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzrcling"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzshark"}}, 
+{Function=BBPreloadCharacter, Params={Name="fizzshark"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzshark"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzrmoveback"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzrknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzrmissile"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="alistartrample"}}, 
+{Function=BBPreloadParticle, Params={Name="pulverize_cas.troy", SkinID="-1"}}, 
+}

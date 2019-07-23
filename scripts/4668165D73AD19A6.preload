@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="porosnaxkingbufflockout"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_barragebuff.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_barrage_bigarea_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_barrage_bigarea_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking0barragemissile"}}, 
+}

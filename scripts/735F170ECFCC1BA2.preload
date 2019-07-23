@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="quinnrreturntoquinn"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnr"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnpassivetargettracker"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnwtimingmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnbasicattacktarget"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnwinflight"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnpattackedtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnpassiveammo"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnw"}}, 
+}

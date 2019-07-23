@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_heal_rune.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinshieldrelicbuffheal"}}, 
+{Function=BBPreloadSpell, Params={Name="odinscoresmallrelic"}}, 
+}

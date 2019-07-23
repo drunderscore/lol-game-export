@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="bilgewatermercenary11_ringparticle_counter1.troy", SkinID="-1"}}, 
+}

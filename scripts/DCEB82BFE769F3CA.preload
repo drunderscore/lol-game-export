@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="zilean_base_e_stun_timer.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="zilean_base_q_mark.troy", SkinID="-1"}}, 
+}

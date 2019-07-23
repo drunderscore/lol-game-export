@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Diana/HUD/Icons2D/Diana_LunarShower_Invert.dds"
+BuffTextureName = L0_0
+L0_0 = "DianaShield"
+BuffName = L0_0

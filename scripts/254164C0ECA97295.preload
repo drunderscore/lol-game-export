@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jaycepassivebuild"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycepassivewaittimer"}}, 
+{Function=BBPreloadParticle, Params={Name="apollo_charged_hit.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="jayce_charged_hit.troy", SkinID="-1"}}, 
+}

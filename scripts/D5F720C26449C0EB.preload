@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeproc"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistamysticshot"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikemarkself"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikemarkally"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistaexpungemarker"}}, 
+}

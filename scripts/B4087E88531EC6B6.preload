@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeepostcast"}}, 
+{Function=BBPreloadModule, Params={Name="Zoe.ZoeFunctions"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeec"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeidlemanager"}}, 
+}

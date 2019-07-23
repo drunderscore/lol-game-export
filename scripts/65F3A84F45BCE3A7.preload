@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_reksaiecooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaitunnel"}}, 
+{Function=BBPreloadCharacter, Params={Name="reksaitunnel"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaitunnel"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaieminion"}}, 
+}

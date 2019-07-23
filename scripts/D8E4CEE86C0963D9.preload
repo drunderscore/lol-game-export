@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_stasis_variant_nearsight"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_event_bardleroyale"}}, 
+}

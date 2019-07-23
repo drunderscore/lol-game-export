@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="voidgate_power_buf.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ivernqallyjump"}}, 
+{Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernqrecast"}}, 
+{Function=BBPreloadParticle, Params={Name="ivern_base_q_hecarim_speed_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernrchargegolem"}}, 
+}

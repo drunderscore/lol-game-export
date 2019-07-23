@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Riven/HUD/Icons2D/Riven_Buffer.dds"
+BuffTextureName = L0_0
+L0_0 = "RivenTriCleaveBuff"
+BuffName = L0_0
+L0_0 = 1
+SpellToggleSlot = L0_0
+L0_0 = 0.5
+SpellDamageRatio = L0_0
+L0_0 = true
+NonDispellable = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

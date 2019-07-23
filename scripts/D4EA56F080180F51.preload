@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="namipassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="namirunspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+}

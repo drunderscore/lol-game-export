@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunebullets"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunebulletempty"}}, 
+{Function=BBPreloadSpell, Params={Name="missfortunebulletsound"}}, 
+}

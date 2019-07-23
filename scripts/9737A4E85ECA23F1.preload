@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="learningquestsincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsinplatform"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsinbase"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsbeforefirstturret"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsinenemybase"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsspellcaster"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsspellminionkiller"}}, 
+{Function=BBPreloadSpell, Params={Name="learningquestsitembuyer"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nocturneumbrablades"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturnepassivecooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturneduskbringerhaste"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturneduskbringer"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturneumbrabladestooltip"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturneehastemanager"}}, 
+}

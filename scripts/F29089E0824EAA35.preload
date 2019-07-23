@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="temp_kalista_mysticshot_tar.troy", SkinID="-1"}}, 
+}

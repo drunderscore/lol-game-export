@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="outofcombatdebuffmanager"}}, 
+{Function=BBPreloadCharacter, Params={Name="voidspawn"}}, 
+{Function=BBPreloadSpell, Params={Name="itemvoidgatespawn"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadCharacter, Params={Name="voidspawntracer"}}, 
+}

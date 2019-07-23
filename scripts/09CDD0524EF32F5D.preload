@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ezreal_essenceflux_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanprecoursevfx"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanplevel"}}, 
+}

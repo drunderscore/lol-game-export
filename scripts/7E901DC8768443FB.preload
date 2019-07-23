@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_FunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="item_energyshard_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_AIFunctions"}}, 
+}

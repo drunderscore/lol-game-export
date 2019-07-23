@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_curse_karthus_base_p_avatar.troy", SkinID="-1"}}, 
+}

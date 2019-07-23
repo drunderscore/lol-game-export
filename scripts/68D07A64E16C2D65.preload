@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeqmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeidlemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeqrecast"}}, 
+}

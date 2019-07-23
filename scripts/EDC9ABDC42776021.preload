@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="globalcamouflageenter_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageenter.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflagepersistant.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageexit_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageexit.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageshimmersfx.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflageshimmer.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflagerevealed.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcamouflagewarning"}}, 
+{Function=BBPreloadParticle, Params={Name="globalcamouflagerevealedprioritytarget.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcamouflageviewer"}}, 
+}

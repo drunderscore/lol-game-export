@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wormrecouperateon"}}, 
+{Function=BBPreloadSpell, Params={Name="wormrecoupdebuff"}}, 
+}

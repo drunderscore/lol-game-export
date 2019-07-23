@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "3184_Entropy.dds"
+BuffTextureName = L0_0
+L0_0 = "Entropy"
+BuffName = L0_0
+L0_0 = "Cape_neg_buf.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "GLOBAL_SLOW.TROY"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0

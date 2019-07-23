@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="pykepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="pykewpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="pykepassivevfx"}}, 
+}

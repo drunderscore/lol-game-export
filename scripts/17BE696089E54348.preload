@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tt_audio-altar_west_unlocked.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_audio-altar_east_unlocked.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="AurelionSol.AurelionSolFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="aurelionsolrattacklockouthack"}}, 
+{Function=BBPreloadSpell, Params={Name="aurelionsolrbeammissile"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+}

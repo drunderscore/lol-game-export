@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_sharedbuff_enemychampion"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_velkoz_base_w_turret_appear.troy", SkinID="-1"}}, 
+}

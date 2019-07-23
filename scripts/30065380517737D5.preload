@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_pykee"}}, 
+{Function=BBPreloadModule, Params={Name="TFT_Pyke.TFT_PykeFunctionModule"}}, 
+}

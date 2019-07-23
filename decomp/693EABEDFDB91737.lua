@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = false
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Bard/HUD/Icons2D/Bard_Meeps.dds"
+BuffTextureName = L0_0
+L0_0 = "BardPSpiritMissile"
+BuffName = L0_0
+L0_0 = 1
+SpellDamageRatio = L0_0
+L0_0 = true
+IsDeathRecapSource = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

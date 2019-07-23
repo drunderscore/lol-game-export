@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Qiyana.QiyanaQ"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanaq"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawenchantedbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanalockfacing"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanaq_grass_stealth_zone"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanaq_grass_stealth_buff"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanaq_explosionmissile"}}, 
+}

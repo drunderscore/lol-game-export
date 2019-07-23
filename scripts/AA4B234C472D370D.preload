@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_quest_buf.troy", SkinID="-1"}}, 
+}

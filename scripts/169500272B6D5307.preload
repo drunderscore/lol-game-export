@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="caitlynteamwork"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynaceinthehole"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxblocksound"}}, 
+{Function=BBPreloadSpell, Params={Name="viblocksound"}}, 
+}

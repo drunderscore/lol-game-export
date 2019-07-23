@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="monkeykingspintowinleave"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingspinmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingspinknockup"}}, 
+}

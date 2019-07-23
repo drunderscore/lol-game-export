@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "Summoner_clairvoyance.dds"
+BuffTextureName = L0_0
+L0_0 = "S5_LaneSigilBuff"
+BuffName = L0_0
+L0_0 = "GLOBAL_HASTE.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = true
+Nondispellable = L0_0

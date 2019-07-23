@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="halloweenurfcd"}}, 
+{Function=BBPreloadParticle, Params={Name="ghosturf.troy", SkinID="-1"}}, 
+}

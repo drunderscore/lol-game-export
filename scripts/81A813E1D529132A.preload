@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="annie_skin02_r_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="annie_skin09_r_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="annietibbers"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotannieinfernalguardiangrowth"}}, 
+{Function=BBPreloadSpell, Params={Name="tibbersfrenzybuff"}}, 
+}

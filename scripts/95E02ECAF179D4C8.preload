@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="luluwbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.ProjectMode17_FunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="projectmode17_ceremonybox"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_pickup_controller"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_startofgame"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_godmode"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_revealed"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_runningteam"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_endofgameceremony"}}, 
+}

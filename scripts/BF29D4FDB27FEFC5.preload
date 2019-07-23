@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="assassinmode_turrethandler"}}, 
+{Function=BBPreloadCharacter, Params={Name="assassinmode_mookcounticon"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_minimapindicator"}}, 
+{Function=BBPreloadCharacter, Params={Name="assassinmode_roamingunit"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_mookmanager"}}, 
+}

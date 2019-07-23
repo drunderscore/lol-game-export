@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tucameralock"}}, 
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tucameramove"}}, 
+}

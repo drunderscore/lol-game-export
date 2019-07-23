@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="npc_skarnerimpalevo"}}, 
+{Function=BBPreloadSpell, Params={Name="npc_skarnerimpalebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="npc_skarnerimpalerangecheck"}}, 
+}

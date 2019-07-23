@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="assassinmode_oni_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalinvisibilityexit_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalinvisibilityexit.troy", SkinID="-1"}}, 
+}

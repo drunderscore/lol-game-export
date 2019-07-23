@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tutorial_towerdisable.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="turretglowparticle"}}, 
+}

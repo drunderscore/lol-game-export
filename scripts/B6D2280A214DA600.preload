@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_casting"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_coreadv_omnislash_target"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_coreadv_omnislash_amp"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_coreadv_omnislash_zone"}}, 
+}

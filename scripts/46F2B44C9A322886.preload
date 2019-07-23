@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="nashor_rune_buf_big.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="nashor_rune_buf.troy", SkinID="-1"}}, 
+}

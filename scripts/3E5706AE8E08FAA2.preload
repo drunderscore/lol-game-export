@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odindamageinterruptmonitor"}}, 
+{Function=BBPreloadParticle, Params={Name="odincapturebeam.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinchannelvision"}}, 
+{Function=BBPreloadParticle, Params={Name="odincapturebeamengaged.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinbombsuppressionorder"}}, 
+{Function=BBPreloadSpell, Params={Name="odinbombsuppressionchaos"}}, 
+{Function=BBPreloadSpell, Params={Name="ascrelicsuppression"}}, 
+{Function=BBPreloadParticle, Params={Name="odincapturecancel.troy", SkinID="-1"}}, 
+}

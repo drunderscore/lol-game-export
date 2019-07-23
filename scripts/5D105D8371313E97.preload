@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_reksaiwbubblemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaiecooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaie"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaiincombat"}}, 
+}

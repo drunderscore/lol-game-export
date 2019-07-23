@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="globalhit_bloodslash_crit.troy", SkinID="-1"}}, 
+}

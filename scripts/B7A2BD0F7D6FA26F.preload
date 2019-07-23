@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="heraldinhibitorlistener"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_inlane_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_bloodspurt.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="minibaronincombat"}}, 
+}

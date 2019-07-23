@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zacemove"}}, 
+{Function=BBPreloadSpell, Params={Name="zacecdhack"}}, 
+}

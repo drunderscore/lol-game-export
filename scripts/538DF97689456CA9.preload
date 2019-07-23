@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="syndraq"}}, 
+{Function=BBPreloadCharacter, Params={Name="syndrasphere"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

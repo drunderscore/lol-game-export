@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nbots_rh_vulnerable"}}, 
+{Function=BBPreloadSpell, Params={Name="nbots_rh_vulnerablecooldown"}}, 
+}

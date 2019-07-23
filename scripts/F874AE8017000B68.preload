@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_emergencyshield_onhit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotluxr"}}, 
+{Function=BBPreloadSpell, Params={Name="siegelaseraffix"}}, 
+}

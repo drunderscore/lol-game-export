@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="azirqwrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="azirq"}}, 
+}

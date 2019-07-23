@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yorickrdummy"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickrbigghoulbeamparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickrmark"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickr"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="temp_kalista_w_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="kalistaspawn"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistawspawnmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistawspawninworld"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ContribScores"}}, 
+}

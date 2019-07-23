@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadParticle, Params={Name="akali_smoke_bomb_tar_team_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_akali_smokebomb_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritakalibuff"}}, 
+}

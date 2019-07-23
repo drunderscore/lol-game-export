@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kennenparticleholder"}}, 
+{Function=BBPreloadModule, Params={Name="Kennen.KennenRStatStoneTracker"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenmosdiminish"}}, 
+}

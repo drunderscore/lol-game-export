@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="akalip"}}, 
+{Function=BBPreloadSpell, Params={Name="akaliwstealthtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="isninja"}}, 
+{Function=BBPreloadSpell, Params={Name="globalgamephaseanalyzer"}}, 
+{Function=BBPreloadSpell, Params={Name="akalistatstonestealthtracker"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_velkoz"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_controlmixin_velkoz_standinplace"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_controlmixin_shortalternatingdisable"}}, 
+}

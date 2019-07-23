@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Alistar.AlistarFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="alistare"}}, 
+{Function=BBPreloadSpell, Params={Name="alistareimmunity"}}, 
+}

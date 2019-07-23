@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_breadcrumbs_placeunits"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_breadcrumbs_buyunits"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_breadcrumbs_buyxp"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_breadcrumbs_placeitems"}}, 
+}

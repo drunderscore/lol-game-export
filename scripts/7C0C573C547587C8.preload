@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="resistantskindragon"}}, 
+{Function=BBPreloadSpell, Params={Name="monsterminiondamageamp"}}, 
+{Function=BBPreloadSpell, Params={Name="s5_dragonvengeance"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_earthdragon_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonslain"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_dragon_activation_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_dragon_activation_buf_avatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffearth"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffearth_manager"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuff_tooltipmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="dragondamage"}}, 
+}

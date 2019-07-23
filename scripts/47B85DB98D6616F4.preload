@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuobasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuocritattack"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuobasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuocritattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuobasicattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuocritattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuobasicattack4"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuocritattack4"}}, 
+}

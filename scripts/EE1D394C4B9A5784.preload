@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="siegedefenseboardsweepshot"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_obliterator_runes_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_obliterator_runes_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_obliterator_crystal_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_obliterator_crystal_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_obliterator_warning.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_obliterator_warning_blue.troy", SkinID="-1"}}, 
+}

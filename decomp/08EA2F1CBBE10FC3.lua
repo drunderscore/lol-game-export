@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "BlindMonk_SightUnseeing.dds"
+BuffTextureName = L0_0
+L0_0 = "Blind"
+BuffName = L0_0
+L0_0 = "Global_miss.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_0

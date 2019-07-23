@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Zac/HUD/Icons2D/ZacR.dds"
+BuffTextureName = L0_0
+L0_0 = "ZacRPickup"
+BuffName = L0_0
+L0_0 = "r:Zac_R_tar"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Knockup"
+PopupMessage1 = L0_0

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Zac.ZacRDeathCheck"}}, 
+{Function=BBPreloadSpell, Params={Name="zacpassivespawnchunk"}}, 
+{Function=BBPreloadSpell, Params={Name="zacw"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrlockout"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrdeathcheck"}}, 
+}

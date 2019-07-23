@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sionpassivezombie"}}, 
+{Function=BBPreloadSpell, Params={Name="sionpassivesoundend"}}, 
+}

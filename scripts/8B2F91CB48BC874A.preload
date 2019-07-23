@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_dusk_nightfallpop_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_dusk_nightfallpop_tar2.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_dusk_nightfallmark_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemdusknightfallwillkill"}}, 
+}

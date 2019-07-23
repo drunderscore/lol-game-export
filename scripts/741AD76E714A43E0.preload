@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="npc_hazard_bubblegeyser_marker"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="npc_hazard_bubblegeyser_missile"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

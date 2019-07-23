@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundglobal"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrselfbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundfireball"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundexplosion"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrdmg"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundexplosionhitchampion"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundexplosionhitminion"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrtarget"}}, 
+}

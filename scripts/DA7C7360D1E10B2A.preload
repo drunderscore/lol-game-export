@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="alistar_base_e_trample_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="alistar_base_e_nosepuffs_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="alistar_base_e_head_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="alistar_base_e_hand_01.troy", SkinID="-1"}}, 
+}

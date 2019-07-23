@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="cripple"}}, 
+{Function=BBPreloadParticle, Params={Name="item_randuinsomen_cast.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellAttribution"}}, 
+{Function=BBPreloadParticle, Params={Name="3143_damagereduction.troy", SkinID="-1"}}, 
+}

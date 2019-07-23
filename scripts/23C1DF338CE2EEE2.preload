@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Kaisa.KaisaFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisapassivemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisapassivemarkervisual"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="philosophersstonecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="coinlinequesttracker"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="coinexpirationtimer"}}, 
+}

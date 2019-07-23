@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="feast"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_chogath_feast_internal"}}, 
+}

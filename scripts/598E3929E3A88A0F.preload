@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="planthawkshotbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_plant_vision_mis_sound.troy", SkinID="-1"}}, 
+}

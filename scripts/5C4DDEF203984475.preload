@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="lanterndashsound.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="colorfusiondash"}}, 
+{Function=BBPreloadSpell, Params={Name="colorfusiondashparticle"}}, 
+}

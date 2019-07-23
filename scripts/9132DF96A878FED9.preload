@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taricwleashinactive"}}, 
+{Function=BBPreloadSpell, Params={Name="taricwleashactive"}}, 
+}

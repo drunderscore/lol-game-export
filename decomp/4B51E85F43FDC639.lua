@@ -1,0 +1,4 @@
+SpellFXOverrideSkins = {
+  "IronForgeXerath",
+  "XerathSkin04"
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="graves_clustershot_tar.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_hextechicecannon_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemwillboltspellmissileslow"}}, 
+{Function=BBPreloadParticle, Params={Name="item_hextechicecannon_hit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

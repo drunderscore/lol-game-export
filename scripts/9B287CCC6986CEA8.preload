@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="orianapowerdagger"}}, 
+{Function=BBPreloadSpell, Params={Name="orianapowerdaggerdisplay"}}, 
+}

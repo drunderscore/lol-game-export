@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="darkstarmode_playerspawn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_enterarenaendflash.troy", SkinID="-1"}}, 
+}

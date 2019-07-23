@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tahmkenchrallycamerasnap"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchrcasting"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+}

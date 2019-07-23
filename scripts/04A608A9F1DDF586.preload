@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dravenspinningreturntracker"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinning"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_bomb_timer.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="asc_relic_sand_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="asc_relicprism_sand.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="starboss_cage.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_bomb_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

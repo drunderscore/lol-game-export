@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="warwick_base_lupine_udyr_spirit_bear_activation.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_ghost.troy", SkinID="-1"}}, 
+}

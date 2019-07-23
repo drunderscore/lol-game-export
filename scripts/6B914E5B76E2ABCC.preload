@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="spellthiefpenaltybuff"}}, 
+{Function=BBPreloadSpell, Params={Name="frostqueenslinequesttracker"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_trueicehit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="kagesluckypickdisplay"}}, 
+}

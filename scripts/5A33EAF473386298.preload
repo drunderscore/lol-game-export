@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="crestbigmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchallychannelmonitor"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchnautical"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchq_urfwrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchaahit"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenche"}}, 
+{Function=BBPreloadModule, Params={Name="TahmKench.TahmKenchFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchqtongueinflight"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwallybeingdevoured"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwisdevouring"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwpredevour"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkencheshield"}}, 
+}

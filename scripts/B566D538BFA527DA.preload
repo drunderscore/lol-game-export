@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="varusqwithwmaterial"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqempoweredwchargesfx"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqanimations"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqlaunchsound"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqlaunch"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqempoweredfired"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqblightlistener"}}, 
+}

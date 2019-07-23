@@ -1,0 +1,17 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_manaorb_spawner"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_wavemanager"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_voidspawn"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_spawningsickness"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_elitemonster"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_teleportspire"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_voidling"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_riftherald"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_fishthing"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_kogmaw"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_chogath"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_khazix"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_reksai"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_velkoz"}}, 
+{Function=BBPreloadCharacter, Params={Name="sg_skarner"}}, 
+}

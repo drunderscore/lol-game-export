@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="singedwstatstonetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="megaadhesivetarget"}}, 
+{Function=BBPreloadSpell, Params={Name="megaadhesive"}}, 
+{Function=BBPreloadSpell, Params={Name="grounded"}}, 
+}

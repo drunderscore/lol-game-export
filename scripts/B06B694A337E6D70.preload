@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tuswapchamp_spawnstatue"}}, 
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tuhideplayer"}}, 
+}

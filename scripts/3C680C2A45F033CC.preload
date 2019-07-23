@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalinvisibility"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_rewardaggrostealthoncd"}}, 
+}

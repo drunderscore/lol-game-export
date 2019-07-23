@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ahritumble"}}, 
+{Function=BBPreloadSpell, Params={Name="ahripassivehitcounter"}}, 
+{Function=BBPreloadSpell, Params={Name="ahriorbofdeception"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="stealth"}}, 
+{Function=BBPreloadSpell, Params={Name="jhine"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinrsight"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinespotteddebuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="jhintrap"}}, 
+{Function=BBPreloadParticle, Params={Name="teemo_base_r_groundimpact_dust.troy", SkinID="-1"}}, 
+}

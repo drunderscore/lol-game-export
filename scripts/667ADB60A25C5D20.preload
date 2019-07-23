@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Pyke.PykeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="pykerapplydamage"}}, 
+{Function=BBPreloadSpell, Params={Name="pykertrail"}}, 
+{Function=BBPreloadModule, Params={Name="Pyke.PykeGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="pykerrecast"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="pykercasting"}}, 
+}

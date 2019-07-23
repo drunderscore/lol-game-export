@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="leonasolarflarevision"}}, 
+{Function=BBPreloadSpell, Params={Name="leonarattackbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Leona.LeonaSunlightPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="leonasolarflareslow"}}, 
+}

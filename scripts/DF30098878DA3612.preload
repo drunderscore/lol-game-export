@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="corkiloadupcd"}}, 
+{Function=BBPreloadSpell, Params={Name="rapidreload"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindammoupdate"}}, 
+}

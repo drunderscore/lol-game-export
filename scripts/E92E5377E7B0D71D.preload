@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_GlobalUnitMovement"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_item_sheeneffect_buff"}}, 
+}

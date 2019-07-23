@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistarallyspelllock"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistarallycameralock"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistarallylineupdater"}}, 
+}

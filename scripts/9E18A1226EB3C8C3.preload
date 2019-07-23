@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemwillboltspellmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="boltsharedcd"}}, 
+}

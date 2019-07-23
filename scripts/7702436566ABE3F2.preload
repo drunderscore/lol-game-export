@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wolfman_bloodscent_marker.troy", SkinID="-1"}}, 
+}

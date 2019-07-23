@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zyraehold"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrapheromonedamage"}}, 
+{Function=BBPreloadParticle, Params={Name="zyra_p_seed_growth_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Zyra.ZyraFunctionModule"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_frozen_gauntlet_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_frozen_gauntlet_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_itemslow"}}, 
+}

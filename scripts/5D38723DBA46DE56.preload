@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_healthpackheal.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="summoner_mana.troy", SkinID="-1"}}, 
+}

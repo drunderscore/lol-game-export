@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_emergencyshield_timer.troy", SkinID="-1"}}, 
+}

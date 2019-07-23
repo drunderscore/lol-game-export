@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.NightmareBot_Functions"}}, 
+{Function=BBPreloadModule, Params={Name="Global.DoomBotsFunctionModule"}}, 
+}

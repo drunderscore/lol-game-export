@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = "Maokai_SapMagicReady.dds"
+BuffTextureName = L0_0
+L0_0 = "MaokaiSapMagicMelee"
+BuffName = L0_0
+L0_0 = "Maokai_Base_P_Left_Eye.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "BUFFBONE_CSTM_SHIELDEYE_L"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "Maokai_Base_P_Right_Eye.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "BUFFBONE_CSTM_SHIELDEYE_R"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = "Maokai_Base_P_cas.troy"
+AutoBuffActivateEffect3 = L0_0
+L0_0 = "L_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName3 = L0_0

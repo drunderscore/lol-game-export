@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaynpassiveabsorbmissileslay"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynpassiveabsorbmissileass"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynpassiveabsorbmissileslaylocation"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynpassiveabsorbmissileasslocation"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynq"}}, 
+}

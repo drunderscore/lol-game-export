@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tremorsslowvisual"}}, 
+{Function=BBPreloadSpell, Params={Name="tremorsslow"}}, 
+}

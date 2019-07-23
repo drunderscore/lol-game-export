@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="skarnerpassivecrystal"}}, 
+{Function=BBPreloadSpell, Params={Name="skarnerpassivecrystalbuff"}}, 
+}

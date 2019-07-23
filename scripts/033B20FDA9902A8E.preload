@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="reksaiqattack"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiqattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiqattack3"}}, 
+}

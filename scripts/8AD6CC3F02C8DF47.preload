@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="teleporthome_shortimproved.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="teleportarrive.troy", SkinID="-1"}}, 
+}

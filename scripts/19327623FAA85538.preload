@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="malzaharpassiveshield"}}, 
+{Function=BBPreloadSpell, Params={Name="malzaharpassiveshieldcooldown"}}, 
+}

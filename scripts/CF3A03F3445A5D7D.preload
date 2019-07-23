@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wujustylevisual"}}, 
+{Function=BBPreloadSpell, Params={Name="wujustylesupercharged"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemzekesconduitdisplayally"}}, 
+{Function=BBPreloadParticle, Params={Name="zekesdistanceindicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="zekesdistanceindicatornotactive.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="zekestetheractive.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemstarksbindingallyproc"}}, 
+{Function=BBPreloadSpell, Params={Name="itemstarksbindingbufferproc"}}, 
+}

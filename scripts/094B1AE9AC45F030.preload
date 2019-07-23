@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rivenlightsabermissiledebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rivenfengshuiengine"}}, 
+}

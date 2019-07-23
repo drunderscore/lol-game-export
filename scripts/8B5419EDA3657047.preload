@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="malzahar_base_w_beam.troy", SkinID="-1"}}, 
+}

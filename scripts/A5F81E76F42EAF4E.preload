@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannondeathfix"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannonpartfix"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannonpartfix2"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannonbeam"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannonball"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannonmis"}}, 
+}

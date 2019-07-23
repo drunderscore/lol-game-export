@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Yorick.YorickEFrenzy"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickghouljump"}}, 
+}

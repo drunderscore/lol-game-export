@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizze"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+}

@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ahripassive"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="ahrilastattacked"}}, 
+{Function=BBPreloadSpell, Params={Name="ahrisoulcrushercounter"}}, 
+{Function=BBPreloadSpell, Params={Name="ahriorbofdeception"}}, 
+{Function=BBPreloadSpell, Params={Name="ahrisoulcrusher"}}, 
+{Function=BBPreloadSpell, Params={Name="ahridefaultorbvfxbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ahripassiveorbvfxbuff"}}, 
+}

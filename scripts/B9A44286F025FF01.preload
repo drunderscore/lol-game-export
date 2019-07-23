@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Syndra.CharFunctionSyndra"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawcast"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawtooltip"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraqspell"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawneutralfix"}}, 
+}

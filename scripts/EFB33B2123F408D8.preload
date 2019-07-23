@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoq1"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoq1wrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoq2"}}, 
+}

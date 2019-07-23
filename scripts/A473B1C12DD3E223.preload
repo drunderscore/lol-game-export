@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistaraestheticmis"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistavorallylowhealth"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistavornormal"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistarchannelandcastmanager"}}, 
+}

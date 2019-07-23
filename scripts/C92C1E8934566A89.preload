@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="evelynnw"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnwcharmslow"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnwcharmvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnwshred"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

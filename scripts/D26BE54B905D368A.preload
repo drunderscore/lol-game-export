@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_unitbuff_star2_shader_high"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_unitbuff_star3_shader_high"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff_Items"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_requestmakeitemforplayer"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_unitbuff_upgradeceremony_dissolve"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_star2combinemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_star3combinemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_playgameannouncement"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff"}}, 
+}

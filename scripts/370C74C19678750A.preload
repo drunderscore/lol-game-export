@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="khazixw"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixwsight"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixwisolatedslow"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixwevoslow"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixwexplosioncheck"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixwselfhealing"}}, 
+}

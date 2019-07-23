@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Spells/Icons2D/GSB_stun.dds"
+BuffTextureName = L0_0
+L0_0 = "OrianaStun"
+BuffName = L0_0
+L0_0 = "LOC_Stun.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "game_floatingtext_Knockup"
+PopupMessage1 = L0_0

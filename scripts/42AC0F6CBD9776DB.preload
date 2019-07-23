@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_betweenrounds"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_roomendexplosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_gameend_winceremony"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_gameend_win"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_dohallscore"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_doroomscore"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_endroundnoscore"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_gameend_loss"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_wavefailed"}}, 
+}

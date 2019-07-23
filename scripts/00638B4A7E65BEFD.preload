@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_khazixpdamage"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_r_evo2_invisible_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_r_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixrstealth"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_r_invisible.troy", SkinID="-1"}}, 
+}

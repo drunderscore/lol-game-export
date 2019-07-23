@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_revive_inprogress.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_reviveinvuln"}}, 
+}

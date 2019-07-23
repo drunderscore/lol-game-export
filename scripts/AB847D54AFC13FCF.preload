@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmonsterbountyminionborderbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmonsterbountyownershipmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmonsterbountylockout"}}, 
+}

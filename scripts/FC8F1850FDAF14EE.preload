@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="suppression"}}, 
+{Function=BBPreloadSpell, Params={Name="infiniteduresschannel"}}, 
+{Function=BBPreloadSpell, Params={Name="infiniteduresssound"}}, 
+}

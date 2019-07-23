@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="superminionaura"}}, 
+{Function=BBPreloadSpell, Params={Name="ha_superminionchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="howlingabysscombatmanager"}}, 
+}

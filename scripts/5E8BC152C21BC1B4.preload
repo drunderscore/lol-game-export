@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="haste_proc.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_GlobalUnitMovement"}}, 
+}

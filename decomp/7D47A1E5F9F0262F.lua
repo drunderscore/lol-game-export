@@ -1,0 +1,3 @@
+SpellVOOverrideSkins = {
+  "HyenaTFT_Warwick"
+}

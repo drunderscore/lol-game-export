@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff_Camera"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff_cameraselflock"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_Players"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_tryperformcameramove"}}, 
+}

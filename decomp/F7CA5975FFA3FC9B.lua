@@ -1,0 +1,13 @@
+local L0_0, L1_1
+L0_0 = "r:Volibear_W_MaxStack_ind_01"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "r:Volibear_W_MaxStack_ind_cas_01"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "L_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = "r:Volibear_W_MaxStack_ind_cas_01"
+AutoBuffActivateEffect3 = L0_0
+L0_0 = "R_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName3 = L0_0

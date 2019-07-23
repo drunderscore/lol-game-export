@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemangelhandbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="item_athenesunholygrail_healbeam.troy", SkinID="-1"}}, 
+}

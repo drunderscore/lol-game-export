@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitee"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiteeechotracker"}}, 
+{Function=BBPreloadSpell, Params={Name="landslide"}}, 
+}

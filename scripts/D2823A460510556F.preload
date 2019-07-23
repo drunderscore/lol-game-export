@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="howlingabyssporocooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="itemporosnackgrow"}}, 
+{Function=BBPreloadSpell, Params={Name="howlingabyssporoaction"}}, 
+}

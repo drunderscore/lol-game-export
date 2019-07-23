@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="warwickwpassivevfx"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwpassivevfx2"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwpassivevfx1"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwcameraboundvfxnear"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwcameraboundvfxfar"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwpaudioselfonly"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwp2"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwp"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwp1"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwtrackingtrailvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwpassivems"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwpassivemsdisabled"}}, 
+}

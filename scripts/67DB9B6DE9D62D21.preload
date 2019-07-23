@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="swainrsoulflare"}}, 
+{Function=BBPreloadSpell, Params={Name="swainrhealcounter"}}, 
+{Function=BBPreloadCharacter, Params={Name="swaindemonform"}}, 
+{Function=BBPreloadSpell, Params={Name="swainrmeganovamissile"}}, 
+{Function=BBPreloadSpell, Params={Name="swainrsoulprogression"}}, 
+{Function=BBPreloadSpell, Params={Name="swainrsoulburn"}}, 
+}

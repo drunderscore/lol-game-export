@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odinscorebigrelic"}}, 
+{Function=BBPreloadSpell, Params={Name="odinbombsuccessparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="odinspawnultras"}}, 
+}

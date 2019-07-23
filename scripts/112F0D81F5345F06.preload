@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemtitanichydraprojectilemarker"}}, 
+{Function=BBPreloadParticle, Params={Name="gangplank_base_q_gold.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="gangplank_base_q_token.troy", SkinID="-1"}}, 
+}

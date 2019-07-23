@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="vaynehunted"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneinquisitionspeedpart"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneinquisitionspeedpartnormal"}}, 
+{Function=BBPreloadSpell, Params={Name="vaynerdamagedmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="vaynetumblefade"}}, 
+{Function=BBPreloadSpell, Params={Name="vaynetumble"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="introbotdamageindicatorminion.troy", SkinID="-1"}}, 
+}

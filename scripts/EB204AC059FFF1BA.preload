@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalpolymorphhasbegun"}}, 
+{Function=BBPreloadSpell, Params={Name="luluw"}}, 
+{Function=BBPreloadCharacter, Params={Name="lulucupcake"}}, 
+{Function=BBPreloadCharacter, Params={Name="lulukitty"}}, 
+{Function=BBPreloadCharacter, Params={Name="luludragon"}}, 
+{Function=BBPreloadCharacter, Params={Name="lulusnowman"}}, 
+{Function=BBPreloadCharacter, Params={Name="luluseal"}}, 
+{Function=BBPreloadCharacter, Params={Name="lulublob"}}, 
+{Function=BBPreloadCharacter, Params={Name="lulusquill"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="disarm"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siegedeployablesharedbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_activate.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_rangering_pulsed.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegebarracksminionbufflines"}}, 
+{Function=BBPreloadSpell, Params={Name="siegebarracksminionbuff"}}, 
+}

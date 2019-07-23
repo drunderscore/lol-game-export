@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="bilgewatermercenary11_ringparticle_pop.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="bilgewatermercenary11ring"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_ghost.troy", SkinID="-1"}}, 
+}

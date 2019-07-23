@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_haste.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="3907_item_max_stacks.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="3907_item_buff.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jaycetotheskies"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycestaticfield"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycethunderingblow"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycestancehtg"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycepassivemeleeattack"}}, 
+}

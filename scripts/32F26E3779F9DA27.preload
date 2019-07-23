@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gangplankebarreldecay"}}, 
+{Function=BBPreloadSpell, Params={Name="forbiddenfromrepositioning"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrellink"}}, 
+{Function=BBPreloadParticle, Params={Name="goldaquisition_glb.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankpassivehaste"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrelchainvo"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankevomissfortune"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankeshred"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplanke"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrelwilldetonate"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrelexplosionsound"}}, 
+}

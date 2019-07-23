@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="shyvanatransform"}}, 
+{Function=BBPreloadSpell, Params={Name="shyvanatransformcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="shyvanatransformdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="shyvanatransformcast"}}, 
+}

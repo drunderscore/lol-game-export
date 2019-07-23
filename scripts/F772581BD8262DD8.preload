@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="brandpassivesound"}}, 
+{Function=BBPreloadSpell, Params={Name="brandablaze"}}, 
+}

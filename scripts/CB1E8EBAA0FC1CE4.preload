@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bardq"}}, 
+{Function=BBPreloadSpell, Params={Name="bardqparticlecontroller"}}, 
+{Function=BBPreloadSpell, Params={Name="bardqshackledebuff"}}, 
+}

@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ashetauntsejuani"}}, 
+{Function=BBPreloadSpell, Params={Name="ashetauntlissandra"}}, 
+{Function=BBPreloadSpell, Params={Name="threesisters"}}, 
+{Function=BBPreloadSpell, Params={Name="ashepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="asherunspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="asheskin08manager"}}, 
+{Function=BBPreloadSpell, Params={Name="volleyattack"}}, 
+{Function=BBPreloadSpell, Params={Name="volleycenterattack"}}, 
+{Function=BBPreloadSpell, Params={Name="volleyrightattack"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jinxqramp"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxqrampcontroller2"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxqrampcontroller"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeproc"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeprotect"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikemarkself"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikemarkally"}}, 
+}

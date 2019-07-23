@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadModule, Params={Name="Yorick.YorickFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickghouljump"}}, 
+}

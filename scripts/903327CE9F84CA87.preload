@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="visionward"}}, 
+{Function=BBPreloadCharacter, Params={Name="visionward"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="trinkettotemlvl3audio"}}, 
+{Function=BBPreloadSpell, Params={Name="wardbounty"}}, 
+{Function=BBPreloadSpell, Params={Name="itemplacementmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryscoutbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="dummywardtracker"}}, 
+}

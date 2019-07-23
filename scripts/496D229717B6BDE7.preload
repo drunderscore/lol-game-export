@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="assassinmode_objective_boss2_vulnerablecooldown"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_objective_boss2_eyeclosed.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_objective_boss2_eyeglow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_objective_boss2_avatar_eyeglow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_objective_boss2_bloodspurt.troy", SkinID="-1"}}, 
+}

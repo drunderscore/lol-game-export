@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="3907buff"}}, 
+{Function=BBPreloadSpell, Params={Name="3907counter"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="nidalee_extra_trap_particle.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="bushwhackdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="nidaleepassivehunted"}}, 
+{Function=BBPreloadParticle, Params={Name="nidalee_bushwhack_trigger_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="stealth"}}, 
+{Function=BBPreloadCharacter, Params={Name="nidaleespear"}}, 
+}

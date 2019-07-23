@@ -1,0 +1,17 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerqammo"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerturretready"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerturrettimer2"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerswagger"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerpentakill"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerrqvo"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerqvo"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerrwvo"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerwvo"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerevo"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerrevo"}}, 
+}

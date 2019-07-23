@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="varusq"}}, 
+{Function=BBPreloadSpell, Params={Name="varusw"}}, 
+{Function=BBPreloadSpell, Params={Name="varusqspellshieldcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="varuswdetonate"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

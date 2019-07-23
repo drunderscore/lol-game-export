@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Syndra.CharFunctionSyndra"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraesound"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraemissile3"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraemissile2"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CustomTables"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraebump"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrae"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraespheremissile"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraedebuff"}}, 
+}

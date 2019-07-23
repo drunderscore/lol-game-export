@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="disconnecttimer"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalinternaldebug"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Smite"}}, 
+{Function=BBPreloadSpell, Params={Name="globalchampionexclusiontables"}}, 
+{Function=BBPreloadSpell, Params={Name="contribscoreccdata"}}, 
+{Function=BBPreloadSpell, Params={Name="contribscorewarddata"}}, 
+{Function=BBPreloadSpell, Params={Name="contribscorevisiondata"}}, 
+{Function=BBPreloadSpell, Params={Name="emotecontrollerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampiontrinketcooldownmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="bounties_outofcombatmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="positivechampiondelta"}}, 
+{Function=BBPreloadSpell, Params={Name="globalleftcombat"}}, 
+}

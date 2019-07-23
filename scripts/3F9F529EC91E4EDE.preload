@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ziggsshortfuse"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellPings"}}, 
+}

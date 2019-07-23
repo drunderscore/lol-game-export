@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siegeoffensewarptarget"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_order_starting_platform.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_warppoint_minionscored.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_warppoint_minionscored_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_warppointdamage_beam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_warppointdamage_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegewarppointdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeminionstatbuff"}}, 
+}

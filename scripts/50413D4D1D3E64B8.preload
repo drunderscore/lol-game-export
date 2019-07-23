@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadCharacter, Params={Name="zyraseed"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrapqueenofthornsseed"}}, 
+{Function=BBPreloadSpell, Params={Name="zyraexpirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrapassivedeathmanager"}}, 
+}

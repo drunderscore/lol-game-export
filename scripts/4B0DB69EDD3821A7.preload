@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="kledqmissile"}}, 
+}

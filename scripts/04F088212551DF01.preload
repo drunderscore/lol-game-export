@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="reksairdeclineinterruptsbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="reksair"}}, 
+}

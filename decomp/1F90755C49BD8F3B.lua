@@ -1,0 +1,13 @@
+local L0_0, L1_1
+L0_0 = "126_Zeal_and_Sheen.dds"
+BuffTextureName = L0_0
+L0_0 = "LichBane"
+BuffName = L0_0
+L0_0 = "Item_Lichbane_Glow_buf.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "L_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "Item_Lichbane_Glow_buf.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "R_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName2 = L0_0

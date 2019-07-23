@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_w_heal.troy", SkinID="-1"}}, 
+}

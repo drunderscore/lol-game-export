@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taliyahrnoclick"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcannotclickobjects"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadModule, Params={Name="Taliyah.FunctionsTaliyah"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrdistantsound"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrmis"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrblowupsoundmis"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrpresurf"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrknockedoffwallsound"}}, 
+}

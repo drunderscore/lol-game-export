@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxwcenter"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxe"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadModule, Params={Name="Aatrox.AatroxFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="aatroxwbump"}}, 
+}

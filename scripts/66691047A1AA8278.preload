@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="hungeringstrikefire_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="hungeringstrike_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globaldrain"}}, 
+{Function=BBPreloadParticle, Params={Name="meditate_eff.troy", SkinID="-1"}}, 
+}

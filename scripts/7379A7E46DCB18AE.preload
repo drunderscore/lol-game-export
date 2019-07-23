@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_bossteemo_movequick_buff.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_flash.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_flash_02.troy", SkinID="-1"}}, 
+}

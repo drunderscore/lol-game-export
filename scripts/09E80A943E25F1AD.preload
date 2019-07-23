@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kingporo_dropindicator_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_dropindicator_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_drop_aoe_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="kingporofalldamage"}}, 
+{Function=BBPreloadSpell, Params={Name="kingporomarker"}}, 
+}

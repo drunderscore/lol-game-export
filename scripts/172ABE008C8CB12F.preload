@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_item_boc_sheild.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_boc_activate.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="turretshield"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellAttribution"}}, 
+{Function=BBPreloadSpell, Params={Name="itempromotekilltracker"}}, 
+}

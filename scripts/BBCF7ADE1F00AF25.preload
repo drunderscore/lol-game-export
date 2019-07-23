@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sejuanipassivedefense"}}, 
+{Function=BBPreloadModule, Params={Name="Sejuani.SejuaniFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Sejuani.SejuaniPassive"}}, 
+}

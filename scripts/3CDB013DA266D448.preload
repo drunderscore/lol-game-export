@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="thresh_skin05_z_dome_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="thresh_skin05_idle_comet_01.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ashe_base_freeze.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_item_fom_bomb.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_bomb_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_shield_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_detonate.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_detonate_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_supportdetonatehit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="rylaivisualslowdot"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_hit.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_hit_red.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siphoningstrike"}}, 
+{Function=BBPreloadSpell, Params={Name="nasusq"}}, 
+{Function=BBPreloadSpell, Params={Name="veigarbalefulstrike"}}, 
+}

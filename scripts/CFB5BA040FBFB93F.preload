@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_echoslam"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_echoslam_slow"}}, 
+}

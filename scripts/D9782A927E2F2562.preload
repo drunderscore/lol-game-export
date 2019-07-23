@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="azirsoldier"}}, 
+{Function=BBPreloadSpell, Params={Name="azirwsandsoldier"}}, 
+{Function=BBPreloadSpell, Params={Name="azirwspawnsound"}}, 
+{Function=BBPreloadModule, Params={Name="Azir.AzirFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CustomTables"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrpoppedspellshield"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrbump"}}, 
+{Function=BBPreloadSpell, Params={Name="aziredamage"}}, 
+}

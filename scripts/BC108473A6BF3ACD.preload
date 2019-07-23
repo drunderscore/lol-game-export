@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="npcinitializer"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_sharedmonsterbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_packleader"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_pack"}}, 
+}

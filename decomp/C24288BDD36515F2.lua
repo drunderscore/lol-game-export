@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Fiddlesticks/HUD/Icons2D/Fiddlesticks_Crowstorm.dds"
+BuffTextureName = L0_0
+L0_0 = "NightmareBotFiddlesticksBuff"
+BuffName = L0_0
+L0_0 = true
+IsDeathRecapSource = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0

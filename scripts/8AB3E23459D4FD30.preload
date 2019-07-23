@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="poro_poroexplosion.troy", SkinID="-1"}}, 
+}

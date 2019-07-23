@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="xerath_e_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="xerath_barrage_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="xeratharcanebarrage2"}}, 
+{Function=BBPreloadParticle, Params={Name="xerath_magechains_consume.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="xerathmagechainsroot"}}, 
+}

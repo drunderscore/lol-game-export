@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_summon_channel.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellAttribution"}}, 
+{Function=BBPreloadSpell, Params={Name="riftheraldmercenary"}}, 
+{Function=BBPreloadCharacter, Params={Name="slime_riftherald_mercenary"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_riftheraldmercenary"}}, 
+}

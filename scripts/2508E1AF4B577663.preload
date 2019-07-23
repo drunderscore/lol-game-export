@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gragasq"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="gragasqboom"}}, 
+{Function=BBPreloadSpell, Params={Name="gragasqrender"}}, 
+}

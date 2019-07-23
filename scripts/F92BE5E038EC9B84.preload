@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_sharedbuff_enemychampions"}}, 
+{Function=BBPreloadSpell, Params={Name="haste"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_AIFunctions"}}, 
+}

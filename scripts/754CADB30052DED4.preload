@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="nassus_spiritfire_afterburn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="nassus_spiritfire_tar_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="nassus_spiritfire_tar_red.troy", SkinID="-1"}}, 
+}

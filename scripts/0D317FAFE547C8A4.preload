@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="armsmaster_empower_self_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="armsmaster_empower_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="empowertwohit_tar.troy", SkinID="-1"}}, 
+}

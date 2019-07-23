@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_qrevo2_buf_left.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_qrevo2_buf_right.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_qevo2_buf_left.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_qevo2_buf_right.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_revo2_buf_left.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_revo2_buf_right.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_buf_left.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_buf_right.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixpslow"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixrinternalcd"}}, 
+}

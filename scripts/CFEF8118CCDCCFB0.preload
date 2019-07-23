@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqinternal"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfccroot"}}, 
+{Function=BBPreloadSpell, Params={Name="threshwduringqsupport"}}, 
+}

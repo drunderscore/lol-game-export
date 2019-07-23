@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "Giantwolf_Square.dds"
+BuffTextureName = L0_0
+L0_0 = "S5JungleMushroomPoison"
+BuffName = L0_0
+L0_0 = 1
+SpellDamageRatio = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0
+L0_0 = true
+NonDispellable = L0_0

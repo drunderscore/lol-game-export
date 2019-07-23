@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="corkibombdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="ufslash"}}, 
+{Function=BBPreloadSpell, Params={Name="valkyriesound"}}, 
+{Function=BBPreloadSpell, Params={Name="corkibombmark"}}, 
+{Function=BBPreloadSpell, Params={Name="corkibombmoveaway"}}, 
+{Function=BBPreloadSpell, Params={Name="dangerzoneloadedtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="corkicarpetbombmegalife"}}, 
+}

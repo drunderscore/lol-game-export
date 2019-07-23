@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="npc_kogmaw_base_w_buff_end.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_AIFunctions"}}, 
+}

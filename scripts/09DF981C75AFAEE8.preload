@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_haste.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_knightsvow_link.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_knightsvow_link_broken.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="liege_crown.troy", SkinID="-1"}}, 
+}

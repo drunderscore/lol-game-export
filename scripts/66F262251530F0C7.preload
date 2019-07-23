@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_spiritthief_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_spiritthief_manaheallarge.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_spiritthief_manaheal.troy", SkinID="-1"}}, 
+}

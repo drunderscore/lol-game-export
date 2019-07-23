@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = "SG_KogMaw_VoidOoze.dds"
+BuffTextureName = L0_0
+L0_0 = "SG_KogMawVoidOoze"
+BuffName = L0_0
+L0_0 = "global_slow.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0

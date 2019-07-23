@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="projectmode17_health_pickup_tar.troy", SkinID="-1"}}, 
+}

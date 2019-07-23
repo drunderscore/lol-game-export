@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_giantdart_explo.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_giantdart_debuff.troy", SkinID="-1"}}, 
+{Function=BBPreloadTexture, Params={Name="doombotsgiantdart_screenoverlay.dds"}}, 
+}

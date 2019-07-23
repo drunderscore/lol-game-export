@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="brushpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="nidaleepassivehunt"}}, 
+{Function=BBPreloadSpell, Params={Name="nidaleerecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="primalsurge"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="hexdrinkertimercd"}}, 
+{Function=BBPreloadParticle, Params={Name="hextech_dmg_shield_onhit_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="hextech_dmg_shield_onhit_02.troy", SkinID="-1"}}, 
+}

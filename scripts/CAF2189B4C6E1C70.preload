@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="facingme"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="tryndamerepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="tryndamereq"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="evelynn_r_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnr"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnrheal"}}, 
+}

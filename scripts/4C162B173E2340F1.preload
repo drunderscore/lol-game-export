@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="turretpackage"}}, 
+{Function=BBPreloadSpell, Params={Name="azirturretstatincrease"}}, 
+{Function=BBPreloadParticle, Params={Name="empty.troy", SkinID="-1"}}, 
+}

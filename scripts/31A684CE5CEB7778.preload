@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_gromp_catcher"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_gromp_charger"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_gromp_shielder"}}, 
+}

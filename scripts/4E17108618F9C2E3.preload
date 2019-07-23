@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Jayce.JayceFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="jayceshockblast"}}, 
+{Function=BBPreloadSpell, Params={Name="jayceshockblastwallmis"}}, 
+{Function=BBPreloadSpell, Params={Name="jayceshockblastwallsound"}}, 
+}

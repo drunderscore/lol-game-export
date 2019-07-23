@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="cursedtouchmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="amumuvfxmanagerskin08"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotamumubuff"}}, 
+{Function=BBPreloadSpell, Params={Name="cursedtouch"}}, 
+{Function=BBPreloadSpell, Params={Name="tantrum"}}, 
+}

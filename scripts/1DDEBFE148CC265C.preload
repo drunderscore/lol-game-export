@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="talentreapervfx"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fotm_heal.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreaperdisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="targonslinequesttracker"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fom_execute.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreapermarker"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreaperstacksone"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreaperstackstwo"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreaperstacksthree"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreaperstacksfour"}}, 
+}

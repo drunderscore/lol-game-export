@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siegeflashzonespell"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ezreal_essenceflux_tar.troy", SkinID="-1"}}, 
+}

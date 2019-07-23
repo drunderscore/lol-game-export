@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ashee_cangetassist"}}, 
+{Function=BBPreloadParticle, Params={Name="global_watched.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ContribScores"}}, 
+}

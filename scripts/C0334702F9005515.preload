@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalcamouflage"}}, 
+{Function=BBPreloadParticle, Params={Name="npc_khazix_base_r_end.troy", SkinID="-1"}}, 
+}

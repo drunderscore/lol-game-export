@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wow_base_w_orb_orange.troy", SkinID="-1"}}, 
+}

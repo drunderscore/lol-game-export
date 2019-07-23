@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leblancqcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancrw"}}, 
+{Function=BBPreloadModule, Params={Name="Leblanc.LeblancFunctionModule"}}, 
+}

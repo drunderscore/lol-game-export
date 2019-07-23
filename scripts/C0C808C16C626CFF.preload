@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="zyra_p_seed_growth_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrapheromonedamage"}}, 
+{Function=BBPreloadCharacter, Params={Name="zyrathornplant"}}, 
+{Function=BBPreloadParticle, Params={Name="zyra_e_sequence_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="zyraqplant"}}, 
+{Function=BBPreloadParticle, Params={Name="zyra_plant_spawn_vo_spitter.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="zacrebirthbloblet"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrebirthblob"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrebirthvisibilitymanager"}}, 
+{Function=BBPreloadParticle, Params={Name="zac_rebirth_sound.troy", SkinID="-1"}}, 
+}

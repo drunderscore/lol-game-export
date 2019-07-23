@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dravenr"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenrdoublecast"}}, 
+{Function=BBPreloadSpell, Params={Name="cantattack"}}, 
+}

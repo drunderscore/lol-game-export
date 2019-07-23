@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="spelleffect_proc.troy", SkinID="-1"}}, 
+}

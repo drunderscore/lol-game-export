@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_skarner_skin03_w_cas_exhaust_r.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_skarner_skin03_w_cas_exhaust_l.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_skarner_skin03_w_cas_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_skarnerexoskeleton"}}, 
+}

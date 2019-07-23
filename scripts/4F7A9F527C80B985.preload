@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="garenpassiveally"}}, 
+{Function=BBPreloadSpell, Params={Name="garenpassiveenemytarget"}}, 
+}

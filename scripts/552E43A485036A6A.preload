@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="siegecurrency"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeattackingdelayedcurrencyindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeattackingteamquestmarker"}}, 
+}

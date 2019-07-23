@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tutorial_waypoint_yellow.troy", SkinID="-1"}}, 
+}

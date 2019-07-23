@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynhimselfhaswarningminion"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynewarningminionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynenemyhasewarningminion"}}, 
+}

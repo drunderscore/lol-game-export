@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = false
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Sion/HUD/Icons2D/Sion_Q.dds"
+BuffTextureName = L0_0
+L0_0 = "SionQSlow"
+BuffName = L0_0
+L0_0 = "Global_Slow.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = 1
+SpellToggleSlot = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_arenaroundparticipanttracker"}}, 
+{Function=BBPreloadSpell, Params={Name="grievouswound"}}, 
+}

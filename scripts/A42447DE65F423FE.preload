@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ezreal_pulsefire_minion_death.troy", SkinID="-1"}}, 
+}

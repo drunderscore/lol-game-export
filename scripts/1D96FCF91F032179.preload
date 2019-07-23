@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="powerballcancel"}}, 
+{Function=BBPreloadCharacter, Params={Name="rammuspb"}}, 
+{Function=BBPreloadSpell, Params={Name="powerballdamage"}}, 
+}

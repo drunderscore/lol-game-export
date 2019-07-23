@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="egolasheractivecounter"}}, 
+{Function=BBPreloadSpell, Params={Name="egolasheractivemarker"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ivernbasicattackranged"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernw"}}, 
+}

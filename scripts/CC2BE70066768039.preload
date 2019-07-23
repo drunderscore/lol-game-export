@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rumblegrenademissiledangerzone"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadevodangerzone"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenademissile"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadevo"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleoverheat"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadecounter"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadecd"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleheatdelay"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadedz"}}, 
+}

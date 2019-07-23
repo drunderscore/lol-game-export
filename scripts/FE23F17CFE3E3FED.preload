@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemsunfirecapeparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsunfirecapepulse"}}, 
+{Function=BBPreloadSpell, Params={Name="sionpassivespeed"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="sionq"}}, 
+{Function=BBPreloadSpell, Params={Name="sionw"}}, 
+{Function=BBPreloadSpell, Params={Name="sione"}}, 
+{Function=BBPreloadSpell, Params={Name="sionr"}}, 
+{Function=BBPreloadSpell, Params={Name="sionultstun"}}, 
+}

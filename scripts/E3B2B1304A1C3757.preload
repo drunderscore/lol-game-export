@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dravenspinningattack"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinning"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningleft"}}, 
+{Function=BBPreloadModule, Params={Name="Draven.CharFunctionDraven"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningreturntracker"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningreturnleftaxe"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningreturn"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningreturncatch"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenminionstreak"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenpassive"}}, 
+}

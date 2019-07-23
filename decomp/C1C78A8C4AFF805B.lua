@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = "3026_Guardian_Angel.dds"
+BuffTextureName = L0_0
+L0_0 = "rebirthready.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0
+L0_0 = true
+NonDispellable = L0_0
+L0_0 = 6
+OnPreDamagePriority = L0_0
+L0_0 = 1
+DeathEventType = L0_0

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="obj_deathfiregrasp_debuff.troy", SkinID="-1"}}, 
+}

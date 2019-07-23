@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_casting"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_concentricscythes_mark"}}, 
+}

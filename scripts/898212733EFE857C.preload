@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="malzaharrsound"}}, 
+{Function=BBPreloadSpell, Params={Name="malzaharrsoftlock"}}, 
+{Function=BBPreloadSpell, Params={Name="malzaharrhardlock"}}, 
+{Function=BBPreloadSpell, Params={Name="malzaharrzone"}}, 
+{Function=BBPreloadSpell, Params={Name="malzaharw"}}, 
+{Function=BBPreloadSpell, Params={Name="arcademalzaharrzone"}}, 
+}

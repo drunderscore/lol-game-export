@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="frostquestdisplaytt"}}, 
+{Function=BBPreloadSpell, Params={Name="frostquestdisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="outofcombatdebuffmanager"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TimeFormatting"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_complete.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_reward60.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_reward20.troy", SkinID="-1"}}, 
+}

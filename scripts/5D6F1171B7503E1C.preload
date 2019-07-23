@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="yorick_base_r_wraith_tar_avatar.troy", SkinID="-1"}}, 
+}

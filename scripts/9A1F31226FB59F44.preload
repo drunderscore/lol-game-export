@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ornnrwave"}}, 
+{Function=BBPreloadModule, Params={Name="Ornn.ForgeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnrrecastmanager"}}, 
+}

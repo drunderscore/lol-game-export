@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_orabot_orianaghostminion"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

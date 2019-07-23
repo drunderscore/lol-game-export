@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="cass_skn4_castglow.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="cassiopeiaqdebuff"}}, 
+}

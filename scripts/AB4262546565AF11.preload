@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="loc_silence.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleoverheatsound"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleheatdelay"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleheatingup"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="aramshopdisableplayer"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnarambuyonce"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnpfieldshopdisabled"}}, 
+}

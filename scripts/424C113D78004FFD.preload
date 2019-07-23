@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="viqanimations"}}, 
+{Function=BBPreloadSpell, Params={Name="viqlaunchsound"}}, 
+{Function=BBPreloadSpell, Params={Name="viqlaunch"}}, 
+{Function=BBPreloadSpell, Params={Name="viqvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="viqdash"}}, 
+{Function=BBPreloadSpell, Params={Name="viqrefresh"}}, 
+}

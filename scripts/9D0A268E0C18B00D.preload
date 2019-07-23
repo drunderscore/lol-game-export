@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="teemo_base_w_buf2.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="teemo_skin08_w_buf2_canister.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="teemomovequickspeed"}}, 
+}

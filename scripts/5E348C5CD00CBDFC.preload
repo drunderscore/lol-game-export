@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotq"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwlockon"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotqmissileextraskin03"}}, 
+}

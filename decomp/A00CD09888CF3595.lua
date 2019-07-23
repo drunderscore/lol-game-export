@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "Summoner_Exhaust.dds"
+BuffTextureName = L0_0
+L0_0 = "SummonerExhaustDebuff"
+BuffName = L0_0
+L0_0 = "Global_ss_exhaust.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_0

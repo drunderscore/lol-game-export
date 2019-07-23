@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zyrae"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrawcastbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrapheromone"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrap"}}, 
+{Function=BBPreloadSpell, Params={Name="zyrahiddengoodies"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+}

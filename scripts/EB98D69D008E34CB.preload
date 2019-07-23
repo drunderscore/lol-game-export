@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankrocketgrab"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankrocketgrabmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankrocketgrabsidemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankblankspell"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankpowerfist"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankstaticfield"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankmanabarrier"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotblitzcrankmanabarriercooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="overdrive"}}, 
+}

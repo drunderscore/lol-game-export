@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_sharedbuff_enemychampions"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_AIFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_shielder_shieldwall"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_shielder_shieldcooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_shielder_shieldwallbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_shielder_bigknockback"}}, 
+}

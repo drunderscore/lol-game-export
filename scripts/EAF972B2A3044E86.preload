@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_laser_obliterator_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_obliterator_01_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_obliterator_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_obliterator_cas_blue.troy", SkinID="-1"}}, 
+}

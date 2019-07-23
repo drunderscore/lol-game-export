@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="malphite_base_unstoppableforce_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="malphite_base_unstoppableforce_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+}

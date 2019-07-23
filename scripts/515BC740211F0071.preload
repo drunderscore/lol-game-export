@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="puppeteer_string.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="teleportchannelbar4500"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_flash_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_flash_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="teleport_turret"}}, 
+{Function=BBPreloadSpell, Params={Name="zoew_summonerteleport_target"}}, 
+{Function=BBPreloadSpell, Params={Name="destealth"}}, 
+}

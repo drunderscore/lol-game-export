@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="3095_slow"}}, 
+{Function=BBPreloadParticle, Params={Name="item_statikkshiv_beam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_statikkshiv_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemstatikkshivsight"}}, 
+}

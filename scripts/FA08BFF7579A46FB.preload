@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="rengar_base_q_strike_empowered.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ascension_indicator_garen_base_r_buf_garen_execute.troy", SkinID="-1"}}, 
+}

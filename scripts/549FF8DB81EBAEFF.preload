@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="pounceenabler"}}, 
+{Function=BBPreloadSpell, Params={Name="nidaleepassivehunted"}}, 
+{Function=BBPreloadSpell, Params={Name="pounceblocker"}}, 
+{Function=BBPreloadSpell, Params={Name="pouncems"}}, 
+}

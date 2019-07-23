@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="shurelyasspell"}}, 
+{Function=BBPreloadParticle, Params={Name="shurelyascrest_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="shurelyaminionhaste"}}, 
+{Function=BBPreloadParticle, Params={Name="haste_proc.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="shurelyascresthastett"}}, 
+{Function=BBPreloadSpell, Params={Name="shurelyascresthaste"}}, 
+}

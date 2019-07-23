@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Syndra.CharFunctionSyndra"}}, 
+{Function=BBPreloadParticle, Params={Name="syndra_ehit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraqspell"}}, 
+{Function=BBPreloadModule, Params={Name="Global.PlayerTerrian"}}, 
+}

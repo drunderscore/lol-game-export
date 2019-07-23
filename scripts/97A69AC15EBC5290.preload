@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="pantheon_grandskyfall_land.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="pantheon_grandskyfall_falld"}}, 
+}

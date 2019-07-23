@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Marker"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_plant_satchel_reticle.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Flora"}}, 
+}

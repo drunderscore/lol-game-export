@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "2049_Sightstone.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemGhostWard"
+BuffName = L0_0
+L0_0 = "Ward_Sight_Idle.troy"
+AutoBuffActivateEffect = L0_0

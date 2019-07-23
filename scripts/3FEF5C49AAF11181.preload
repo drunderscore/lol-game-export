@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tahmkench_temp_q_indicator_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tahmkench_temp_q_indicator_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

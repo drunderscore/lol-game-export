@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sionqlock"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqshapecutnoadd"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqnoadd"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqsoundbeforehalf"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqsoundafterhalf"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_playerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_emotemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_arrivalphasehelper"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_LevelScript_Matchmaking"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff"}}, 
+}

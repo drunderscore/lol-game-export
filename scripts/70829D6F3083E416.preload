@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaisaestealth"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaeattackspeed"}}, 
+{Function=BBPreloadModule, Params={Name="Kaisa.KaisaFunctionModule"}}, 
+}

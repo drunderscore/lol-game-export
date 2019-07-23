@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="illaoiminion"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoir2"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoitentacleminion"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoirmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoirattacklockout"}}, 
+}

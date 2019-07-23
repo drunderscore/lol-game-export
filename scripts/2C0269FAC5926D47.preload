@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotwqhalter"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotqmissileskin03"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotqmissile"}}, 
+}

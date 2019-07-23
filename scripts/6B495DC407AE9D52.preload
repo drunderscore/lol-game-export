@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rumblegrenadezapeffect"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenadedebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblegrenade"}}, 
+}

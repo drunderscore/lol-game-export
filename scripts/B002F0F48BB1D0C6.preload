@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphite_starteraug"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_shared_ora"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiteq"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitewpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitee"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiter"}}, 
+{Function=BBPreloadSpell, Params={Name="obduracy"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitepbezerker"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="carpetbombmega"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitep"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiteg_phitesvow_liegebuff"}}, 
+}

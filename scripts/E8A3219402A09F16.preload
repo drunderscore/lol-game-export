@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitew_concussive_stackdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="obduracy"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitewweightedtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitep"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitewchargedattack"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

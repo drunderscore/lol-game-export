@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ireliamark"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliaqkilltracker"}}, 
+{Function=BBPreloadModule, Params={Name="Irelia.IreliaFunctionModule"}}, 
+}

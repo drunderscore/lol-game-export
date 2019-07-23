@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_introsound.troy", SkinID="-1"}}, 
+}

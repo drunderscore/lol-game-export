@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemangelhandcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="itemardentcenser"}}, 
+}

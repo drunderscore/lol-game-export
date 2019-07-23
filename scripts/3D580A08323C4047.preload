@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ascturntostone.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="eggtimer.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="asctransferglow.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ascbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="rebirth_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="turnback.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="casspetrifymiss_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="leonapassive_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

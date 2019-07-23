@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="renektonunlockanimation"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonpreexecute"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonexecuteminioncheck"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonweaponglowfade"}}, 
+{Function=BBPreloadSpell, Params={Name="renektontargetsliced"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonsliceanddice"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonsliceanddicedelay"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonbloodsplattertarget"}}, 
+{Function=BBPreloadSpell, Params={Name="renektonsliceanddicedebuff"}}, 
+}

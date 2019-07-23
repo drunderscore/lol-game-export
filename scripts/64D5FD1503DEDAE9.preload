@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.FakeStats"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphantomdancermovementpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphantomdancershield"}}, 
+{Function=BBPreloadSpell, Params={Name="itemlifelinemanager"}}, 
+}

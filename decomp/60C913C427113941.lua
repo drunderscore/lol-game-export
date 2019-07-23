@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "033_Buckler.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemDoransShieldPassive"
+BuffName = L0_0

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="akalicannotemote"}}, 
+{Function=BBPreloadModule, Params={Name="Akali.AkaliFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="akalipmaterialvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="akalip"}}, 
+}

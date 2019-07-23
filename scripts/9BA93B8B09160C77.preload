@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="kingporo_porofollower"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking3_porojumpin"}}, 
+}

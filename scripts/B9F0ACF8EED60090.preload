@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingere"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerturretlockon"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotheimerdingerespell2"}}, 
+}

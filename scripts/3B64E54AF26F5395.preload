@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="morganar"}}, 
+{Function=BBPreloadSpell, Params={Name="morganarstun"}}, 
+{Function=BBPreloadSpell, Params={Name="morganarbreaksound"}}, 
+}

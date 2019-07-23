@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Mordekaiser.MordekaiserFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserepull"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisere"}}, 
+}

@@ -1,0 +1,18 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sonadjaudiomanagergenre01"}}, 
+{Function=BBPreloadSpell, Params={Name="sonadjaudiomanagergenre02"}}, 
+{Function=BBPreloadSpell, Params={Name="sonadjaudiomanagergenre03"}}, 
+{Function=BBPreloadSpell, Params={Name="sonapassivecount"}}, 
+{Function=BBPreloadSpell, Params={Name="sonawpassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="sonaqpassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="sonaepassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sonapassive"}}, 
+{Function=BBPreloadSpell, Params={Name="sonaw_urf"}}, 
+{Function=BBPreloadSpell, Params={Name="sonadjstategenre01"}}, 
+{Function=BBPreloadSpell, Params={Name="sonaambientqsound"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonamanager"}}, 
+{Function=BBPreloadSpell, Params={Name="sonadjtransition"}}, 
+{Function=BBPreloadSpell, Params={Name="sonadjtransitionlockout"}}, 
+{Function=BBPreloadSpell, Params={Name="sonadjreconnect"}}, 
+}

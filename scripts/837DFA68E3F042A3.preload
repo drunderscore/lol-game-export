@@ -1,0 +1,18 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sharedstealthwardbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="s5test_wardcorpse"}}, 
+{Function=BBPreloadSpell, Params={Name="wardcorpsebuff"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_yellow_pop.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_yellow_pop_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_green_pop.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_green_pop_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_pink_pop.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_pink_pop_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_blue_pop.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_warddeath_blue_pop_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="dominationscout"}}, 
+{Function=BBPreloadAssetsLua, Params={Name="ASSETS/Perks/Styles/Domination/GhostPoro/GhostPoroPoroAI.lua"}}, 
+{Function=BBPreloadSpell, Params={Name="wardcelebration"}}, 
+{Function=BBPreloadParticle, Params={Name="item_ward_celebration.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sightwardstealth"}}, 
+}

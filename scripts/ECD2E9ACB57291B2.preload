@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaghostself"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaghost"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaredactcommand"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaredactshield"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaredactdamage"}}, 
+}

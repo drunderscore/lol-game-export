@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwallylockout"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnrreturntoquinn"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnr"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwallytriggeredspit"}}, 
+}

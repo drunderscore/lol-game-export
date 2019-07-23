@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="threshpassivesoulsgain"}}, 
+{Function=BBPreloadModule, Params={Name="Thresh.ThreshFunctionModule"}}, 
+}

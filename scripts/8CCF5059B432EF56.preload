@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="crestoftheancientgolem"}}, 
+{Function=BBPreloadSpell, Params={Name="blessingofthelizardelder"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotudyrhunterminionbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotudyrhunterbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotudyrhunterminimapicon"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

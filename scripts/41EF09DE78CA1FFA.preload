@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Vayne.VayneSilveredBolts"}}, 
+{Function=BBPreloadSpell, Params={Name="vaynecondemn"}}, 
+}

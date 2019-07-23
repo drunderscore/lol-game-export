@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="lulu_faerie_idle_passive_team_id_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="lulu_faerie_idle_passive_team_id_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistawruntome"}}, 
+}

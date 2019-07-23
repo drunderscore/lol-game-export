@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kalistaindicatormedium.troy", SkinID="-1"}}, 
+}

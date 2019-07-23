@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemspiritstonebleed"}}, 
+{Function=BBPreloadParticle, Params={Name="itemspiritthornstick_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemspiritstoneregen"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_echoslam_mis_2"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_echoslam_self"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_echoslam_pull"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_echoslam_zone"}}, 
+}

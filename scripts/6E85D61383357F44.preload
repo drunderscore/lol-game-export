@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_chogath_mecha_scream_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_chogath_mecha_scream_speakersr_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_chogath_mecha_scream_speakersl_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sound_impact_01.troy", SkinID="-1"}}, 
+}

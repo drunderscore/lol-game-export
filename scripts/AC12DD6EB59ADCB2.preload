@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="doombotsrewardtracker"}}, 
+{Function=BBPreloadModule, Params={Name="Global.DoomBotsFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsplayerkarthusdeathtimefix"}}, 
+{Function=BBPreloadSpell, Params={Name="explaindoombotsplayerbrandlimiter"}}, 
+{Function=BBPreloadSpell, Params={Name="explaindoombotsplayerkarthuslimiter"}}, 
+{Function=BBPreloadSpell, Params={Name="explaindoombotsplayerkogmawlimiter"}}, 
+{Function=BBPreloadSpell, Params={Name="explaindoombotsplayersionlimiter"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsplayerdarksidedebuff"}}, 
+}

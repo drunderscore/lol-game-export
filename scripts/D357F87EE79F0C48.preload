@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yorickqdeathlistener"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickq"}}, 
+{Function=BBPreloadModule, Params={Name="Yorick.YorickFunctionModule"}}, 
+}

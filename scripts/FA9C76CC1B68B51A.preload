@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="neekorshield"}}, 
+{Function=BBPreloadSpell, Params={Name="neekorstun"}}, 
+{Function=BBPreloadSpell, Params={Name="neekor"}}, 
+}

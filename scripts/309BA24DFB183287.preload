@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_casting"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_dariuse_pull"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

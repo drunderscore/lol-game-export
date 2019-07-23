@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="chaos_spawn_turret_beam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ha_ap_porolaserhit.troy", SkinID="-1"}}, 
+}

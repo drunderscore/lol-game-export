@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_objective_holdpoints"}}, 
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}}, 
+}

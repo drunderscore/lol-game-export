@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tricksters_glass_poof_target.troy", SkinID="-1"}}, 
+}

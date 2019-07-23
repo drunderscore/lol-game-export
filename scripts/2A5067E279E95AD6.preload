@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="missfortunericochetshot"}}, 
+{Function=BBPreloadParticle, Params={Name="missfortune_base_w_mis_augment.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

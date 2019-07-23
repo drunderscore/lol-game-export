@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_acidtrail_buf_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritsingedpoisontrailapplicator"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_singed_poisontrailloopaudio.troy", SkinID="-1"}}, 
+}

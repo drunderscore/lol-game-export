@@ -1,0 +1,25 @@
+local L0_0
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntBreakShields = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "GemKnight_Gemcraft.dds"
+BuffTextureName = L0_0
+L0_0 = "TaricGemcraftBuff"
+BuffName = L0_0
+L0_0 = "bluehands_buf.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "L_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "bluehands_buf.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "R_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = {""}
+SpellFXOverrideSkins = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

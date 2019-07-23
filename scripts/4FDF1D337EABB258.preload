@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_relic_pickup.troy", SkinID="-1"}}, 
+{Function=BBPreloadTexture, Params={Name="voidcrushertint.dds"}}, 
+{Function=BBPreloadSpell, Params={Name="superrecall"}}, 
+{Function=BBPreloadSpell, Params={Name="superrecallimproved"}}, 
+{Function=BBPreloadSpell, Params={Name="recall"}}, 
+{Function=BBPreloadSpell, Params={Name="recallimproved"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemstatikshank"}}, 
+{Function=BBPreloadSpell, Params={Name="3095_slow"}}, 
+}

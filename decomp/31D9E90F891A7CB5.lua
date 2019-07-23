@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/LeeSin/HUD/Icons2D/BlindMonkPassive.dds"
+BuffTextureName = L0_0
+L0_0 = "BlindMonkFlurry"
+BuffName = L0_0
+L0_0 = "r:LeeSin_P_buf_L"
+AutoBuffActivateEffect = L0_0
+L0_0 = "L_hand"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "r:LeeSin_P_buf_R"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "R_hand"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = "r:LeeSin_P_buf_head"
+AutoBuffActivateEffect3 = L0_0
+L0_0 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName3 = L0_0

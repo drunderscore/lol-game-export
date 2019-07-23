@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_lissandrarself"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_lissandrarenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_lissandrardamage"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_lissandrarslow"}}, 
+}

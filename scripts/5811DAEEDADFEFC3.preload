@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rengartrophyicon1"}}, 
+{Function=BBPreloadSpell, Params={Name="rengartrophyicon5"}}, 
+{Function=BBPreloadSpell, Params={Name="rengartrophyicon4"}}, 
+{Function=BBPreloadSpell, Params={Name="rengartrophyicon3"}}, 
+{Function=BBPreloadSpell, Params={Name="rengartrophyicon2"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarhatredready"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarhatredunready"}}, 
+{Function=BBPreloadSpell, Params={Name="rengartrophyicon6"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarupdatetrophycharges"}}, 
+}

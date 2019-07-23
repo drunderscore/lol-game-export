@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="projectmode17_clairvoyance.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_danger_alert.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

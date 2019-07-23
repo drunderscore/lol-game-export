@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrpentasound"}}, 
+{Function=BBPreloadModule, Params={Name="Thresh.ThreshFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrvisibilitymanager"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrtrigger1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrtrigger2"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrtrigger3"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrtrigger4"}}, 
+{Function=BBPreloadSpell, Params={Name="threshrtrigger5"}}, 
+}

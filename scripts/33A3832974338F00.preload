@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggspmayhem"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsqshotgunmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsq"}}, 
+}

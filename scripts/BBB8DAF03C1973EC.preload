@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaylepassiverank0"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylepassiverank1"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylepassiverank2"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylepassiverank3"}}, 
+}

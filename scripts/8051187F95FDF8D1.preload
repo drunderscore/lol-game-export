@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="galiow2animlock"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="galiow"}}, 
+{Function=BBPreloadSpell, Params={Name="galiowslow"}}, 
+{Function=BBPreloadModule, Params={Name="Galio.GalioFunctionModule"}}, 
+}

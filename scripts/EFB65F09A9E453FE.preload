@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="swainw"}}, 
+{Function=BBPreloadSpell, Params={Name="swainpsoultrail"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

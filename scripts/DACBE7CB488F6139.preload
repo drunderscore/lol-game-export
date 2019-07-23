@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="summonersnowurfsnowball_mark_followupcast"}}, 
+{Function=BBPreloadSpell, Params={Name="summonersnowurfsnowball_mark"}}, 
+}

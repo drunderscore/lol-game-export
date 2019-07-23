@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bloodscent_target"}}, 
+{Function=BBPreloadSpell, Params={Name="bloodscent"}}, 
+{Function=BBPreloadSpell, Params={Name="bloodscentselfbuff"}}, 
+}

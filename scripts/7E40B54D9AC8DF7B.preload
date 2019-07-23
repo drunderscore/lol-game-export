@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="fizzebuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzeicon"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzedelay"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzebuffered"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzetwo"}}, 
+}

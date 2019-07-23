@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="lulufaerie"}}, 
+{Function=BBPreloadSpell, Params={Name="lulubuddypassive"}}, 
+{Function=BBPreloadSpell, Params={Name="lulue"}}, 
+{Function=BBPreloadSpell, Params={Name="lulurobotbuddypassive"}}, 
+{Function=BBPreloadSpell, Params={Name="lulurobotbuddytracker"}}, 
+}

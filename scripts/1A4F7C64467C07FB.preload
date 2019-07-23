@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_sharedbuff_enemysmallminion"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_baseminionlogic"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_monsterprogression"}}, 
+}

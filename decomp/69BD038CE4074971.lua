@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Corki/HUD/Icons2D/Corki_Valkyrie.dds"
+BuffTextureName = L0_0
+L0_0 = "DangerZoneLoadedTarget"
+BuffName = L0_0
+L0_0 = "r:Corki_W_DZ_fire_buf_01"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_0

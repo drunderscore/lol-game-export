@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kogmaw_base_w_buff_end.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="darkstarmode_endofround_shockwaveblue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_endofround_shockwavered.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_impactwithstar_minion.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="reksaiqburrowed"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiwburrowed"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaieburrowed"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaipregen"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaipassive"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiwburrowedsearch"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiwbubble"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiwknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiwknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiwunburrowlockout"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiq"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaie"}}, 
+}

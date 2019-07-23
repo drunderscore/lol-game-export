@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tandemrecallmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahpassive"}}, 
+{Function=BBPreloadModule, Params={Name="Xayah.XayahFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Xayah.XayahGetSpellData"}}, 
+}

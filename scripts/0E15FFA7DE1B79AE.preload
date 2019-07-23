@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="TFT_AurelionSol.TFT_AurelionSolFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_aurelionsolrbeammissile"}}, 
+}

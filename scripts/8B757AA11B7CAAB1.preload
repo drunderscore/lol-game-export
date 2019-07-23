@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tft_baron_acidball_cast.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_baronspiketarget"}}, 
+{Function=BBPreloadSpell, Params={Name="baronactioninhibitor"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_tail_target.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_base_spike_animated.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="baronbacksidestun"}}, 
+{Function=BBPreloadSpell, Params={Name="baronbacksidedetect"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_avalanche_cast.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_deathbreath_warn.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_barondeathbreathtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_barontail"}}, 
+}

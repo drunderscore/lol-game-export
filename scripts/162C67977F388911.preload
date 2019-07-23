@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odinsuperminion"}}, 
+{Function=BBPreloadSpell, Params={Name="odinminioninitialbuff"}}, 
+}

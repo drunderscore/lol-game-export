@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tahmkench_base_audio_enemydevoured.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tahmkench_base_w_buff_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_chogath_feast"}}, 
+}

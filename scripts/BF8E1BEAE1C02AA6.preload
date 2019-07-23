@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taricpassiveattack"}}, 
+{Function=BBPreloadSpell, Params={Name="taricpassiveattackparticle"}}, 
+}

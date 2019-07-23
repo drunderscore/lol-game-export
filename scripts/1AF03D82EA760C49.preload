@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="talon_base_q_bleed.troy", SkinID="-1"}}, 
+}

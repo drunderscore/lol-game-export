@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camouflagebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalinvisibility"}}, 
+{Function=BBPreloadSpell, Params={Name="teemocamouflagestealthtt"}}, 
+{Function=BBPreloadSpell, Params={Name="camouflagecheck"}}, 
+}

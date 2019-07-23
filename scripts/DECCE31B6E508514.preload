@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leonazenithbladebufforder"}}, 
+{Function=BBPreloadSpell, Params={Name="leonazenithblade"}}, 
+{Function=BBPreloadSpell, Params={Name="leonazenithbladedonotroot"}}, 
+{Function=BBPreloadSpell, Params={Name="leonazenithbladebuffchaos"}}, 
+{Function=BBPreloadModule, Params={Name="Leona.LeonaSunlightPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="leonaprojectidleparticles"}}, 
+{Function=BBPreloadSpell, Params={Name="leonasunlight"}}, 
+{Function=BBPreloadSpell, Params={Name="leonazenithbladeroot"}}, 
+}

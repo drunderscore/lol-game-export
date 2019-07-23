@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dravenspinningattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningattack2crit"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningattack"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningattackcrit"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningleft"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningonehand"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenspinningreturn"}}, 
+}

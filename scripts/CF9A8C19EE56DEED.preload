@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="aniviaegg"}}, 
+{Function=BBPreloadSpell, Params={Name="rebirthcooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="rebirthanimationplay"}}, 
+{Function=BBPreloadSpell, Params={Name="aniviaeggdeathanimationplay"}}, 
+}

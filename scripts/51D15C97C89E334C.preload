@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="takedown"}}, 
+{Function=BBPreloadSpell, Params={Name="takedownblocker"}}, 
+}

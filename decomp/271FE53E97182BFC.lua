@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Volibear/HUD/Icons2D/VolibearPassive.dds"
+BuffTextureName = L0_0
+L0_0 = "VolibearPassiveHeal"
+BuffName = L0_0
+L0_0 = "volibear_passive_heal.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = true
+NonDispellable = L0_0

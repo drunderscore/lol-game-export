@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="pykerassisttracker"}}, 
+{Function=BBPreloadSpell, Params={Name="pykerhealthbarvisual"}}, 
+{Function=BBPreloadModule, Params={Name="Pyke.PykeGetSpellData"}}, 
+}

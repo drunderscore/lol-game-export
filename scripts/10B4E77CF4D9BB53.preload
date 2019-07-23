@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ziggsrvoice"}}, 
+{Function=BBPreloadModule, Params={Name="Ziggs.ZiggsFunctionModule"}}, 
+}

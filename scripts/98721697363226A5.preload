@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nevershade"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadModule, Params={Name="DrMundo.DrMundoFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="drmundoqmissile_skin09mis01"}}, 
+{Function=BBPreloadSpell, Params={Name="drmundoqmissile_skin09mis02"}}, 
+{Function=BBPreloadSpell, Params={Name="drmundoqmissile_skin09mis03"}}, 
+{Function=BBPreloadSpell, Params={Name="drmundoqmissile_skin09mis04"}}, 
+{Function=BBPreloadSpell, Params={Name="drmundostatstonecombattracker"}}, 
+{Function=BBPreloadSpell, Params={Name="masochismattack"}}, 
+}

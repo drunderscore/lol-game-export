@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="azirbasicattacksoldier"}}, 
+{Function=BBPreloadSpell, Params={Name="azirpassiveavailable"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="azirbasicattacksoldiertarget"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrecentsoldieraa"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="azirinsoldierbasicattack"}}, 
+{Function=BBPreloadParticle, Params={Name="azir_w_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Azir.AzirFunctionModule"}}, 
+}

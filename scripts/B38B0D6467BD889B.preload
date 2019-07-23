@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="maokaisproutling"}}, 
+{Function=BBPreloadSpell, Params={Name="traplimiter"}}, 
+{Function=BBPreloadSpell, Params={Name="maokaiebehavior"}}, 
+{Function=BBPreloadSpell, Params={Name="maokaie"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kindredfakecasttimespell"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredrnodeathbuff"}}, 
+}

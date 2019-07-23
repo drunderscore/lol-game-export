@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dreadnoughtmomentum"}}, 
+{Function=BBPreloadSpell, Params={Name="outofcombatdebuffmanager"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="generic_pet_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="generic_pet_indicator_attack_tower.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="generic_pet_indicator_attack.troy", SkinID="-1"}}, 
+}

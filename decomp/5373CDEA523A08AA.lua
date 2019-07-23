@@ -1,0 +1,13 @@
+local L0_0, L1_1
+L0_0 = "3155_Hexdrinker.dds"
+BuffTextureName = L0_0
+L0_0 = "HexdrunkEmpowered"
+BuffName = L0_0
+L0_0 = "hexTech_dmg_shield_duration.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = 2
+OnPreDamagePriority = L0_0
+L0_0 = true
+DoOnPreDamageInExpirationOrder = L0_0

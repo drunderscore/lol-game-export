@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_elitebuff_velkoz"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_controlbuff_velkoz"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_velkoz_base_e_aoe_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_velkoz_base_e_aoe_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozresearchapply"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozpassive"}}, 
+}

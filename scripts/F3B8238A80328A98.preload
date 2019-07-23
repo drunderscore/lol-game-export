@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_relic_shield_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_relic_shield_blue.troy", SkinID="-1"}}, 
+}

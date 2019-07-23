@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itembloodyhydra"}}, 
+{Function=BBPreloadParticle, Params={Name="tiamatmelee_itm_hydra.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tiamatmelee_itm.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalhit_physical.troy", SkinID="-1"}}, 
+}

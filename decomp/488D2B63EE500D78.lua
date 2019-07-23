@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Graves/HUD/Icons2D/GravesTrueGrit.dds"
+BuffTextureName = L0_0
+L0_0 = "GravesPassiveGrit"
+BuffName = L0_0
+L0_0 = "r:Graves_E_buf"
+AutoBuffActivateEffect = L0_0

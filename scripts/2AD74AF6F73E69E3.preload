@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="resistantskinvilemaw"}}, 
+{Function=BBPreloadSpell, Params={Name="ascbufftransfer"}}, 
+{Function=BBPreloadSpell, Params={Name="ascxerathcontrol"}}, 
+{Function=BBPreloadSpell, Params={Name="azirtowerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ascinedibility"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="aschandoffbuff"}}, 
+}

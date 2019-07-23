@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadCharacter, Params={Name="gangplankbarrel"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrellife"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrelactive"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankebarrellinger"}}, 
+}

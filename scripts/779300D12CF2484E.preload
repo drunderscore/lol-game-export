@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsw"}}, 
+{Function=BBPreloadSpell, Params={Name="moveawaycollision"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggswalliedknockaway"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggspmayhem"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggswtoggle"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggswthumper"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggswsanctuary"}}, 
+}

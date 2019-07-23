@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="mordekaisercombattracker"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserpassive_fullstacks"}}, 
+}

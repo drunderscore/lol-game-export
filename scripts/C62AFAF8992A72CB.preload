@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="isninja"}}, 
+{Function=BBPreloadSpell, Params={Name="kennendoublestrikeproc"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenbringthelight"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kappashotspell"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_indicator_ring.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="nami_base_q_indicator_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

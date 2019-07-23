@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Flora"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Vector"}}, 
+{Function=BBPreloadSpell, Params={Name="planthealthtracer"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_plant_health_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="planthealthpack"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

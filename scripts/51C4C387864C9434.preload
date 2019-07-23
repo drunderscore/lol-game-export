@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="projectmode17_teleport"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_baseeviction_protectionbuff"}}, 
+}

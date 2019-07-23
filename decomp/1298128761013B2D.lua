@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "48thSlave_SoulDrain.dds"
+BuffTextureName = L0_0
+L0_0 = "TTSpiderbossSmash"
+BuffName = L0_0
+L0_0 = "PropelGeyser.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "root"
+AutoBuffActivateAttachBoneName = L0_0

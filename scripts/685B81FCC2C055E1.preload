@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="garenrkillcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="garenrvomarker"}}, 
+}

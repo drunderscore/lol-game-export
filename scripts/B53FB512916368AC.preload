@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_GlobalUnitMovement"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_righteousglory_speedbuff.troy", SkinID="-1"}}, 
+}

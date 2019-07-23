@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="shyvanafireballdragonmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="shyvanafireballdragonmissilebig"}}, 
+{Function=BBPreloadSpell, Params={Name="shyvanafireballdragonmissilemax"}}, 
+}

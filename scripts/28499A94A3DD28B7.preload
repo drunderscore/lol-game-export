@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuordummyspell"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotyasuor"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuorcantcastsound"}}, 
+}

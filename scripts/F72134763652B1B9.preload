@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="immortal_masteryi_trail_fx"}}, 
+}

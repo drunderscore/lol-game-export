@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="warwickqtargethasteleported"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickqtargethasmoveblocked"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Rakan.RakanGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanwcharm"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanw"}}, 
+{Function=BBPreloadModule, Params={Name="Rakan.RakanFunctionModule"}}, 
+}

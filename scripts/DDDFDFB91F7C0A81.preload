@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotluluq"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotluluw"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotlulur"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotluluwtwo"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotlulupix"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotlulupixsize"}}, 
+}

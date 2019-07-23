@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="assassinmode_initializer"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_outofcombathandler"}}, 
+{Function=BBPreloadSpell, Params={Name="srhomeguard"}}, 
+{Function=BBPreloadSpell, Params={Name="superrecall"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_killstreakready"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_buf_stack_bg.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_buf_stack_1.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_buf_stack_2.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_srucrab"}}, 
+}

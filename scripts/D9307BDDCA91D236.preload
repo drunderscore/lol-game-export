@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemcdrhastebuff"}}, 
+{Function=BBPreloadParticle, Params={Name="item_spiritthief_manaheal.troy", SkinID="-1"}}, 
+}

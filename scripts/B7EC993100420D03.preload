@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="chogath_battlecast_rupture_cas_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="chogath_battlecast_rupture_cas_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="rupture_cas_01_green_team.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="rupture_cas_01_red_team.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotchogathrupturepopup"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+}

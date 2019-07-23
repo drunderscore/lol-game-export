@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_shielder_shieldwallbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+}

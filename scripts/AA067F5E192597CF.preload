@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="elixirsight_aura_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_oracleelixirring.troy", SkinID="-1"}}, 
+}

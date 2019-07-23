@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernrrecast"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernminionslamattack"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpmonstertransitionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernrnorender"}}, 
+{Function=BBPreloadCharacter, Params={Name="ivernminion"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernrhit"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernrminionspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernminionbasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernminionbasicattack2"}}, 
+}

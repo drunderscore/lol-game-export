@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="braum_base_q_slow_tar.troy", SkinID="-1"}}, 
+}

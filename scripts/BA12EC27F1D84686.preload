@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Warwick.WarwickFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickefearonce"}}, 
+{Function=BBPreloadParticle, Params={Name="fiddlesticks_base_terrify_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="fleeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="warwicke2"}}, 
+}

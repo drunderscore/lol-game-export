@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="poropoof.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_base_ninja_charactertexture.troy", SkinID="-1"}}, 
+}

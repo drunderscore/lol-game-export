@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="darkstarmode_lanternpulltether.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarlanterninvuln"}}, 
+{Function=BBPreloadParticle, Params={Name="thresh_lantern_darkstar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="lanternchannelrestore"}}, 
+}

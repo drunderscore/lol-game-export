@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="doombotsbotbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsplayerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsdifficultyindicator"}}, 
+}

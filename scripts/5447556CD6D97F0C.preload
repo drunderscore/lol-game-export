@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Brush"}}, 
+{Function=BBPreloadSpell, Params={Name="sightward"}}, 
+{Function=BBPreloadCharacter, Params={Name="sightward"}}, 
+{Function=BBPreloadSpell, Params={Name="relicblueward"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardbuff"}}, 
+{Function=BBPreloadAssetsLua, Params={Name="ASSETS/Perks/Styles/Domination/ZombieWard/ZombieWardBuff.lua"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardlogic"}}, 
+{Function=BBPreloadSpell, Params={Name="wardbounty"}}, 
+}

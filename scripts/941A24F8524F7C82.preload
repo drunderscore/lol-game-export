@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoewspawnpickup"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewminionmarkvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewhexflashcheck"}}, 
+{Function=BBPreloadModule, Params={Name="Zoe.ZoeFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="zoedummyspell"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewaudioprocessing"}}, 
+{Function=BBPreloadSpell, Params={Name="itembloodmoonbootsactive"}}, 
+}

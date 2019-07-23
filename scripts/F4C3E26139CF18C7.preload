@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taliyahpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahoutofcombat"}}, 
+{Function=BBPreloadModule, Params={Name="Taliyah.FunctionsTaliyah"}}, 
+}

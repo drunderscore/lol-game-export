@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_xinzhaordontcastmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_volcano_stunned"}}, 
+}

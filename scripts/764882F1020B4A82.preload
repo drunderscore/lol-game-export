@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis0"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis2"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis3"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis4"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis5"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_akaliqmis"}}, 
+}

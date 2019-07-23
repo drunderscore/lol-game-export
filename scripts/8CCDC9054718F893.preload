@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="heimerdingerturretlockon"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerw"}}, 
+{Function=BBPreloadParticle, Params={Name="heimerdinger_hextech_missile_tar_weak.troy", SkinID="-1"}}, 
+}

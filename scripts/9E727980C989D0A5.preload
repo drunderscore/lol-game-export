@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="lulubonushpcounter"}}, 
+{Function=BBPreloadSpell, Params={Name="lulurslow"}}, 
+{Function=BBPreloadSpell, Params={Name="lulurboom"}}, 
+}

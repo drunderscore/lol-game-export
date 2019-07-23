@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="annierstatstonetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="anniercontroller"}}, 
+{Function=BBPreloadCharacter, Params={Name="annietibbers"}}, 
+{Function=BBPreloadSpell, Params={Name="annierburnaura"}}, 
+{Function=BBPreloadModule, Params={Name="Annie.AnnieFunctionModule"}}, 
+}

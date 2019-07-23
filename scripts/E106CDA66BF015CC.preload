@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="draven_passive_trail.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="draven_passive_tar.troy", SkinID="-1"}}, 
+}

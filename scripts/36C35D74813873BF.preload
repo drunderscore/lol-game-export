@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuodashghosted"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuopassiveshield"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuodashscalar"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuor_teleportvfx_mis"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoqe2"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoqe3"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoqe1"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoe"}}, 
+{Function=BBPreloadModule, Params={Name="Yasuo.YasuoFunctions"}}, 
+}

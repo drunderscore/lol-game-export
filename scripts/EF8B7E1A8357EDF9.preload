@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tristanawtrailsound"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanaecharge"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanae"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanawslow"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanaw"}}, 
+{Function=BBPreloadSpell, Params={Name="tristanawcastbuffer"}}, 
+}

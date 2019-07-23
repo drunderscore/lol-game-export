@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.AdaptiveDamageModule"}}, 
+{Function=BBPreloadAssetsLua, Params={Name="ASSETS/Perks/Styles/Sorcery/SummonAery/8214Ally.lua"}}, 
+{Function=BBPreloadSpell, Params={Name="sowthewind"}}, 
+{Function=BBPreloadAssetsLua, Params={Name="ASSETS/Perks/Styles/Sorcery/SummonAery/8214Enemy.lua"}}, 
+{Function=BBPreloadAssetsLua, Params={Name="ASSETS/Perks/Styles/Sorcery/SummonAery/SummonAery.lua"}}, 
+}

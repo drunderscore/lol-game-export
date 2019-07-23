@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_being_teleported.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_unit_destination.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_character_finder.troy", SkinID="-1"}}, 
+}

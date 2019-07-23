@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilussplashzone"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilussplashzonehit"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilussplashzoneslow"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+}

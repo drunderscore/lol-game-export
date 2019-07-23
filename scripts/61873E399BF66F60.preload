@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Vision"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+}

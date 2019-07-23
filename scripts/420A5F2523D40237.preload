@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_xinzhaorknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="xinzhaor"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_xinzhaorrangedimmunity"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_volcano_stunned"}}, 
+}

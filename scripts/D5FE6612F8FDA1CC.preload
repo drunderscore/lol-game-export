@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bwmerccurrency"}}, 
+{Function=BBPreloadSpell, Params={Name="bwaddcurrency"}}, 
+}

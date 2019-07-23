@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="volibearqspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="volibearqflashlock"}}, 
+}

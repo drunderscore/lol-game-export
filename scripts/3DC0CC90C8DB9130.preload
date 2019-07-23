@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="chilled"}}, 
+{Function=BBPreloadSpell, Params={Name="aniviaiced"}}, 
+{Function=BBPreloadSpell, Params={Name="aniviarwarning"}}, 
+}

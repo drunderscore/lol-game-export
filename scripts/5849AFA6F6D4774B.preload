@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemknightsvowknight"}}, 
+{Function=BBPreloadSpell, Params={Name="itemknightsvowliege"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellAttribution"}}, 
+{Function=BBPreloadParticle, Params={Name="item_zekes_cas.troy", SkinID="-1"}}, 
+}

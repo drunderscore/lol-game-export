@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kogmawvoidoozeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="kogmawvoidooze"}}, 
+{Function=BBPreloadSpell, Params={Name="kogmawvoidoozeprotect"}}, 
+}

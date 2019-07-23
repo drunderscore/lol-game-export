@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Shen.ShenFunctions"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="shene"}}, 
+{Function=BBPreloadSpell, Params={Name="shenpassiveshield"}}, 
+{Function=BBPreloadSpell, Params={Name="shenpassive"}}, 
+{Function=BBPreloadCharacter, Params={Name="shenspirit"}}, 
+{Function=BBPreloadSpell, Params={Name="shenpassivespiritarrowmarkerlife"}}, 
+{Function=BBPreloadSpell, Params={Name="shenpassivespiritlife"}}, 
+{Function=BBPreloadSpell, Params={Name="shenqbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="shenq"}}, 
+{Function=BBPreloadSpell, Params={Name="shenqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="shenwbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="shenw"}}, 
+}

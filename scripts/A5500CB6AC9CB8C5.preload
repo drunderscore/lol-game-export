@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_rupture"}}, 
+{Function=BBPreloadSpell, Params={Name="actioncastspell"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_absolutezero"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_megablitz"}}, 
+{Function=BBPreloadSpell, Params={Name="actionmovealonglane"}}, 
+{Function=BBPreloadSpell, Params={Name="actionattacktarget"}}, 
+}

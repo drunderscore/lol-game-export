@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="xerathqsoundbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="xeratharcanopulsechargeup"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="xerathexpirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

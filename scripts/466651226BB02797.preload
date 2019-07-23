@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="emotedetect.troy", SkinID="-1"}}, 
+}

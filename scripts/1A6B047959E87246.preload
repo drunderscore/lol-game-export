@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="poro_throw_followup_cast_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SnowballMissile"}}, 
+{Function=BBPreloadSpell, Params={Name="summonerporothrow"}}, 
+}

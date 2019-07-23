@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Diana.DianaQ"}}, 
+{Function=BBPreloadSpell, Params={Name="dianaqtracker"}}, 
+}

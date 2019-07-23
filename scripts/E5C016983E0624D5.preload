@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalinvisibility"}}, 
+{Function=BBPreloadSpell, Params={Name="talonrmistwo"}}, 
+{Function=BBPreloadSpell, Params={Name="talonr"}}, 
+}

@@ -1,0 +1,18 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="prj_moverbot"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_energycourier"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ProjectMode17_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_spotlightchase"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadCharacter, Params={Name="projectmode17_launchpad"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_boostpad"}}, 
+{Function=BBPreloadCharacter, Params={Name="projectmode17_plant_satchel"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_teleportpad"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_cameradirect"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_endofgame_playerdisable"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_endofgameceremony"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_controller"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_introcourier"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturefleeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturneehaste"}}, 
+}

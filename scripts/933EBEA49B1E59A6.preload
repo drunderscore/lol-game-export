@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gangplankqproceed"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankbilgewatertoken"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankqproceedcrit"}}, 
+}

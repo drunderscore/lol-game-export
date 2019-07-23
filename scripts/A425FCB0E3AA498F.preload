@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="riventricleavecooldown"}}, 
+{Function=BBPreloadModule, Params={Name="Global.PlayerTerrian"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleavesoundone"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleavebuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleavedamage"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleavesoundtwo"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleavesoundthree"}}, 
+{Function=BBPreloadSpell, Params={Name="rivensword"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ekkovozilean"}}, 
+{Function=BBPreloadSpell, Params={Name="hasbeenrevivedbyzilean"}}, 
+}

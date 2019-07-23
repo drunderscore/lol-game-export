@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonawpassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonawmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonawzone"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odinturretdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="turretbonus"}}, 
+{Function=BBPreloadSpell, Params={Name="turretbonushealth"}}, 
+{Function=BBPreloadSpell, Params={Name="callforhelpmanager"}}, 
+}

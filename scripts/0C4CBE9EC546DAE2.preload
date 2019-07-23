@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarq"}}, 
+{Function=BBPreloadModule, Params={Name="Gnar.GnarW"}}, 
+}

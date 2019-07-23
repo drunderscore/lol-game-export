@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ziggsr"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_ziggs_base_r_explosion_mini.troy", SkinID="-1"}}, 
+}

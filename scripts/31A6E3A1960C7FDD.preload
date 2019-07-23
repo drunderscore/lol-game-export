@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleheatsystem"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleheatpunchtt"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbleoverheatattack"}}, 
+}

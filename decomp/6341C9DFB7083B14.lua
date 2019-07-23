@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Jhin/HUD/Icons2D/Jhin_R_Shot.dds"
+BuffTextureName = L0_0
+L0_0 = "JhinRSlow"
+BuffName = L0_0
+L0_0 = "GLOBAL_SLOW.TROY"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0

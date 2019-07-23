@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ironstylus_buf.troy", SkinID="-1"}}, 
+}

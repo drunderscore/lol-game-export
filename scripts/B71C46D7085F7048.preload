@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_bots_idle_nightmare.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotminionpushbuff"}}, 
+}

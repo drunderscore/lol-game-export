@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="shurelyascrest_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_item_shurelyasreveriehaste_buff"}}, 
+}

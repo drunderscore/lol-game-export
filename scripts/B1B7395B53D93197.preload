@@ -1,0 +1,17 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sion_base_r_globalsound.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundglobal"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrselfbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundfireball"}}, 
+{Function=BBPreloadParticle, Params={Name="tutorial_sion_base_r_cas.npe_2018.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tutorial_sion_base_r_skin.npe_2018.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="sionr"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrdmg"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundexplosionhitchampion"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundexplosionhitminion"}}, 
+{Function=BBPreloadParticle, Params={Name="tutorial_sion_base_r_explosion.npe_2018.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sionrsoundexplosion"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Fiora.FioraFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="fiorapassive"}}, 
+{Function=BBPreloadSpell, Params={Name="fioraqmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+}

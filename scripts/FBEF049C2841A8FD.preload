@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_bluebuff_mana.troy", SkinID="-1"}}, 
+}

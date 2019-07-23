@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Yuumi.YuumiP"}}, 
+{Function=BBPreloadSpell, Params={Name="yuumipmat"}}, 
+{Function=BBPreloadSpell, Params={Name="yuumipshield"}}, 
+{Function=BBPreloadSpell, Params={Name="yuumipattack"}}, 
+{Function=BBPreloadModule, Params={Name="Yuumi.YuumiFunctionModule"}}, 
+}

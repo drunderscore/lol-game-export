@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="twitchdeadlyvenom"}}, 
+{Function=BBPreloadSpell, Params={Name="twitchdeadlyvenomtriggerstack"}}, 
+{Function=BBPreloadSpell, Params={Name="twitchexpunge"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenbringthelight"}}, 
+{Function=BBPreloadParticle, Params={Name="udyr_spiritguard_audio_ward.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="twitchdeadlyvenommarker"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="twitch_interactive_vo_caitlintrap.troy", SkinID="-1"}}, 
+}

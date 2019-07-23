@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpchimes"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpspirits"}}, 
+{Function=BBPreloadSpell, Params={Name="bardvomanager"}}, 
+{Function=BBPreloadSpell, Params={Name="bardw"}}, 
+{Function=BBPreloadSpell, Params={Name="barde"}}, 
+{Function=BBPreloadSpell, Params={Name="bardr"}}, 
+}

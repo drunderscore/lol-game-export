@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnE2Dash"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynne2"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnQ"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnehaste"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynne2attackanimoverride"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="darkstarmode_powerupminion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_powerupcollect.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_powerup.troy", SkinID="-1"}}, 
+}

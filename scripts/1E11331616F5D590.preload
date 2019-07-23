@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="assassinmode_objective_boss2_resistantskin"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_objective_boss2_eyeclosed.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.JungleCampSpawn"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_announcement1"}}, 
+{Function=BBPreloadParticle, Params={Name="assassinmode_objective_boss2_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_objective_boss2_incombat"}}, 
+}

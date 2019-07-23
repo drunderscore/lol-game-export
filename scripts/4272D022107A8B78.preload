@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zileanpassivechannel"}}, 
+{Function=BBPreloadSpell, Params={Name="heightenedlearningindicator"}}, 
+}

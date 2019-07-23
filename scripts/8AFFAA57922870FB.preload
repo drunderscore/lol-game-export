@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tt_spider_hit_ground.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbossattackdebuff"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="zacehitstun"}}, 
+{Function=BBPreloadSpell, Params={Name="zace"}}, 
+{Function=BBPreloadSpell, Params={Name="zacehit"}}, 
+{Function=BBPreloadSpell, Params={Name="zacpassivespawnchunk"}}, 
+}

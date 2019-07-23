@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="exalted_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="exalted_buf_order.troy", SkinID="-1"}}, 
+}

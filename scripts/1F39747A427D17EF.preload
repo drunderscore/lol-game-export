@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_centerrelic_capturing_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_centerrelic_capturing_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_watched.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odincenteraltarlockout"}}, 
+}

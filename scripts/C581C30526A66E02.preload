@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ziggsrtimer"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsrboom"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsrboommedium"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsrboomlong"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsrboomextralong"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wormattack"}}, 
+{Function=BBPreloadSpell, Params={Name="wormattackinitial"}}, 
+}

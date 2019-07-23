@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Shaco.ShacoFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="stealth"}}, 
+{Function=BBPreloadSpell, Params={Name="shacortinybox"}}, 
+{Function=BBPreloadSpell, Params={Name="shacowplacementmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="itemdisableshacobox"}}, 
+{Function=BBPreloadSpell, Params={Name="jackintheboxsoftlock"}}, 
+}

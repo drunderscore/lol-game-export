@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="azirrpushedbraum"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanqenemybomb"}}, 
+{Function=BBPreloadSpell, Params={Name="braumespecialvobuff"}}, 
+}

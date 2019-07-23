@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinaimanager"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinprojectmask"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinespottedapplicator"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="darkstarspawninvuln"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstar_mastercontrollerbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarblankspell"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_enemyplayerindicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarrespawncameramove"}}, 
+{Function=BBPreloadParticle, Params={Name="thresh_skin05_recall_02.troy", SkinID="-1"}}, 
+}

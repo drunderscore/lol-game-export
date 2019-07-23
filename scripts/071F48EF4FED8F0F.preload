@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gangplankpassiveattackcd"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankpassiveattackdot"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankpassivevokill"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankpassivehaste"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Brush"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardlogic"}}, 
+{Function=BBPreloadSpell, Params={Name="wardbounty"}}, 
+{Function=BBPreloadSpell, Params={Name="dummywardtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="itemblackout"}}, 
+{Function=BBPreloadSpell, Params={Name="championjammerblackout"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_itemblackoutpersist.troy", SkinID="-1"}}, 
+}

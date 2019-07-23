@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "DrMundo_BurningAgony.dds"
+BuffTextureName = L0_0
+L0_0 = "OdinShrineBombBuff"
+BuffName = L0_0
+L0_0 = "dr_mundo_burning_agony_cas_02.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "root"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = true
+Nondispellable = L0_0

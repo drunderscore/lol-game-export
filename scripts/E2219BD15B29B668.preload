@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jhinetrap"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinetrapslow"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinemarker"}}, 
+}

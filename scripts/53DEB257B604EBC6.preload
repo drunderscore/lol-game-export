@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_lootbughealthmanacdr"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_lootbuggold"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_lootbugaug"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_controlbuff_lootbugora"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="talentreaper"}}, 
+{Function=BBPreloadSpell, Params={Name="goldpertencounter"}}, 
+{Function=BBPreloadSpell, Params={Name="itemghostwardcharge"}}, 
+{Function=BBPreloadSpell, Params={Name="supportfocus"}}, 
+{Function=BBPreloadSpell, Params={Name="dummywardtracker"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sonaehaste"}}, 
+{Function=BBPreloadParticle, Params={Name="summoner_boost.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sonae"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonawmissile"}}, 
+}

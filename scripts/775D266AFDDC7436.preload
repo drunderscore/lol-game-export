@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_item_ludensecho_mis"}}, 
+{Function=BBPreloadParticle, Params={Name="item_magicshank_impact_02.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_item_fotm_heal.troy", SkinID="-1"}}, 
+}

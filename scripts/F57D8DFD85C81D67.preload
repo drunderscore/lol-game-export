@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="malzaharvoidling"}}, 
+{Function=BBPreloadCharacter, Params={Name="malzaharvoidling"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotmalzaharvoidlingbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="voidspawn"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotmalzaharvoidspawnbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="nightmarebots_malzahar_riftherald"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotmalzaharriftheraldbuff"}}, 
+}

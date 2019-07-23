@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetbuffazir"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetbufftrundle"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrspiritbearrunstart"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrbearactivation"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrbearstance"}}, 
+}

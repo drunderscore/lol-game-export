@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="riventricleavedamagedebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleave"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleaveunlock"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleaveghost"}}, 
+{Function=BBPreloadSpell, Params={Name="rivenebufferpending"}}, 
+{Function=BBPreloadSpell, Params={Name="riventricleavedamagedebuff2"}}, 
+{Function=BBPreloadSpell, Params={Name="rivenknockback"}}, 
+}

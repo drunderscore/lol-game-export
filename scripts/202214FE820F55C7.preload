@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotmonkeykingdecoyswipe"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingkillclonew"}}, 
+}

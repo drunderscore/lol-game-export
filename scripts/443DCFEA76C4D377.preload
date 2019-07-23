@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_dravenr"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenrdoublecast"}}, 
+{Function=BBPreloadSpell, Params={Name="cantattack"}}, 
+}

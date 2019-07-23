@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kled_global_taunt.troy", SkinID="-1"}}, 
+}

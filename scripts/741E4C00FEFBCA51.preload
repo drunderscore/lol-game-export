@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="porosnaxkingbufflockout"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_stampede.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking3_snaxmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtoking3_targetmarked"}}, 
+}

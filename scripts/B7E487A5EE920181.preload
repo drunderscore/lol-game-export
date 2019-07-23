@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_speed_shrine_buf.troy", SkinID="-1"}}, 
+}

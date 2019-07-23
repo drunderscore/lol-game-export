@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="carnivore"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="chogath_skin07_blackhole"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotchogathbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="vorpalspikesdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="vorpalspikes"}}, 
+{Function=BBPreloadSpell, Params={Name="chogatheattack"}}, 
+{Function=BBPreloadSpell, Params={Name="recentlyflashed"}}, 
+}

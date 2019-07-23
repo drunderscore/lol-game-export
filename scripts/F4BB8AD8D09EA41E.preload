@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemcdrhastebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="aaapconversion"}}, 
+}

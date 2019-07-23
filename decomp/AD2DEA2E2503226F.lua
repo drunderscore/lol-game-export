@@ -1,0 +1,13 @@
+local L0_0, L1_1
+L0_0 = false
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntBreakShields = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "ASSETS/Characters/Garen/HUD/Icons2D/Garen_E2.dds"
+BuffTextureName = L0_0
+L0_0 = false
+IsDamagingSpell = L0_0

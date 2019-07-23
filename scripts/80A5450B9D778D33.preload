@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_lootgoblin_darkmattercastlockout"}}, 
+{Function=BBPreloadSpell, Params={Name="veigardarkmatter"}}, 
+}

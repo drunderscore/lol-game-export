@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="talonwslow"}}, 
+{Function=BBPreloadSpell, Params={Name="talonw"}}, 
+}

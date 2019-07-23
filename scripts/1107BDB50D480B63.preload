@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="promobuff"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_spawn_platform.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tailwindself"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="forecastjannavo"}}, 
+{Function=BBPreloadSpell, Params={Name="forecastjannavospawn"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="howlinggalespell"}}, 
+{Function=BBPreloadSpell, Params={Name="howlinggale"}}, 
+{Function=BBPreloadSpell, Params={Name="sowthewind"}}, 
+{Function=BBPreloadSpell, Params={Name="jannatauntbrand"}}, 
+{Function=BBPreloadSpell, Params={Name="jannatauntannie"}}, 
+}

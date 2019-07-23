@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="lucianw"}}, 
+{Function=BBPreloadSpell, Params={Name="lucianwbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="lucian_base_w_beam.troy", SkinID="-1"}}, 
+}

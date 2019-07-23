@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="TahmKench.TahmKenchFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwdevoured"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwhasdevouredtarget"}}, 
+}

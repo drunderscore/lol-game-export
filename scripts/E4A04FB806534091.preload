@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="akalicastbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="akaliweapontrailvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="akaliemis"}}, 
+{Function=BBPreloadSpell, Params={Name="akaliemismanager"}}, 
+}

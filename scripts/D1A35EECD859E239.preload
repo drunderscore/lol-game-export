@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="spellthiefpenaltybuff"}}, 
+{Function=BBPreloadSpell, Params={Name="frostqueenslinequesttracker"}}, 
+{Function=BBPreloadParticle, Params={Name="piratecutlass_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="frostqueensspeedup"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_trueicehit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="queenstributedisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="kagesluckypickdisplay"}}, 
+}

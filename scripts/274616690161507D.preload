@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="awesomehealindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="superrecall"}}, 
+{Function=BBPreloadSpell, Params={Name="superrecallimproved"}}, 
+{Function=BBPreloadSpell, Params={Name="awesomeshieldindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimrapidslash_urf"}}, 
+{Function=BBPreloadParticle, Params={Name="urf_death_urf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="urf_death_orbitallaser.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="urf_death_orbitallaser_mat.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalnorenderifdead"}}, 
+{Function=BBPreloadParticle, Params={Name="urf_death_heartsplosion.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dravenpassivestacks"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenpassivegoldearned"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenpassivehighestbounty"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenminionstreakmarker"}}, 
+{Function=BBPreloadParticle, Params={Name="draven_recall_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="draven_recall_sound_reaper.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenrecalloverride"}}, 
+{Function=BBPreloadModule, Params={Name="Draven.CharFunctionDraven"}}, 
+}

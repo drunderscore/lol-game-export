@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ornnpfieldshopdisabled"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+}

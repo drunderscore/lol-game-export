@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="brandpof_charge.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemlifedeathdamage"}}, 
+{Function=BBPreloadParticle, Params={Name="deathfiregrasp_mis.troy", SkinID="-1"}}, 
+}

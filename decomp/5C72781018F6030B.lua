@@ -1,0 +1,4 @@
+SpellFXOverrideSkins = {
+  "SteelLegionLux",
+  "LuxSkin06"
+}

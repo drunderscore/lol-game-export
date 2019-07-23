@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="heimertyellow"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerturretbehavior"}}, 
+}

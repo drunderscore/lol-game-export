@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ekkostacks"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkoparticleholder"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkopassivespellshieldcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkostunmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkopassivespeed"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkobasicattacktower"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkobasicattackp3"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkobasicattackp2"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkobasicattackp1"}}, 
+}

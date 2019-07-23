@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kennenrwmark"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenshurikennocast"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenmarkofstorm"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenshurikenstormholder"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenrstatstonetracker"}}, 
+}

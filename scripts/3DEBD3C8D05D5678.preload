@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jarvanivmartialcadence"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivmartialcadencecheck"}}, 
+}

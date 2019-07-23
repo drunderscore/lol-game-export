@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tt_capturebeam_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_capturebeam_purple.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_capture_sound_left.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_capture_sound_right.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ezreal_essenceflux_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="treelinelanterncapdamage"}}, 
+}

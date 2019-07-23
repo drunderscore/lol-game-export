@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "ASSETS/Characters/Twitch/HUD/Icons2D/Twitch_Q.dds"
+BuffTextureName = L0_0
+L0_0 = "TwitchHideInShadowsImproved"
+BuffName = L0_0
+L0_0 = "r:Twitch_Q_Invisible"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = 1
+SpellToggleSlot = L0_0
+L0_0 = false
+IsDamagingSpell = L0_0

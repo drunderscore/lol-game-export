@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="env_manaheal.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuor_teleportvfx_mis"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadCharacter, Params={Name="yasuo"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuorvfxclone"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuobasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuocritattack"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuorself"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuorarmorpen"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuorknockup"}}, 
+}

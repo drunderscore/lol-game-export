@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="leonaprojectidleparticles"}}, 
+{Function=BBPreloadSpell, Params={Name="leonaskineclipsemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotleonabuff"}}, 
+}

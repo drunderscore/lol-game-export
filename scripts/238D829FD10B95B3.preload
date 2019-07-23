@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nbots_rh_resistantskin"}}, 
+{Function=BBPreloadSpell, Params={Name="nbots_rh_incombat"}}, 
+}

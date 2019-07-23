@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="hecarimrapidslash2"}}, 
+{Function=BBPreloadParticle, Params={Name="hecarim_q_audioimpact.troy", SkinID="-1"}}, 
+}

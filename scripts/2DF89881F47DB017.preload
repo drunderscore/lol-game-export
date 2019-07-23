@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TUTORIAL_MODULE_1_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_sionr"}}, 
+}

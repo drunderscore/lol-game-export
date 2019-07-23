@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Azir.AzirFunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="azirultsoldier"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrspawnsound"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrsandsoldier"}}, 
+{Function=BBPreloadSpell, Params={Name="azirrsoldierismoving"}}, 
+}

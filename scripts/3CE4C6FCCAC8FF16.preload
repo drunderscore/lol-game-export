@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="kingporo_porofollower"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_poroexplosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="porolobhit"}}, 
+}

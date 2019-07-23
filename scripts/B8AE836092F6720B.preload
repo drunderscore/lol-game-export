@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnpassive"}}, 
+{Function=BBPreloadCharacter, Params={Name="quinnvalor"}}, 
+}

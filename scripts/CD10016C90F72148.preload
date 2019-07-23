@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="shacobox"}}, 
+{Function=BBPreloadSpell, Params={Name="jackinthebox"}}, 
+{Function=BBPreloadSpell, Params={Name="traplimiter"}}, 
+}

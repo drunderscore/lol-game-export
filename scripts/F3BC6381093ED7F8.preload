@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tt_speedplat_well.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_speedshrine_flash.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_speedshrine_buff"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_speedshrine_renew"}}, 
+}

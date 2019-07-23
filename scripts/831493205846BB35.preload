@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_elitebuff_reksai"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_controlbuff_reksai"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="karthuswallofpain"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpainbeam"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpainsounddummy"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswtriggermanager"}}, 
+}

@@ -1,0 +1,3 @@
+SpellFXOverrideSkins = {
+  "ZileanSkin05"
+}

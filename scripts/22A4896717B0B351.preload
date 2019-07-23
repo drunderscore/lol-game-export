@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="malzaharerecent"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

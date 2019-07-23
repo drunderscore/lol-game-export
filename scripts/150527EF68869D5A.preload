@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="porosnaxkingbufflockout"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_fire_body.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_fire_breath.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_fire_hittower.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_fire_hitunit.troy", SkinID="-1"}}, 
+}

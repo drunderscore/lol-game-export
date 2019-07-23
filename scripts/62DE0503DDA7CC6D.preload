@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tft_baron_base_ba1_tar.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="swainpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="swainrsoulprogression"}}, 
+{Function=BBPreloadSpell, Params={Name="swainpcclistener"}}, 
+{Function=BBPreloadSpell, Params={Name="swainr"}}, 
+}

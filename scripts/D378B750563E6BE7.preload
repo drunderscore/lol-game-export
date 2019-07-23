@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="taric_gemstorm_aura.troy", SkinID="-1"}}, 
+}

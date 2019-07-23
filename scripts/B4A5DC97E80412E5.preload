@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="coinquestdisplaytt"}}, 
+{Function=BBPreloadSpell, Params={Name="coinquestdisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="outofcombatdebuffmanager"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TimeFormatting"}}, 
+{Function=BBPreloadSpell, Params={Name="bootscaptain"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_complete.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_gold_get.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_reward60.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="quest_reward20.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_gameend_win"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_gameend_lose"}}, 
+{Function=BBPreloadCharacter, Params={Name="npc_groundprogressindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_encountercomponent_encounterstartbeacon"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_encountermanager"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_difficultymanager"}}, 
+{Function=BBPreloadSpell, Params={Name="summonerodysseyrevivetargettracker"}}, 
+{Function=BBPreloadCharacter, Params={Name="odyssey_championminimapdeathicon"}}, 
+}

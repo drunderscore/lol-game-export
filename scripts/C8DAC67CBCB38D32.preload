@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ziggsqexplosion_scientist.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsqexplosion_pool.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsqexplosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsq_tar_pool.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsq_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotziggsqdropmine"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsqbounce_pool.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsqbounce.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotziggseminemover"}}, 
+}

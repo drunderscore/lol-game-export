@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kindrederefresher"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredefinalattackbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredewrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

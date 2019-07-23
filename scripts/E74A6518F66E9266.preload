@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="exaltedwithbaronnashor"}}, 
+{Function=BBPreloadParticle, Params={Name="s5_global_gold.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

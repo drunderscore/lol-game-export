@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="velkozresearchapply"}}, 
+{Function=BBPreloadSpell, Params={Name="velkozr"}}, 
+}

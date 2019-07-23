@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Ornn.ForgeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnpfieldshopdisabled"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnpallyitemgive"}}, 
+}

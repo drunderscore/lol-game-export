@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="spellshieldspellimmunity"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadParticle, Params={Name="spelleffect_proc.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="bansheesveiltimer"}}, 
+}

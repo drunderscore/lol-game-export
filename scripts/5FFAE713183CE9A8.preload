@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_trinket_yellow_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sightwardstealth"}}, 
+}

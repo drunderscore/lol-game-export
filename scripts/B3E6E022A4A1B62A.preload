@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nautilusgrandline"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusgrandlinetarget"}}, 
+}

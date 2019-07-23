@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalcamouflage"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarrvision"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarrsecondarytarget"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarrprimarytarget"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarpassivebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarrshred"}}, 
+}

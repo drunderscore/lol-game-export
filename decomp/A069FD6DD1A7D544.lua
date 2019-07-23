@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "Blessing_Of_Statikk_BuffIcon.dds"
+BuffTextureName = L0_0
+L0_0 = "SLIME_RewardStatikkShock"
+BuffName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0
+L0_0 = true
+NonDispellable = L0_0

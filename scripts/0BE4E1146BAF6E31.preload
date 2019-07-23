@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leonasolarbarrier"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotleonasolarbarriermarker"}}, 
+{Function=BBPreloadSpell, Params={Name="leonasunlight"}}, 
+{Function=BBPreloadSpell, Params={Name="leonasolarbarrier2"}}, 
+}

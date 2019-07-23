@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dariusaxegrabconelockout"}}, 
+{Function=BBPreloadSpell, Params={Name="dariusebounceoff"}}, 
+}

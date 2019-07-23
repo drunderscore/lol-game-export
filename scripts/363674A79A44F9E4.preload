@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="crestbigmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="threesisters"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuaniepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanitauntashe"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanitauntlissandra"}}, 
+}

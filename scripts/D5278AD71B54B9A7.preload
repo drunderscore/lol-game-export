@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dianacombatbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="dianapassivemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="dianaarcready"}}, 
+{Function=BBPreloadSpell, Params={Name="dianapcleave"}}, 
+{Function=BBPreloadSpell, Params={Name="dianavortex"}}, 
+}

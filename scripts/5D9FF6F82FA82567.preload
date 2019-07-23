@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadParticle, Params={Name="elise_base_ba_spiderling_tar_01.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_velkozwdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozwendhack"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_velkoz_base_w_orb_implode.troy", SkinID="-1"}}, 
+}

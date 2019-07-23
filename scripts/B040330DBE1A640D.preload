@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="heraldleapattackdamagetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="heraldmoveaway"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_directcamerato"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_heraldmoveaway"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_warningmis"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_dash.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_heraldtutorialattack"}}, 
+}

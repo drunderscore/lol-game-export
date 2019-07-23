@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadModule, Params={Name="Taliyah.FunctionsTaliyah"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahesoundmis"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahesoundblowupmis"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahemine"}}, 
+}

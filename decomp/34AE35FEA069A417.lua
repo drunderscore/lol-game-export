@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "MasteryBladedArmor.dds"
+BuffTextureName = L0_0
+L0_0 = "MasteryOffenseBleed"
+BuffName = L0_0
+L0_0 = "darius_hemo_bleed_trail_only3.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = true
+IsDeathRecapSource = L0_0

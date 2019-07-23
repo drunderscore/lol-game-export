@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="luluqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="luluq"}}, 
+{Function=BBPreloadSpell, Params={Name="luluqhit"}}, 
+}

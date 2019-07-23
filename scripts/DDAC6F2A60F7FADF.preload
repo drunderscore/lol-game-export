@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_bubblegeyser"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadCharacter, Params={Name="npc_hazard_orastorm"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_orastorm"}}, 
+{Function=BBPreloadCharacter, Params={Name="npc_hazard_beamcrystal"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_beamcrystal"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_beamcrystal_blue"}}, 
+{Function=BBPreloadCharacter, Params={Name="npc_hazard_volcano"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_volcano"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_bloodmoon"}}, 
+{Function=BBPreloadCharacter, Params={Name="npc_hazard_destructible_1"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_destructible_1"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_hazard_darkness"}}, 
+}

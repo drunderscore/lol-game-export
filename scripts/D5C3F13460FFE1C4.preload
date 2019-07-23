@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ezreal_pulsefire_ult_thrusters.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ezreal__pulsefire_trueshot_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ezreal_trueshot_tar.troy", SkinID="-1"}}, 
+}

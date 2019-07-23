@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="hecarim_skn3_w_debuff"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimdefilelifeleechminion"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimdefilelifeleech"}}, 
+}

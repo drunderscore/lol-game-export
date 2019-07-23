@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bantamtrapbouncespell"}}, 
+{Function=BBPreloadCharacter, Params={Name="teemomushroom"}}, 
+{Function=BBPreloadSpell, Params={Name="bantamtrap"}}, 
+{Function=BBPreloadSpell, Params={Name="teemomushroombuff"}}, 
+{Function=BBPreloadSpell, Params={Name="traplimiter"}}, 
+}

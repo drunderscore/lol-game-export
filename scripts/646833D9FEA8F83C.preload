@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Neeko.NeekoFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="neekopassivedisguiseaurelionsol"}}, 
+{Function=BBPreloadSpell, Params={Name="neekopassivedisguisekindred"}}, 
+{Function=BBPreloadSpell, Params={Name="neekopassivedisguisesyndra"}}, 
+{Function=BBPreloadSpell, Params={Name="neekopassivedisguiselulu"}}, 
+{Function=BBPreloadSpell, Params={Name="neekopassivedisguisekhazix"}}, 
+{Function=BBPreloadSpell, Params={Name="neekopassivedisguisedjsona"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="slime_nexusminionblue"}}, 
+{Function=BBPreloadCharacter, Params={Name="slime_nexusminionred"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_nexusbattledeathtimermanager"}}, 
+}

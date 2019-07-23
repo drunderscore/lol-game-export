@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camilleedashtoggle"}}, 
+{Function=BBPreloadModule, Params={Name="Camille.CamilleFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleeonwall"}}, 
+}

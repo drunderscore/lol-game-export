@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Smite"}}, 
+{Function=BBPreloadSpell, Params={Name="smitten"}}, 
+{Function=BBPreloadSpell, Params={Name="s5_summonersmiteaoe_regen"}}, 
+}

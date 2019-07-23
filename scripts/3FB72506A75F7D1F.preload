@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="boots_homeguard.troy", SkinID="-1"}}, 
+}

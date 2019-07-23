@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siegetestminionflashblue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siegetestminionflashred.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siegetestminionflashmodelblue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siegetestminionflashmodelred.troy", SkinID="-1"}}, 
+}

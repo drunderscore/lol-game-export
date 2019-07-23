@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_flash_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_flash_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegewarptracker"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="siegewarpindicator"}}, 
+}

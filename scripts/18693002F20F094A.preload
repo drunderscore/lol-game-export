@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuorarmorpen"}}, 
+{Function=BBPreloadSpell, Params={Name="tempyasuormissile"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadCharacter, Params={Name="yasuo"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuorvfxclone"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotyasuorwrapper"}}, 
+{Function=BBPreloadCharacter, Params={Name="spellbook1"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuorhitsound"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ocklepod_shield1.troy", SkinID="-1"}}, 
+}

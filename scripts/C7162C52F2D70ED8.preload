@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="khazixpslow"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixrinternalcd"}}, 
+}

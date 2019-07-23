@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistarallystunmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistarallystun"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistarallyknockbackally"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistarmis"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistaunlockanimation"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_runendexplosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_channelteleport.troy", SkinID="-1"}}, 
+}

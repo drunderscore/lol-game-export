@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ornnp"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadModule, Params={Name="Ornn.ForgeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnpallyitemcangive"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnpallyitemready"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnpitembuy"}}, 
+}

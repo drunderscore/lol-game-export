@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tristanabasicattack"}}, 
+{Function=BBPreloadModule, Params={Name="Tristana.TristanaE"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="singedp"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="singedstatstonepoisontracker"}}, 
+{Function=BBPreloadSpell, Params={Name="singedeflashlock"}}, 
+}

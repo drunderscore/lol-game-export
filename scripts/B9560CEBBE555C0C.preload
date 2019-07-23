@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_towerchargesparks.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_towerchargezone.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_towerchargewarn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_towerchargebeam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_towerchargehit.troy", SkinID="-1"}}, 
+}

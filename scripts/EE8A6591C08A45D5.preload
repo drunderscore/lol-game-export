@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotrrecastmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrrecastmissilelongdistance"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrescapedvo"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotr"}}, 
+}

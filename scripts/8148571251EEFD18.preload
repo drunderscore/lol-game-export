@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemslymalicecounter"}}, 
+{Function=BBPreloadSpell, Params={Name="itemslyattacks"}}, 
+{Function=BBPreloadParticle, Params={Name="typhoon_claws_passive_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="typhoon_claws_tar.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tucontroller"}}, 
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tuplayerbuff"}}, 
+}

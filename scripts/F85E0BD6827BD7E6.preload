@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bardpchimepickupspeedstacks"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpchimepickupspeedboost"}}, 
+}

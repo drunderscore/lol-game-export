@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="fiorarmark"}}, 
+{Function=BBPreloadSpell, Params={Name="fiorarbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="spellnostackcdreset"}}, 
+}

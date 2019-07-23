@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_sharedbuff_enemychampion"}}, 
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}}, 
+}

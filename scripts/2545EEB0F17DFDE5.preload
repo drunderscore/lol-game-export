@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnQ"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnrtrail"}}, 
+}

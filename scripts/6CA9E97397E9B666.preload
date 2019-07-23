@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kappa_ground_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="kappamissile"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="plantsatchelareacheck"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_blastcone_explode.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Flora"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_sharedmapobjknockback"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_blastcone_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_blastcone_perimeter.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_blastcone_idle.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="as_fire_finisher.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="as_fire_finisheravatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="as_ice_finisher.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="as_ice_finisheravatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalnorenderifdead"}}, 
+{Function=BBPreloadParticle, Params={Name="as_fire_finisher_fadeaway.troy", SkinID="-1"}}, 
+}

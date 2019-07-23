@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jhinpassiveincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="jhincritattack"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinbasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinbasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinbasicattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinpassiveattackbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="jhine"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinrsight"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinespotteddebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinpassivehaste"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinpassivereload"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellPings"}}, 
+}

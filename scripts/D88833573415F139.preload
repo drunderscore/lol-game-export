@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_eventmanager_buff"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_rewardmanager_buffnew"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_turretbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_nexusturret"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_innerturret"}}, 
+{Function=BBPreloadSpell, Params={Name="srhomeguardspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_suddendeath_nexusblitz"}}, 
+}

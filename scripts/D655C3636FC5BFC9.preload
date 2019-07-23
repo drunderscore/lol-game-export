@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_defending_cas_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_defending_cas_01_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_defending_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_defending_01_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laseraffix_groundrectangle.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laseraffix_groundrectangle_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegelaseraffixshotmis"}}, 
+}

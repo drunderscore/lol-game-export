@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeqmissileendvisuals"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeqmis2sleepcombo"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeqmis2"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeqmis2warningsleepcombo"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeqmis2warning"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeq2audionearmiss"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeidlemanager"}}, 
+}

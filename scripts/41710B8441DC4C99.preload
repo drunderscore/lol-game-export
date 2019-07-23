@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="trinketorblvl1audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_itemclairvoyance_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_itemminiclairvoyance.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_itemminiclairvoyance_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinsighttrinket"}}, 
+{Function=BBPreloadSpell, Params={Name="odintrinketorbsight"}}, 
+}

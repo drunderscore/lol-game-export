@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_dash_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_riftherald_heraldleapattackdamagetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_riftherald_heraldmoveaway"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_dash_inlane.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_riftherald_dash.troy", SkinID="-1"}}, 
+}

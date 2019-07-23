@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="warwickqmoveforward"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadModule, Params={Name="Warwick.WarwickFunctions"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_snail"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickqlockontarget"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickqanimationlock"}}, 
+}

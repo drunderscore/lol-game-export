@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="qiyanaq_rock"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanaq_grass"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanaq_water"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanawenchantedbuffhaste"}}, 
+}

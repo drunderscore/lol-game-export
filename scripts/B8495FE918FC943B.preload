@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="katarinacastbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinaetrail"}}, 
+}

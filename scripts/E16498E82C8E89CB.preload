@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camilleqprimingcomplete"}}, 
+{Function=BBPreloadModule, Params={Name="Camille.CamilleFunctions"}}, 
+}

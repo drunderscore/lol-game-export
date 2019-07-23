@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_NPCRazorbeak"}}, 
+{Function=BBPreloadCharacter, Params={Name="tft_razorbeak"}}, 
+}

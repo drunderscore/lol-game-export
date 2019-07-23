@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="fizzrbomb"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzr"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzshark"}}, 
+{Function=BBPreloadCharacter, Params={Name="fizzshark"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzrmoveback"}}, 
+{Function=BBPreloadSpell, Params={Name="fizzrhop"}}, 
+}

@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Darius/HUD/Icons2D/Darius_Icon_Sudden_Death.dds"
+BuffTextureName = L0_0
+L0_0 = "DariusExecuteMulticast"
+BuffName = L0_0
+L0_0 = "r:Darius_R_Ready"
+AutoBuffActivateEffect = L0_0
+L0_0 = "buffbone_cstm_weapon_1"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0

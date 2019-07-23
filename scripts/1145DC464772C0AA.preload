@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gnarstun"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

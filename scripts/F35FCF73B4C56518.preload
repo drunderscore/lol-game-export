@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="galiorfollowthrough"}}, 
+{Function=BBPreloadSpell, Params={Name="galioknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="galior"}}, 
+{Function=BBPreloadModule, Params={Name="Galio.GalioFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+}

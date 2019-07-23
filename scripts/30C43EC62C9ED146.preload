@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="qiyanarwallfollowmisshadowcounterclockwise"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanarwallfollowmisshadow"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanarwallfollowmiscounterclockwise"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanarwallfollowmis"}}, 
+}

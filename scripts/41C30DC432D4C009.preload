@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_khazixw"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_w_tar_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixwexplosioncheck"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_p_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixpslow"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixwselfhealing"}}, 
+}

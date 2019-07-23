@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="anivia_base_e_iced_passive.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="anivia_base_e_iced_passive_overlay.troy", SkinID="-1"}}, 
+}

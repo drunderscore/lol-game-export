@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemmagekillerveil"}}, 
+{Function=BBPreloadParticle, Params={Name="item_sorcerersbane_channel.troy", SkinID="-1"}}, 
+}

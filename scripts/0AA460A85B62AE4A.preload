@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="urgotqlockrangering.troy", SkinID="-1"}}, 
+}

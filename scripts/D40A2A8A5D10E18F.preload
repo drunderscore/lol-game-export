@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="asc_relic_sand_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="asc_relicprism_sand.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="asc_relic_timer.troy", SkinID="-1"}}, 
+}

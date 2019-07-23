@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Twitch/HUD/Icons2D/Twitch_Q_Buff.dds"
+BuffTextureName = L0_0
+L0_0 = "TwitchAmbushBuff"
+BuffName = L0_0
+L0_0 = "r:Twitch_Q_Buff_Hands"
+AutoBuffActivateEffect = L0_0
+L0_0 = "R_Hand"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "r:Twitch_Q_Buff_Hands"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "L_Hand"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = "r:Twitch_Q_Buff_Canister"
+AutoBuffActivateEffect3 = L0_0
+L0_0 = "Buffbone_Glb_Weapon_1"
+AutoBuffActivateAttachBoneName3 = L0_0

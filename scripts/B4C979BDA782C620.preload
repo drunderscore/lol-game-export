@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_teleport_arrive_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_smite_duel_monster.troy", SkinID="-1"}}, 
+}

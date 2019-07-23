@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadModule, Params={Name="Irelia.IreliaFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliarslow"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliamark"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliar2"}}, 
+{Function=BBPreloadCharacter, Params={Name="ireliablades"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliarzonebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliarzonebuff2"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliarzonebuff3"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliarzonebuff4"}}, 
+}

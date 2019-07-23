@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_scuttleracerdashlong"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_scuttleracerdash"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_scuttleracer_selfstun"}}, 
+}

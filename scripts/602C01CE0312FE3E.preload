@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="brandblaze_hotfoot.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="brandfiremark.troy", SkinID="-1"}}, 
+}

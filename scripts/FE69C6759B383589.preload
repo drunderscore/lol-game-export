@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="threshqfakeknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfroot"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqpullmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfccpacify"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jaxleapstrike"}}, 
+{Function=BBPreloadSpell, Params={Name="jaxempowertwo"}}, 
+{Function=BBPreloadParticle, Params={Name="empowertwohit_tar.troy", SkinID="-1"}}, 
+}

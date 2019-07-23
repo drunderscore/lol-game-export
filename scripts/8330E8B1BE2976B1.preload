@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawslow"}}, 
+{Function=BBPreloadSpell, Params={Name="syndraw"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawdamagecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="burning"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

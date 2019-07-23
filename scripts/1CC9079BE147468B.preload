@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Kled.KledFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="kledwattack1"}}, 
+{Function=BBPreloadSpell, Params={Name="kledriderwattack1"}}, 
+{Function=BBPreloadSpell, Params={Name="kledwattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="kledriderwattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="kledwattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="kledriderwattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="kledwattack4"}}, 
+{Function=BBPreloadSpell, Params={Name="kledriderwattack4"}}, 
+{Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="kledwactive"}}, 
+{Function=BBPreloadSpell, Params={Name="kledwattacking"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="graveschargeshot"}}, 
+{Function=BBPreloadSpell, Params={Name="graveschargeshotfxmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="graveschargeshotfxmissile2"}}, 
+{Function=BBPreloadSpell, Params={Name="graveschargeshotxplode"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="bansheesveil_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_heal.troy", SkinID="-1"}}, 
+}

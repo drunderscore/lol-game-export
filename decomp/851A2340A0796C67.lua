@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Kled/HUD/Icons2D/Kled_Q1.dds"
+BuffTextureName = L0_0
+L0_0 = "KledQSlow"
+BuffName = L0_0
+L0_0 = "r:Kled_Q_slow_tar"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0

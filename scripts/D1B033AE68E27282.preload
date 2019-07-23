@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="assassinmode_objective_boss2_vulnerable"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_objective_boss2_vulnerablecooldown"}}, 
+}

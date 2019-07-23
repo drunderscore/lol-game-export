@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="udyrphoenixattackult"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrspiritphoenixattackult"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrphoenixactivation"}}, 
+{Function=BBPreloadCharacter, Params={Name="udyrturtle"}}, 
+{Function=BBPreloadCharacter, Params={Name="udyrphoenixult"}}, 
+{Function=BBPreloadCharacter, Params={Name="udyrphoenix"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrphoenixbreath"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrspiritphoenixattack"}}, 
+{Function=BBPreloadSpell, Params={Name="udyrphoenixattack"}}, 
+}

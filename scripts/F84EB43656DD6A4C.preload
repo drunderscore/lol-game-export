@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dianapassive"}}, 
+{Function=BBPreloadSpell, Params={Name="dianaq"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="dianateleportbuff"}}, 
+}

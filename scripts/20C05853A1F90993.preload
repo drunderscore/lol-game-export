@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_plant_vision_pollen_debuff.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_watched.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ContribScores"}}, 
+{Function=BBPreloadAssetsLua, Params={Name="ASSETS/Perks/Styles/Domination/ZombieWard/ZombieWardNoLastHitBuff.lua"}}, 
+}

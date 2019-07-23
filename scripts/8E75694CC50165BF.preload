@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="howlingabysscombatmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="emoteplayonspawnemote"}}, 
+{Function=BBPreloadParticle, Params={Name="sog_bw_ceremony_barrier.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sog_bw_ceremony_barrier_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sog_ha_ceremony_barrier_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="trialsspawnbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="snowballimmunity"}}, 
+{Function=BBPreloadSpell, Params={Name="howlingabysshomestart"}}, 
+}

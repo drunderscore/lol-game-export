@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="summoner_boost.troy", SkinID="-1"}}, 
+}

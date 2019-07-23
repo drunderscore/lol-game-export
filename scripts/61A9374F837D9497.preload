@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="azirpassiveunavailable"}}, 
+{Function=BBPreloadCharacter, Params={Name="azirsundisc"}}, 
+{Function=BBPreloadSpell, Params={Name="azirobeliskvoally"}}, 
+{Function=BBPreloadSpell, Params={Name="azirobeliskvoenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="azirobelisksound"}}, 
+{Function=BBPreloadSpell, Params={Name="azirobelisk"}}, 
+}

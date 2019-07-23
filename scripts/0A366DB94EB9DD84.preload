@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotrtargetbodyhide"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotr"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrfear"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrescapedvo"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrreel"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwrhalter"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrgrind"}}, 
+}

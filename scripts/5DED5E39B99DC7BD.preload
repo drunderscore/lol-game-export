@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="npc_hazard_beamcrystal_beamtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="masterattackspeedbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="alphastrike"}}, 
+}

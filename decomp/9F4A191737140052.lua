@@ -1,0 +1,3 @@
+SpellVOOverrideSkins = {
+  "SG_KhaZixDroid"
+}

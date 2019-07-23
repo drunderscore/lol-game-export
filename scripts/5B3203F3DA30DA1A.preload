@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rumbleoverheat"}}, 
+{Function=BBPreloadSpell, Params={Name="rumbledangerzonebuff"}}, 
+}

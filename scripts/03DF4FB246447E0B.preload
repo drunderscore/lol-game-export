@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kingporoportals_turrethandler"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseryze"}}, 
+{Function=BBPreloadSpell, Params={Name="kingporoportals_lockoutbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kingporoportals_warphandler"}}, 
+}

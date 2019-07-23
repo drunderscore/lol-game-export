@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gravesisclone"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="gravesruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="gravespassive"}}, 
+{Function=BBPreloadSpell, Params={Name="gravesmove"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+}

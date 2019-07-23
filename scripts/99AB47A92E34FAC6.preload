@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_shieldgenerator_idle.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_shieldgenerator_idle_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_activate.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegedeployablesharedbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeshieldgeneratorbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeshieldgeneratorbufflines"}}, 
+}

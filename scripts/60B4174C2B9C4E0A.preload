@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_karthusfallenone"}}, 
+{Function=BBPreloadParticle, Params={Name="fallenone_nova.troy", SkinID="-1"}}, 
+}

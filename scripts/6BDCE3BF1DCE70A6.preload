@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zacqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="zacq"}}, 
+}

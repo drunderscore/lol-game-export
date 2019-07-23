@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_sharedbuff_enemychampions"}}, 
+{Function=BBPreloadSpell, Params={Name="npc_kogmaw_preparingattack"}}, 
+}

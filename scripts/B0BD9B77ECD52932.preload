@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrmissilefixedtraveltime"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrmissilerange1"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrmissilerange2"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrmissilerange3"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrmissilerange4"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrmissilerange5"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrstasis"}}, 
+{Function=BBPreloadSpell, Params={Name="bardrstasisspellimmunitycheck"}}, 
+}

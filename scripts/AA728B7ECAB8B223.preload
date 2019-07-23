@@ -1,0 +1,18 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggs_starteraug"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_shared_ora"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggspattack"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsq"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsqmissile1"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsqmissile2"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsqmissile3"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsw"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggse"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggseminefieldspreader"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_ziggsr"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsq"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_ghost.troy", SkinID="-1"}}, 
+}

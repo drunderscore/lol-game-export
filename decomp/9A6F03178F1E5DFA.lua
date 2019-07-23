@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "2041_Crystalline_Flask.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemCrystalFlaskCharge"
+BuffName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0

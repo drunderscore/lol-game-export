@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_GlobalUnitMovement"}}, 
+{Function=BBPreloadParticle, Params={Name="dreadnoughtspeed_max.troy", SkinID="-1"}}, 
+}

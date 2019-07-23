@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiterdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ufslash"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitep"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberenderwcollision"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitercataclysmwall"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysm"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiterrelentlessvacuum"}}, 
+}

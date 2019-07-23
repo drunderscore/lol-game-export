@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxpassivemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxcatchmeenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxcatchme"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_jinxmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxtauntcait"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxtauntvi"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxpassivekillmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxinhibitormonitor"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxqicon"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxcaitagitate"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxdancesfx"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="elisespiderlingsready"}}, 
+{Function=BBPreloadSpell, Params={Name="elisespiderlingsheal"}}, 
+{Function=BBPreloadSpell, Params={Name="elisermidshift"}}, 
+}

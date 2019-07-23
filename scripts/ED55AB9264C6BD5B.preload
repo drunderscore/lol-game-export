@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rivenwindslashmissilecenter"}}, 
+{Function=BBPreloadSpell, Params={Name="rivenwindslashmissileleft"}}, 
+{Function=BBPreloadSpell, Params={Name="rivenwindslashmissileright"}}, 
+}

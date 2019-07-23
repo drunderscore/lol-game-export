@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ziggsrvoice"}}, 
+{Function=BBPreloadParticle, Params={Name="globalhit_mana.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsr"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotziggsrminiboom"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotziggsrminitimer"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

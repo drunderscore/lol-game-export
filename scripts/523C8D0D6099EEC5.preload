@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Zed.CharFunctionsZed"}}, 
+{Function=BBPreloadSpell, Params={Name="zedeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="zede"}}, 
+{Function=BBPreloadSpell, Params={Name="zedemarker"}}, 
+{Function=BBPreloadCharacter, Params={Name="zedshadow"}}, 
+{Function=BBPreloadSpell, Params={Name="zedultshadowmark"}}, 
+{Function=BBPreloadSpell, Params={Name="zedrdasheffectshadow"}}, 
+{Function=BBPreloadSpell, Params={Name="zedrcloneswapevfx"}}, 
+{Function=BBPreloadSpell, Params={Name="zedwcloneswapevfx"}}, 
+{Function=BBPreloadSpell, Params={Name="zedwshadowbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="zedrmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="zedradbuff"}}, 
+}

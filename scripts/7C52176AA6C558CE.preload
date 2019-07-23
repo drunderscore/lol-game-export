@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_sharedbuff_minibosses"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_sharedbuff_elites"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_sharedbuff_allenemies"}}, 
+}

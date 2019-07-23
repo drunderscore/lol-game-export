@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = "3134_Serrated_Dirk.dds"
+BuffTextureName = L0_0
+L0_0 = "Serrated"
+BuffName = L0_0
+L0_0 = "Item_SerratedDirk_buf.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "L_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "Item_SerratedDirk_buf.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "R_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0

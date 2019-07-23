@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gravesqlineprotect"}}, 
+{Function=BBPreloadSpell, Params={Name="gravesqlinespell"}}, 
+}

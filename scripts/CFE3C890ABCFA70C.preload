@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="crowstormchannel"}}, 
+{Function=BBPreloadSpell, Params={Name="fiddlesticksdread"}}, 
+}

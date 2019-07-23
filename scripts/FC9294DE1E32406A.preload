@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Kled.KledFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="primaltalonshield"}}, 
+{Function=BBPreloadSpell, Params={Name="itemlifelinemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="primaltalonenragedisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="primaltalondamagemarker"}}, 
+}

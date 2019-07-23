@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="petcommandparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="hallucinatefull"}}, 
+{Function=BBPreloadParticle, Params={Name="cursor_moveto.troy", SkinID="-1"}}, 
+}

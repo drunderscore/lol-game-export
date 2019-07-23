@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rammuspowerballbot"}}, 
+{Function=BBPreloadSpell, Params={Name="rammusstatstonetaunttracker"}}, 
+}

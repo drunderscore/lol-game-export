@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="viktorchaosstormcancelchannels"}}, 
+{Function=BBPreloadCharacter, Params={Name="viktorsingularity"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorchaosstormguide"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorchaosstormaoe"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorchaosstormtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorexpirationtimer"}}, 
+}

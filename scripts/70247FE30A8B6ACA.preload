@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnqpillar"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberenderwcollision"}}, 
+{Function=BBPreloadSpell, Params={Name="crystallize"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadModule, Params={Name="Ornn.ForgeFunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+}

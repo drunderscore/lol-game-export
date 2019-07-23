@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="anniepassivestack"}}, 
+{Function=BBPreloadSpell, Params={Name="anniepassivestun"}}, 
+}

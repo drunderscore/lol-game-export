@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kogmawlivingartillerysight"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="kogmawlivingartillerycost"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellPings"}}, 
+}

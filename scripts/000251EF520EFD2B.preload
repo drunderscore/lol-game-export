@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuorisavailable"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuorleashparticle"}}, 
+}

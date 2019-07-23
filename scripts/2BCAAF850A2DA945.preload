@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odinquestbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="odinquestbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="odinquestbuffparticle"}}, 
+}

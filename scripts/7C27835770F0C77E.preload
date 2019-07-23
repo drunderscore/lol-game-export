@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="kledqvisionshare"}}, 
+{Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="kledqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="kledqbump"}}, 
+{Function=BBPreloadSpell, Params={Name="kledq"}}, 
+}

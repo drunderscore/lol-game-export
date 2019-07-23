@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="talentreapervfx"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_fotm_heal.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="talentreaperdisplay"}}, 
+{Function=BBPreloadParticle, Params={Name="mastery_reaper_1c.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="mastery_reaper_2c.troy", SkinID="-1"}}, 
+}

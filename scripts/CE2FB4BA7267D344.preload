@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanq"}}, 
+{Function=BBPreloadSpell, Params={Name="heightenedlearning"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanpammo"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanpassivechannel"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanqallybomb"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanqenemybomb"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanqground"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanqdetonateaudio"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanqenemyhitaudio"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanstunanim"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanq_urf"}}, 
+{Function=BBPreloadSpell, Params={Name="zileanw_urf"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnqtargetmarker"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnQ"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnqdebuffcirclemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnqdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnq2"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimire"}}, 
+}

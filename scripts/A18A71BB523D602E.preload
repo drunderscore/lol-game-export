@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_elitebuff_chogath"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_controlbuff_chogath"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_chogath_battlecast_audio_revive.troy", SkinID="-1"}}, 
+}

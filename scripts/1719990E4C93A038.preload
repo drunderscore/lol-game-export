@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredpassivemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="braummarkdamagetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredq_urfwrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredwchargepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmarkofthekindredtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="kindreduiincombatbuff"}}, 
+}

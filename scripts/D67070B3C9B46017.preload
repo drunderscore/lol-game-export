@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="srspawnbuff_holdinplace"}}, 
+{Function=BBPreloadSpell, Params={Name="srspawnbuff_snowdown"}}, 
+{Function=BBPreloadSpell, Params={Name="srspawnbuff_popstar"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_spawn_platform.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="project_spawn_platform_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="rainbow_spawn_platform.troy", SkinID="-1"}}, 
+}

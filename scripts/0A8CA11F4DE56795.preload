@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tricksters_glass_poof.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalpolymorphhasbegun"}}, 
+{Function=BBPreloadCharacter, Params={Name="doombotsbossteemo"}}, 
+}

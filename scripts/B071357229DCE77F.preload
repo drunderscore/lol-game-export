@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="aniviaegg"}}, 
+{Function=BBPreloadParticle, Params={Name="eggtimer.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="rebirthcooldown"}}, 
+{Function=BBPreloadParticle, Params={Name="blackiceaniviarebirth_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="rebirthanimationplay"}}, 
+{Function=BBPreloadParticle, Params={Name="rebirth_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="aniviaeggdeathanimationplay"}}, 
+}

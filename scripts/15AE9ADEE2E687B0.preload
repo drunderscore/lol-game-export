@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotfiddlestickscrowstormlockout"}}, 
+{Function=BBPreloadCharacter, Params={Name="fiddlesticks"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotfiddlesticksfakecrowstorm"}}, 
+{Function=BBPreloadParticle, Params={Name="mordekeiser_cotg_skin.troy", SkinID="-1"}}, 
+}

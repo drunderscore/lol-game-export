@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="projectmode17_teleportedrecently"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_being_teleported.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_unit_destination.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_setcameratohero"}}, 
+}

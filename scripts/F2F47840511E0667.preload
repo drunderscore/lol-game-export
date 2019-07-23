@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="jinxmine"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_jinxemine"}}, 
+}

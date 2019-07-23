@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "Akali_R2.dds"
+BuffTextureName = L0_0
+L0_0 = "AkaliR"
+BuffName = L0_0

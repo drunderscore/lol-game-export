@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="kledrider"}}, 
+{Function=BBPreloadSpell, Params={Name="kleddismountdash"}}, 
+{Function=BBPreloadCharacter, Params={Name="kled"}}, 
+{Function=BBPreloadSpell, Params={Name="kledpassivecooldown"}}, 
+{Function=BBPreloadModule, Params={Name="Kled.KledGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="kledqmark"}}, 
+{Function=BBPreloadSpell, Params={Name="kledq"}}, 
+{Function=BBPreloadModule, Params={Name="Kled.KledFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="kledmountreturn"}}, 
+{Function=BBPreloadSpell, Params={Name="kledw"}}, 
+{Function=BBPreloadSpell, Params={Name="kledpoffmountspeedprotection"}}, 
+{Function=BBPreloadSpell, Params={Name="kledpoffmountspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="kledrdash"}}, 
+}

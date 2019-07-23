@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="yasuoq1wrapper"}}, 
+{Function=BBPreloadParticle, Params={Name="yasuo_skin01_q_windswirl.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="yasuo_q_windswirl.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Yasuo.YasuoFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuoq2damage"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuoq3wrapper"}}, 
+{Function=BBPreloadParticle, Params={Name="yasuo_base_q_ready_sound.troy", SkinID="-1"}}, 
+}

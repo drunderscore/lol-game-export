@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysmsilence"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysmvisibility"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysmsound"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysmcheck"}}, 
+{Function=BBPreloadCharacter, Params={Name="jarvanivwall"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysmid"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivcataclysmattack"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+}

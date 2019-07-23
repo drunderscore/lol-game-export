@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="npc_hazard_bubblegeyser_debuff_tooltip"}}, 
+{Function=BBPreloadSpell, Params={Name="namiq"}}, 
+}

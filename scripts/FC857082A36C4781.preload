@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxeffect_jump_shield.troy", SkinID="-1"}}, 
+}

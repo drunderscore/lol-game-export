@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneattackanimationcycle"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneprojectmask"}}, 
+{Function=BBPreloadSpell, Params={Name="vaynehunted"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneinquisitionspeedpart"}}, 
+{Function=BBPreloadSpell, Params={Name="vayneinquisitionspeedpartnormal"}}, 
+}

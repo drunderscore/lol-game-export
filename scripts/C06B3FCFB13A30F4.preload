@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_PlayerBuff"}}, 
+{Function=BBPreloadParticle, Params={Name="goldaquisition_glb.troy", SkinID="-1"}}, 
+}

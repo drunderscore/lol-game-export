@@ -1,0 +1,17 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="coin_base_model_gold.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_model_gold_faded.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_gold_flight_trail.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_gold_ally_glow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_gold_enemy_glow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_model_mana.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_model_mana_faded.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_mana_flight_trail.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_mana_ally_glow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_mana_enemy_glow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_warning_death_timer.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_warning_death_poof.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_gold_get.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_mana_get.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="coin_base_lock_on.troy", SkinID="-1"}}, 
+}

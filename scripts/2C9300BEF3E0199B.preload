@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="blessingofthelizardelderforclones"}}, 
+{Function=BBPreloadSpell, Params={Name="crestoftheancientgolemforclones"}}, 
+{Function=BBPreloadSpell, Params={Name="exaltedwithbaronnashorforclones"}}, 
+{Function=BBPreloadSpell, Params={Name="exaltedwithminibaronnashor"}}, 
+{Function=BBPreloadSpell, Params={Name="riftheraldbuffcounter"}}, 
+{Function=BBPreloadSpell, Params={Name="elixirofsorceryforclones"}}, 
+{Function=BBPreloadSpell, Params={Name="elixirofwrathforclones"}}, 
+{Function=BBPreloadSpell, Params={Name="elixirofironforclones"}}, 
+{Function=BBPreloadSpell, Params={Name="dravenheadbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphageminispeed"}}, 
+}

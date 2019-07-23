@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Taliyah.FunctionsTaliyah"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahpwallspeedfullyramped"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sionwshieldstacks"}}, 
+{Function=BBPreloadSpell, Params={Name="sionwsoundshield"}}, 
+{Function=BBPreloadSpell, Params={Name="sionwdetonate"}}, 
+{Function=BBPreloadSpell, Params={Name="sionwsoundhit"}}, 
+{Function=BBPreloadSpell, Params={Name="sionwsoundexplosion"}}, 
+}

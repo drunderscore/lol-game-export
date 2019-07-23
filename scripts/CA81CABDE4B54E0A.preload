@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ornnehitmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="ornneknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnqpillar"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnsummonerspelllockout"}}, 
+}

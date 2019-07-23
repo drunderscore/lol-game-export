@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="executionerscalling_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="internal_50ms"}}, 
+{Function=BBPreloadSpell, Params={Name="grievouswound"}}, 
+{Function=BBPreloadSpell, Params={Name="orbofshadowspen"}}, 
+}

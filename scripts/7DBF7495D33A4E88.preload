@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Yuumi.YuumiWAlly"}}, 
+{Function=BBPreloadSpell, Params={Name="yuumiwend"}}, 
+}

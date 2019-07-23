@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="lucianpassivebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="lucianr"}}, 
+}

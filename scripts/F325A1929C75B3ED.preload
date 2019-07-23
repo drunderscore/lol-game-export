@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="karthusfallenonetarget"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusfallenonecastsound"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusfallenonepacify"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusfallenonedamagesound"}}, 
+}

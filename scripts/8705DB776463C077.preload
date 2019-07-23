@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.BWMercFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="bilgewatermercenary12upgradebuff"}}, 
+}

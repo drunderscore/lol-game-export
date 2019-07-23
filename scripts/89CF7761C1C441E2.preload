@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ivernrmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernp"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpcollection"}}, 
+{Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpapplication"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernbasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernbasicattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernbasicattackranged2"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernbasicattackranged"}}, 
+{Function=BBPreloadParticle, Params={Name="ivern_base_p_link_tar_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ivern_base_p_link_success.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernwpassive"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dariusexecutemulticast"}}, 
+{Function=BBPreloadSpell, Params={Name="dariusrfleeslow"}}, 
+{Function=BBPreloadParticle, Params={Name="dariusexecutecastsound.troy", SkinID="-1"}}, 
+}

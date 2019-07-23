@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="summonersmiteinitializer"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_smite_duel_player.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsmitechallenge"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsmiteattacksmanager"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_smite_duel_monster.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="smitten"}}, 
+}

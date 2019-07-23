@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="sru_snail"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+}

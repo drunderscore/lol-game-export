@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingdeathparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotmonkeykingbuff"}}, 
+}

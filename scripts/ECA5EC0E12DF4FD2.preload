@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sona_starteraug"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_shared_ora"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonaq"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonaw"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonae"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonar"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonagdropmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonapassivecount"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonaqpassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonawpassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_sonaepassivecheck"}}, 
+}

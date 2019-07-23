@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemlostchapter"}}, 
+{Function=BBPreloadSpell, Params={Name="itemcdrhastebuff"}}, 
+}

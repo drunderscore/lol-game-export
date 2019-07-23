@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotyorickbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Yorick.YorickFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickpassivedeathcounter"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickpassivedeathready"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickdancesfx"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickrdummylevelvo"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickpassiveaicfh"}}, 
+}

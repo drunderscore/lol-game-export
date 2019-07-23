@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ekkowstun"}}, 
+{Function=BBPreloadSpell, Params={Name="ekkowshield"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_kingporo"}}, 
+{Function=BBPreloadCharacter, Params={Name="slime_kingporo"}}, 
+}

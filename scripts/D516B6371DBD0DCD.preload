@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="projectmode17_exhaust_vent_launchpad_idle.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_sharedmapobjknockback"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_exhaust_vent_launchpad_tar.troy", SkinID="-1"}}, 
+}

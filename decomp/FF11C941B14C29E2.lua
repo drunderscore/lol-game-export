@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/TFT_Fizz/HUD/Icons2D/TFT_Fizz_W.dds"
+BuffTextureName = L0_0
+L0_0 = "TFT_FizzOnHitBuff"
+BuffName = L0_0
+L0_0 = "r:TFT_Fizz_W_Weapon"
+AutoBuffActivateEffect = L0_0
+L0_0 = "BUFFBONE_CSTM_WEAPON_1"
+AutoBuffActivateAttachBoneName = L0_0

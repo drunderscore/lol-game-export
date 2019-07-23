@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sivirpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="sivirruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sivirpizzastacks"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_m.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_iceblock_xs.troy", SkinID="-1"}}, 
+}

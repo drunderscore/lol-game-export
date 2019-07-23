@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="malphiteshieldremoval"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitepalwaysreapply"}}, 
+{Function=BBPreloadParticle, Params={Name="global_item_thornmail_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitepbeenhit"}}, 
+}

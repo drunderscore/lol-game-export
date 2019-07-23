@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="meditate_eff.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="alistartrample"}}, 
+}

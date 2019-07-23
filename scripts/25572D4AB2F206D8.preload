@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="hallucinateguide"}}, 
+{Function=BBPreloadModule, Params={Name="Shaco.ShacoFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="hallucinateapplicator"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadParticle, Params={Name="cursor_moveto.troy", SkinID="-1"}}, 
+}

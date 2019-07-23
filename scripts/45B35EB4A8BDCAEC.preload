@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Fiora.FioraFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="fioraeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="fiorae2"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bardpspirithandleemotes"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpspiritmissilepicker_hack"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpspirithandlerecall"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpdisplayspirittimer"}}, 
+{Function=BBPreloadSpell, Params={Name="bardpspiritammocount"}}, 
+{Function=BBPreloadCharacter, Params={Name="bardfollower"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_titanichydra_arc.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalhit_physical.troy", SkinID="-1"}}, 
+}

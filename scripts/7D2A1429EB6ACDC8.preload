@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="garenpassiveheal"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="garenpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="garenruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="garenwpassivetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="garenwpassive"}}, 
+}

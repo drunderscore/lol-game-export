@@ -1,0 +1,23 @@
+local L0_0
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = 10
+ChannelDuration = L0_0
+L0_0 = "ASSETS/Shared/Spells/Icons2D/Yeti_Shatter.dds"
+BuffTextureName = L0_0
+L0_0 = "Absolute Zero"
+BuffName = L0_0
+L0_0 = "Nunu_Base_R_Cas.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = {"NunuBot"}
+SpellFXOverrideSkins = L0_0
+L0_0 = {""}
+SpellVOOverrideSkins = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

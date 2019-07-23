@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kindredhitlisttracker"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmarkofthekindredstackcounter"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredlegendpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredwolfbuddyvisual"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredhitlistsuccesstracker0"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredhitlistsuccesstracker1"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredhitlistsuccesstracker2"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmonsterbountylockout"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredhitlistmonsteractivetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredhittracker"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredpassivemonsterassistmarker"}}, 
+}

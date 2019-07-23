@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ornnblackcleaverbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphageminispeed"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphagespeed"}}, 
+{Function=BBPreloadParticle, Params={Name="item_blackcleaver_speed_activate.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siegedefensewarptarget"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_spawnpad.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotluxetoggle"}}, 
+{Function=BBPreloadSpell, Params={Name="luxlightstrikekugel"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadModule, Params={Name="Lux.LuxIlluminationPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotluxetrigger"}}, 
+}

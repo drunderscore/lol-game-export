@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tt_fearimmunity"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbossminionsiegeattack"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_exalted_buf_siege.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_exalted_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_exalted_buf_order.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_junglebuff_meleemin_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_junglebuff_siegemin_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tt_junglebuff_meleemin_shield_hit.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarfurygeneration"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarbigiscasting"}}, 
+{Function=BBPreloadSpell, Params={Name="gnartransform"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarbigwself"}}, 
+}

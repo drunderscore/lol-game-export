@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="virdunktargetself"}}, 
+{Function=BBPreloadSpell, Params={Name="vir"}}, 
+{Function=BBPreloadParticle, Params={Name="vi_base_racer_r_pillar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="virmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="virdunktarget"}}, 
+{Function=BBPreloadSpell, Params={Name="virdunkstun"}}, 
+}

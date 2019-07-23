@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="npc_kogmaw_skin05_r_cas_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="npc_kogmaw_skin05_r_cas_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="globalhit_bloodslash.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+}

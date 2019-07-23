@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.PlayerTerrian"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="itemfrozenfistfield"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_warthogexplosionknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_warthogpassengercooldown"}}, 
+}

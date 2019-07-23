@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_riftherald_minibaronvulnerable"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_riftherald_minibaronvulnerablecooldown"}}, 
+}

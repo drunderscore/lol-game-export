@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="tutorial_portal"}}, 
+{Function=BBPreloadSpell, Params={Name="tutorial_module_1_tuswapchamp"}}, 
+}

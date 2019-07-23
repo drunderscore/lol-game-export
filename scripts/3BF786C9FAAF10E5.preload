@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="trundlewall"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="trundlestatstoneetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadSpell, Params={Name="globaldummyknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="trundlewallbounce"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="trundlecircleslow"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itembtoverhealtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="item_btoverheal_proc.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_btoverheal_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itembtoverhealdecay"}}, 
+{Function=BBPreloadParticle, Params={Name="item_btoverheal_decay.troy", SkinID="-1"}}, 
+}

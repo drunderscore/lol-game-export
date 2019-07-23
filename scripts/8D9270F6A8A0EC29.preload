@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="shenrchannelbuffbar"}}, 
+{Function=BBPreloadSpell, Params={Name="shenr"}}, 
+{Function=BBPreloadSpell, Params={Name="shenrtargettracker"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Vector"}}, 
+{Function=BBPreloadModule, Params={Name="Shen.ShenFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="shenrtoestatstonetracker"}}, 
+}

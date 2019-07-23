@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="aramhealthpickup_aoe.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_healthpackheal.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="summoner_mana.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_redemption_indicator_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_redemption_cast.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_redemption_heal_aoe.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_redemption_hit_heal.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="projectmode17_controller"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_chargedup"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_sog_channelbeam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_channeltarget.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_energy_courier_idle.troy", SkinID="-1"}}, 
+}

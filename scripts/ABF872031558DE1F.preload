@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_casting"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_playerinvuln"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_orablobtracer"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

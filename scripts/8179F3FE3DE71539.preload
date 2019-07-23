@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taliyahwcasttime"}}, 
+{Function=BBPreloadModule, Params={Name="Taliyah.FunctionsTaliyah"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahwnoclick"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahwsound"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahwknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahwmovebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahdatahookwmove"}}, 
+}

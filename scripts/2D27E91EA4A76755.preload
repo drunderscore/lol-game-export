@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetbuffdragon"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserdragonfireball"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserdragonfireball2"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgself"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgguide"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserrpetdeath"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserchildrenofthegrave"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserrpettarget"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisercotgpetdmg"}}, 
+{Function=BBPreloadParticle, Params={Name="cursor_moveto.troy", SkinID="-1"}}, 
+}

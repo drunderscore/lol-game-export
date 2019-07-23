@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rumblecarpetbombeffect"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblecarpetbomb"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblecarpetbombcounter"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="rumblecarpetbombsound1"}}, 
+}

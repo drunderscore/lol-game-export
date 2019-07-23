@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jinxeminemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxe"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxeminesnare"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxefireburn"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxefireburnmarker"}}, 
+}

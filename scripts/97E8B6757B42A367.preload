@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="warwickwtrackingtrailvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwactive"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwpassivems"}}, 
+{Function=BBPreloadModule, Params={Name="Warwick.WarwickFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwactivemiss"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwactivehit"}}, 
+{Function=BBPreloadSpell, Params={Name="warwickwunlockanimation"}}, 
+}

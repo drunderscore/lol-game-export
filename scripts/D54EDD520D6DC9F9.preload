@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.DragonIndicatorVFX"}}, 
+{Function=BBPreloadParticle, Params={Name="dragon_indicator_air.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="dragon_indicator_fire.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="dragon_indicator_water.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="dragon_indicator_earth.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="dragon_indicator_elder.troy", SkinID="-1"}}, 
+}

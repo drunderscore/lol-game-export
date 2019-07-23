@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_r_evo2_charactertexture.troy", SkinID="-1"}}, 
+}

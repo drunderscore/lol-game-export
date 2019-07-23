@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="bardhealthshrine"}}, 
+{Function=BBPreloadSpell, Params={Name="darkstarpowerupminionbuff"}}, 
+}

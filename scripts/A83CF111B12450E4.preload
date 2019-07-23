@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistapassiveon"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistavobindally"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistavobindallyglobal"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistavoallydeath"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistavoallyassist"}}, 
+}

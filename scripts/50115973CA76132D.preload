@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_rewarddisplayyouhavefeeney"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_rewarddisplayenemyhasfeeney"}}, 
+{Function=BBPreloadCharacter, Params={Name="slime_feeneypult"}}, 
+}

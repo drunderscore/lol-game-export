@@ -1,0 +1,13 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntBreakShields = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = true
+CastingBreaksStealth = L0_0
+L0_0 = "ASSETS/Characters/Heimerdinger/HUD/Icons2D/Heimerdinger_Q1.dds"
+BuffTextureName = L0_0
+L0_0 = false
+IsDamagingSpell = L0_0

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sionqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="sionq"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqsoundafterhalfhit"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="sionqsoundbeforehalfhit"}}, 
+}

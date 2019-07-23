@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Sejuani.SejuaniPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanislow"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanir"}}, 
+}

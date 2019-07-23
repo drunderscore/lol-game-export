@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_fizzebuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzeicon"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzedelay"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzebuffered"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzetwo"}}, 
+}

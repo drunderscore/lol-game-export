@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ahri_foxfire_obd-sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="dianashield"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+{Function=BBPreloadSpell, Params={Name="dianaorbsmissile"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="eyeofthestorm_frost_ally_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="eyeofthestorm_buf.troy", SkinID="-1"}}, 
+}

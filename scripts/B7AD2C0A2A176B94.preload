@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="malphiteshieldeffect"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+}

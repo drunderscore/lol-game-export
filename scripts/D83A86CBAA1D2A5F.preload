@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Qiyana.QiyanaPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanapassivecd_rock"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanapassivecd_grass"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanapassivecd_water"}}, 
+{Function=BBPreloadSpell, Params={Name="qiyanapassivecd_base"}}, 
+}

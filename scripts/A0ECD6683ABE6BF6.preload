@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinwwindwallfix"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannon"}}, 
+{Function=BBPreloadSpell, Params={Name="jhinpassivehaste"}}, 
+}

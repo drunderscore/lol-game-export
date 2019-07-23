@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="summonersmiteinitializer"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsmiteslow"}}, 
+{Function=BBPreloadSpell, Params={Name="itemchillingsmitespeed"}}, 
+{Function=BBPreloadSpell, Params={Name="s5_summonersmiteplayerganker"}}, 
+{Function=BBPreloadSpell, Params={Name="smitten"}}, 
+}

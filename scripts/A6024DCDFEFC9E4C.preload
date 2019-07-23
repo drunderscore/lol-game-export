@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="siegeforcefield_bubble.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegetimefielddebuff"}}, 
+}

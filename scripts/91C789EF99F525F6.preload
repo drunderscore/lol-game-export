@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="manamuneattackconversion"}}, 
+{Function=BBPreloadSpell, Params={Name="muramana"}}, 
+{Function=BBPreloadSpell, Params={Name="item_insightmanarefund"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gladiatortft_dravenleftaxereturn"}}, 
+{Function=BBPreloadModule, Params={Name="TFT_Draven.CharFunctionTFT_Draven"}}, 
+}

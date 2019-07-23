@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_shadow"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_rhaast"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_knockup"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_transform_3"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="cassiopeiawmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="cassiopeiawpoison"}}, 
+{Function=BBPreloadSpell, Params={Name="cassiopeiawslow"}}, 
+{Function=BBPreloadSpell, Params={Name="grounded"}}, 
+}

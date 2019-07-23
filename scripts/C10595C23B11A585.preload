@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="karthuswallofpaintarget"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpain"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpainextra"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpainmarker"}}, 
+}

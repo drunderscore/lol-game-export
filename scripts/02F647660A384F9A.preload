@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kennenlightningrushbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenlightningrushdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="kennenlrcancel"}}, 
+}

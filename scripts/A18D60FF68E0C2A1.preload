@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="evelynnpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnFunctionModule"}}, 
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnQ"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnqtargetmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnrthresholdmarker"}}, 
+}

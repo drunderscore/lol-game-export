@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_ceremonymove_orabot"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_ceremonymove"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_FunctionModule"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="threshlantern"}}, 
+{Function=BBPreloadCharacter, Params={Name="kalistaaltar"}}, 
+{Function=BBPreloadSpell, Params={Name="threshlanternvisualbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="threshwlanternvisibility"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taliyahoutofcombat"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahpwallspeedbuff"}}, 
+}

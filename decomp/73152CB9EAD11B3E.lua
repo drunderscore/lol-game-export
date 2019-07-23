@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Leblanc/HUD/Icons2D/LeblancP.dds"
+BuffTextureName = L0_0
+L0_0 = "LeblancPBuff"
+BuffName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0
+L0_0 = true
+Nondispellable = L0_0

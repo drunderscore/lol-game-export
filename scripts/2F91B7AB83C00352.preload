@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kassadinchargedbladefx"}}, 
+{Function=BBPreloadSpell, Params={Name="kassadinbladefx"}}, 
+}

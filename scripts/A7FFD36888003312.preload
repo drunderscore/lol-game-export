@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.JungleCampSpawn"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_camprespawnmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="camprespawncountdownhidden"}}, 
+{Function=BBPreloadSpell, Params={Name="camprespawncountdownvisible"}}, 
+}

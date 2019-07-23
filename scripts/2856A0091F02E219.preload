@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeesleepstun"}}, 
+{Function=BBPreloadSpell, Params={Name="zoestatstoneekilltracker"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeesleep"}}, 
+}

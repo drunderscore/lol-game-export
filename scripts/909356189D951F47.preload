@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="rammusdbc"}}, 
+{Function=BBPreloadSpell, Params={Name="defensiveballcurlcancel"}}, 
+}

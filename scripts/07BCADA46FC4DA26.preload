@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemoverflowingcup"}}, 
+{Function=BBPreloadSpell, Params={Name="chaliceofharmony"}}, 
+}

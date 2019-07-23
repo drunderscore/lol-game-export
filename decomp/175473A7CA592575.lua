@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Fizz/HUD/Icons2D/Fizz_E1.dds"
+BuffTextureName = L0_0
+L0_0 = "FizzEBuffered"
+BuffName = L0_0
+L0_0 = 1
+SpellToggleSlot = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

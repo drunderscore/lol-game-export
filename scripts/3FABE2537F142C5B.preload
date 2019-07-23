@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_dragon_spawn_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="moveawaycollision"}}, 
+}

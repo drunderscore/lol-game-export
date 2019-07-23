@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffmodeloverlaycannon.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffmodeloverlaycannon_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffhandglowcannon.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffhandglowcannon_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffmodeloverlay.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffmodeloverlay_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffhandglow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_barracks_buffhandglow_red.troy", SkinID="-1"}}, 
+}

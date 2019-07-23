@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Mordekaiser.MordekaiserFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserbasicattack"}}, 
+}

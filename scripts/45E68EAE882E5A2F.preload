@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ivern_base_p_link_tar_ally.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ivern_base_p_link_success.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
+}

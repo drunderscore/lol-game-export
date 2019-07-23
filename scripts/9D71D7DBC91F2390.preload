@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jayceshockblast"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycehypercharge"}}, 
+{Function=BBPreloadSpell, Params={Name="jayceaccelerationgate"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycerangedattack"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycerangedcritattack"}}, 
+{Function=BBPreloadSpell, Params={Name="jaycepassiverangedattack"}}, 
+}

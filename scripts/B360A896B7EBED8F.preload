@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="itemdevourerpetoverlaystealthed.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="itemdevourerpetoverlay.troy", SkinID="-1"}}, 
+}

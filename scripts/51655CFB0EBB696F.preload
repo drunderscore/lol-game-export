@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozwsounddummybuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozwdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_velkozwdamagemarker"}}, 
+}

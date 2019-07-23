@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="itemhurricaneanchor.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemhurricanejinxattack"}}, 
+{Function=BBPreloadSpell, Params={Name="itemhurricaneattack"}}, 
+{Function=BBPreloadSpell, Params={Name="itemhurricaneasheattack"}}, 
+{Function=BBPreloadSpell, Params={Name="itemhurricanekalistaattack"}}, 
+}

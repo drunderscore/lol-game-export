@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuo_starteraug"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_shared_ora"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuopassive"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoq1wrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuow"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoe"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuor"}}, 
+}

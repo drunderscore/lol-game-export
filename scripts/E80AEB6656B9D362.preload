@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="alistarheadbuttmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="headbuttautoattackinhibitor"}}, 
+{Function=BBPreloadSpell, Params={Name="alistartrample"}}, 
+{Function=BBPreloadParticle, Params={Name="headbutt_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="headbutttarget"}}, 
+{Function=BBPreloadSpell, Params={Name="stun"}}, 
+}

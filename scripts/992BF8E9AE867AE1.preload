@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisapassive"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaattackanimationcycle"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaqevolveprogression"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisawevolveprogression"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaeevolveprogression"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisarready"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisae"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisaeweaponmaterials"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisareviveanimlockout"}}, 
+}

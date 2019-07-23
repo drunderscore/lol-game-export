@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="outofcombatdebuffmanager"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_airdragon_buff.troy", SkinID="-1"}}, 
+}

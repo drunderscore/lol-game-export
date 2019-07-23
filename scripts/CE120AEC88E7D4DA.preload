@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tt_blackfiretorch.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="barondebuff"}}, 
+}

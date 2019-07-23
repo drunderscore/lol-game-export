@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nunur_recast"}}, 
+{Function=BBPreloadSpell, Params={Name="nunurshield"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

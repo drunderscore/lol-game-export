@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zyrawseedmis"}}, 
+{Function=BBPreloadCharacter, Params={Name="zyraseed"}}, 
+{Function=BBPreloadModule, Params={Name="Zyra.ZyraFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="zyraseedtrapvision"}}, 
+}

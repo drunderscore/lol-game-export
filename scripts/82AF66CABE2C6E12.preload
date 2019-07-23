@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeprotect"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeproc"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistaexpungemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikemarkally"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarqempasbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarq"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarrshred"}}, 
+}

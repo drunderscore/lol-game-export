@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="flesheater_tar_consume.troy", SkinID="-1"}}, 
+}

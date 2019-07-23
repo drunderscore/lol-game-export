@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="projectmode17_teleportpad_short_chargeup.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_teleportpad.troy", SkinID="-1"}}, 
+}

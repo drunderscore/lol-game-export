@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_zekes_impact_b.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="zekes_enraged.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_zekes_ice_storm.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemzekesconduitdisplayself"}}, 
+{Function=BBPreloadSpell, Params={Name="itemstarksbindingbufferfireproc"}}, 
+{Function=BBPreloadSpell, Params={Name="rylaivisualslowaoe"}}, 
+{Function=BBPreloadSpell, Params={Name="itemslow"}}, 
+}

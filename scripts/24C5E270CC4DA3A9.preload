@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="illaoiedimensiontracker"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoiespirittimervisual"}}, 
+}

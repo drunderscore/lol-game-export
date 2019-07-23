@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="haste"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_voidoozeslow"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_voidooze"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_voidoozeprotect"}}, 
+}

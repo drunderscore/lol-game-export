@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemimmolatedamage"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsunfirecapeparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsunfirecapepulse"}}, 
+{Function=BBPreloadSpell, Params={Name="burning"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="superrecall"}}, 
+{Function=BBPreloadSpell, Params={Name="superrecallimproved"}}, 
+{Function=BBPreloadSpell, Params={Name="recall"}}, 
+{Function=BBPreloadSpell, Params={Name="recallimproved"}}, 
+}

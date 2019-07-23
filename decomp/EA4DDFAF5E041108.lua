@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Spells/Icons2D/Voidwalker_Spellseal.dds"
+BuffTextureName = L0_0
+L0_0 = "Silence"
+BuffName = L0_0
+L0_0 = "Heimer_TurretShutdown.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Silenced"
+PopupMessage1 = L0_0

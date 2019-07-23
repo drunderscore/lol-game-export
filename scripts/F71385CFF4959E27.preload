@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_fizzonhitbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzw"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_fizzwdot"}}, 
+}

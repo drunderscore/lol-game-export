@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoee"}}, 
+{Function=BBPreloadSpell, Params={Name="zoebasicattack"}}, 
+{Function=BBPreloadModule, Params={Name="Zoe.ZoeFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="zoepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="zoew"}}, 
+{Function=BBPreloadSpell, Params={Name="ahrifoxfire"}}, 
+}

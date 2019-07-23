@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_sharedbuff_enemychampion"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_chogath_battlecast_vorpal_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_forceaggro"}}, 
+}

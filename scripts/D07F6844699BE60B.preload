@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_playeroutside_burn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_playeroutside_burn_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadTexture, Params={Name="wavestar_betweenround_warningoverlaypurple.dds"}}, 
+}

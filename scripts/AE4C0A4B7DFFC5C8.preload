@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="karthus_base_p_distortavatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusdeathdefiedrtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpain2"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusdefile2"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusfallenone2"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusdefile"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusdeathdefied"}}, 
+{Function=BBPreloadParticle, Params={Name="karthus_base_p_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuswallofpain"}}, 
+{Function=BBPreloadSpell, Params={Name="karthusfallenone"}}, 
+}

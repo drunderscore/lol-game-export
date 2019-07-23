@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemdusknightstalkerdamageproc"}}, 
+{Function=BBPreloadSpell, Params={Name="itemdusknightstalkerunseentimer"}}, 
+{Function=BBPreloadSpell, Params={Name="itemdusknightstalkerseentimer"}}, 
+}

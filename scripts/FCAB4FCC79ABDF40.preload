@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="projectmode17_pickup_sharedbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_cooldownorb.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_cooldown_pickup.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_cooldown_pickup_tar.troy", SkinID="-1"}}, 
+}

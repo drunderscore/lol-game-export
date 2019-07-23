@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadTexture, Params={Name="ryze_r_screenflash.dds"}}, 
+}

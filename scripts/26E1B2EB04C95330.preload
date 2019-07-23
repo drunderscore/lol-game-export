@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalpolymorphhasbegun"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_redmini"}}, 
+}

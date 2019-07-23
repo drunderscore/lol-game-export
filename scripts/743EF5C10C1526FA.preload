@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="kingporo_heal_ring.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_heal.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="slime_kingporo_death_sound.troy", SkinID="-1"}}, 
+}

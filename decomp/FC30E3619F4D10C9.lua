@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Viktor/HUD/Icons2D/Viktor_R1.dds"
+BuffTextureName = L0_0
+L0_0 = "ViktorChaosStormGuide"
+BuffName = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0
+L0_0 = true
+IsPetDurationBuff = L0_0

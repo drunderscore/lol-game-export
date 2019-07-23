@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="braumwpassivestatsdoubler"}}, 
+{Function=BBPreloadSpell, Params={Name="braumw"}}, 
+}

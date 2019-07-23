@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "3142_YomuuGhostblade.dds"
+BuffTextureName = L0_0
+L0_0 = "SpectralFury"
+BuffName = L0_0
+L0_0 = "spectral_fury_activate.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "spectral_fury_activate_speed.troy"
+AutoBuffActivateEffect3 = L0_0
+L0_0 = "root"
+AutoBuffActivateAttachBoneName3 = L0_0

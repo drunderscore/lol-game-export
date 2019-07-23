@@ -1,0 +1,4 @@
+SpellFXOverrideSkins = {
+  "VarusAscended",
+  "VarusSkin03"
+}

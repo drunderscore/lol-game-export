@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="introbotforcebuy"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_junglehinta"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_recentlyrespawned"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_recallchannelhint"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_towerspellshint"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_incombat"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_toweraggrohint1"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_toweraggrohint2"}}, 
+{Function=BBPreloadSpell, Params={Name="npe2018_junglehintb"}}, 
+}

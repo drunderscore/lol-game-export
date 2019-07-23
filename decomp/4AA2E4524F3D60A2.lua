@@ -1,0 +1,3 @@
+SpellVOOverrideSkins = {
+  "TeemoSkin08"
+}

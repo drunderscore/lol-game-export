@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemvoidgatetowerbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="firetorch_purple.troy", SkinID="-1"}}, 
+}

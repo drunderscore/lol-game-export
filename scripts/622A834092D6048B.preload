@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="khazixpdamage"}}, 
+{Function=BBPreloadParticle, Params={Name="khazix_stealth_evolved_texture.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_trueice_hit_nova.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_trueice_hit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemglacialspikeenemyslow"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

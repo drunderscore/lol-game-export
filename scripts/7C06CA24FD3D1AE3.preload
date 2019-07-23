@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="hecarimultmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimult"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimvision"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadCharacter, Params={Name="spellbook1"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

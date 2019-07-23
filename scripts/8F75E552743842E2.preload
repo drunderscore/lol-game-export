@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadSpell, Params={Name="zyraqplantmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="zyraplantdrplant"}}, 
+{Function=BBPreloadSpell, Params={Name="zyraplantdrzyra"}}, 
+}

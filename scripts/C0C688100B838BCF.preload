@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="talonq"}}, 
+{Function=BBPreloadSpell, Params={Name="talonw"}}, 
+{Function=BBPreloadSpell, Params={Name="talone"}}, 
+{Function=BBPreloadSpell, Params={Name="talonr"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+}

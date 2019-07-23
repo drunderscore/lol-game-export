@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Yorick.YorickFunctionModule"}}, 
+{Function=BBPreloadCharacter, Params={Name="yorickbigghoul"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotsyorickrbigghoul"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickrbigghoulanimation"}}, 
+}

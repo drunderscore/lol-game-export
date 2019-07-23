@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="loc_stun.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Qiyana.QiyanaR"}}, 
+}

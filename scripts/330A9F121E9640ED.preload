@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="akaligeneralinvisibleminion"}}, 
+{Function=BBPreloadSpell, Params={Name="akalipweapon"}}, 
+{Function=BBPreloadSpell, Params={Name="akalipvfxmis1"}}, 
+{Function=BBPreloadSpell, Params={Name="akalipvfxmis2"}}, 
+}

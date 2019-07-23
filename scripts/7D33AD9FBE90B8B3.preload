@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="forbiddenfromrepositioning"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Odyssey_FunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="item_energyshard_impact.troy", SkinID="-1"}}, 
+}

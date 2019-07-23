@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Lux.LuxIlluminationPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="luxmalicecannon"}}, 
+}

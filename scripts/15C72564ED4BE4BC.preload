@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.PoroSnax_Functions"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxfeedtokingsnaxmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="porosnaxkingbufflockout"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_snaxfeeding_champconfirmation.troy", SkinID="-1"}}, 
+}

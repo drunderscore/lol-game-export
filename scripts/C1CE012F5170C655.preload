@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="dariushemomarker"}}, 
+{Function=BBPreloadSpell, Params={Name="dariusruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="dariusaxegrabarmorpen"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

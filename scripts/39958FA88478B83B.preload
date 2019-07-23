@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camillertether"}}, 
+{Function=BBPreloadSpell, Params={Name="camillerrange"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadModule, Params={Name="Camille.CamilleFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="camillermoveaway"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleruntargetable"}}, 
+{Function=BBPreloadSpell, Params={Name="camillercancelchannels"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_reksaipassive"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaieready"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksairuncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_sharedbuff_enemychampion"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_forceaggro"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_reksai_base_e_bite_cas.troy", SkinID="-1"}}, 
+}

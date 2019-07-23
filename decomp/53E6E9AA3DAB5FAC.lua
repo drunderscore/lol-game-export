@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "3134_Headhunter_CD.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemSerratedDirkProcCD"
+BuffName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0

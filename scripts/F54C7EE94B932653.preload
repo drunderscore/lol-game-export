@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kledclonedestroybuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+}

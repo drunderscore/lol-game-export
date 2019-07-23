@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_brushfire.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_brushfire_audio.troy", SkinID="-1"}}, 
+}

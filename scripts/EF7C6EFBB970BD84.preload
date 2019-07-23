@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_swapteamsceremony_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_swapteamsceremony_red.troy", SkinID="-1"}}, 
+}

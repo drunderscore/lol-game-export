@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixequeuedspell"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixestatstonetracker"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="khazixetarget"}}, 
+}

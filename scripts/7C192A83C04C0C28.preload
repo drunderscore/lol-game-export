@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="quinnrfinale"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnw"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnesecond"}}, 
+{Function=BBPreloadSpell, Params={Name="quinnebump"}}, 
+}

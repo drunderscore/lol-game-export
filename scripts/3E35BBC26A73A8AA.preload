@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Xayah.XayahGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahwrakanmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahwrakanfinder"}}, 
+{Function=BBPreloadModule, Params={Name="Xayah.XayahFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahwmissile1"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahwmissile2"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahwduoattack"}}, 
+{Function=BBPreloadSpell, Params={Name="xayahwhaste"}}, 
+{Function=BBPreloadParticle, Params={Name="xayah_base_w_cas_sfx_only.troy ", SkinID="-1"}}, 
+}

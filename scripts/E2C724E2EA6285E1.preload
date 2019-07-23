@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ironstylus_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ironstylusbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="ironstyluscheck"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellAttribution"}}, 
+}

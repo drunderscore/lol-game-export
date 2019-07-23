@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ivernpbufftransfermissile"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpbufftransfermissilered"}}, 
+}

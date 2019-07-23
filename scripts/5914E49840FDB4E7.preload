@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="projectmode17_chargedup"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_energy_courier_spawn.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_energy_courier_idle.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_energycourier_spawn_readyflash.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ProjectMode17_FunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_augfrag_get1.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_augfrag_get2.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_augfrag_get3.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_augfrag_get4.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_augfrag_get5.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_energy_courier_death.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="loc_fear.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="fleeslow"}}, 
+}

@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitep"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshieldeffect"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshieldbeenhit"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="obduracy"}}, 
+{Function=BBPreloadSpell, Params={Name="malphitedamagebuff"}}, 
+}

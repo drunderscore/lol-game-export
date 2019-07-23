@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Evelynn.EvelynnFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnstealthring"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcamouflage"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynne"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnpassivedelay"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="blindmonkrroot"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkpassive_cosmetic"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="leesinpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+}

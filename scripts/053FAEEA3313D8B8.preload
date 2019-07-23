@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="TFT_Draven.CharFunctionTFT_Draven"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinningreturntracker"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinning"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinningreturnleftaxe"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinningreturn"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinningreturncatch"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinningattack"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_dravenspinningleft"}}, 
+}

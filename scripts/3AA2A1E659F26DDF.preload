@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchrallyclick"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwallybeingdevoured"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchallylookingtor"}}, 
+}

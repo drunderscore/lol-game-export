@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tft_baron_tail_target.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_barontail"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_tail_target2.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tft_baron_base_tailattack.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_barontailpopup"}}, 
+{Function=BBPreloadSpell, Params={Name="baronspellcast3"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_baron_barondebuff"}}, 
+}

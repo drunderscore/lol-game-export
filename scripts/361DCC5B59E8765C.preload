@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nunuw_recast"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="nunuwsnowballattached"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadModule, Params={Name="Nunu.NunuFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="nunuwsnowballmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="nunuwmissileareatrigger"}}, 
+{Function=BBPreloadSpell, Params={Name="nunucirclemissilebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

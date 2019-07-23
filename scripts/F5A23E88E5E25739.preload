@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_earthdragon_ba_impact.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,21 @@
+local L0_0
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntBreakShields = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/DrMundo/HUD/Icons2D/DrMundo_Q.dds"
+BuffTextureName = L0_0
+L0_0 = "InfectedCleaverDebuff"
+BuffName = L0_0
+L0_0 = 1
+SpellDamageRatio = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0
+L0_0 = {"MundoMundo"}
+SpellFXOverrideSkins = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0
+L0_0 = false
+TriggersSpellCasts = L0_0

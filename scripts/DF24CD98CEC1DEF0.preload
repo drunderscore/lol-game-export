@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ward_sight_idle.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_crabsight"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_crabspeedshrine"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ContribScores"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaghostself"}}, 
+{Function=BBPreloadCharacter, Params={Name="oriannaball"}}, 
+{Function=BBPreloadSpell, Params={Name="oriannaeallyrangeringrender"}}, 
+{Function=BBPreloadSpell, Params={Name="orianaghostminion"}}, 
+}

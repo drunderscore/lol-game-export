@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taricpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="taricwshouldermanager"}}, 
+{Function=BBPreloadSpell, Params={Name="taricqhandglowmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="taricpassiveattack"}}, 
+{Function=BBPreloadSpell, Params={Name="taricpassiveattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="taricbasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="taricbasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="taricbasicattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="taricwselfbuff"}}, 
+}

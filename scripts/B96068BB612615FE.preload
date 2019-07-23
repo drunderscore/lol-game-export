@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="net"}}, 
+{Function=BBPreloadSpell, Params={Name="howlingabyssrelicaura_aoe"}}, 
+{Function=BBPreloadSpell, Params={Name="howlingabyssrelicaura"}}, 
+}

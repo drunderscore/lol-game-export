@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="braumqslow"}}, 
+{Function=BBPreloadSpell, Params={Name="braumq"}}, 
+{Function=BBPreloadSpell, Params={Name="braummark"}}, 
+{Function=BBPreloadSpell, Params={Name="braummarkcounter"}}, 
+}

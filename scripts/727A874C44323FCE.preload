@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_missfortunebullets"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_missfortunebulletempty"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_missfortunebulletsound"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_item_unitbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TFT_GameManager"}}, 
+}

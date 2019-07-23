@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimultmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimultmissileskn4c"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimult"}}, 
+{Function=BBPreloadModule, Params={Name="Hecarim.HecarimFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimultmissileskn4audio"}}, 
+{Function=BBPreloadSpell, Params={Name="hecarimultmissilegrab"}}, 
+}

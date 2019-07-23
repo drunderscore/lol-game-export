@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotestun"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotetoss"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwlockon"}}, 
+{Function=BBPreloadSpell, Params={Name="urgoteself"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwehalter"}}, 
+{Function=BBPreloadSpell, Params={Name="urgoteshield"}}, 
+}

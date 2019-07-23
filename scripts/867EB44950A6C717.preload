@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="threshselfslow"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_chainbeam_healthpack.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqleap"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq_darkstar"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq"}}, 
+{Function=BBPreloadModule, Params={Name="Thresh.ThreshFunctionModule"}}, 
+}

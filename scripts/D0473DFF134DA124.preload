@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rengarpassivebonetoothsound5"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarpassivebonetoothbuffkhazix"}}, 
+}

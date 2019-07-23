@@ -1,0 +1,17 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.NightmareBot_Functions"}}, 
+{Function=BBPreloadCharacter, Params={Name="doombotsbossteemo"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseaurelionsol"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseyasuo"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscursetowercharge"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscursegiantdarts"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritshaco"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritwarwick"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscursebard"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritpantheon"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritakali"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritmystery"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotspiritsinged"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseryze"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscursekarthus"}}, 
+}

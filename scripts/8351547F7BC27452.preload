@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nautiluspassive"}}, 
+{Function=BBPreloadSpell, Params={Name="nautiluspassivecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="nautiluspiercinggaze"}}, 
+{Function=BBPreloadSpell, Params={Name="nautiluspassiveroot"}}, 
+{Function=BBPreloadSpell, Params={Name="nautiluspiercinggazeshieldhit"}}, 
+{Function=BBPreloadSpell, Params={Name="nautiluswdot"}}, 
+}

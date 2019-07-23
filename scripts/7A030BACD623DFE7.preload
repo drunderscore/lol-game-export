@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_siegecannon_caitlyn_base_laser_beam_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="siegecannonshot"}}, 
+{Function=BBPreloadSpell, Params={Name="siegedeployablesharedbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="siegecannonpurchased"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_siegecannon_charge.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_siegecannon_charge_red.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ivernpbufftransferitem"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpmonsterexit"}}, 
+{Function=BBPreloadModule, Params={Name="Ivern.IvernFunctionModule"}}, 
+}

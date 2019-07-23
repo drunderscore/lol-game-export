@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="s5_itemganksmitebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="enchantment_juggernaut"}}, 
+{Function=BBPreloadSpell, Params={Name="itemmonstershred"}}, 
+}

@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="gnar_skin03_transform_warning_avatar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="gnar_skin01_p_eyes_white.troy ", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="gnar_base_p_eyes_white.troy ", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarbigq"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarbigw"}}, 
+{Function=BBPreloadSpell, Params={Name="gnartransform"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarq"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarw"}}, 
+{Function=BBPreloadSpell, Params={Name="gnare"}}, 
+}

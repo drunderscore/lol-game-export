@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dianaqinnermissile"}}, 
+{Function=BBPreloadSpell, Params={Name="dianaqoutermissile"}}, 
+{Function=BBPreloadSpell, Params={Name="dianamoonlight"}}, 
+{Function=BBPreloadSpell, Params={Name="dianaqhit"}}, 
+{Function=BBPreloadModule, Params={Name="Diana.DianaTeleportResetCheck"}}, 
+}

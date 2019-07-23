@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="wavestar_manaorb.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_manaorb_collectionlines"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_manaorb_tar.troy", SkinID="-1"}}, 
+}

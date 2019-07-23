@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="odin_hextechsweeper_tar_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinlightbringer"}}, 
+}

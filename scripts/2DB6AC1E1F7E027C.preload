@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalstealthscreentint"}}, 
+{Function=BBPreloadModule, Params={Name="Global.ClonePet"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancmistealth"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancpcooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancmifull"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="powerballstunself"}}, 
+{Function=BBPreloadSpell, Params={Name="powerball"}}, 
+{Function=BBPreloadSpell, Params={Name="powerballslow"}}, 
+{Function=BBPreloadSpell, Params={Name="powerballstun"}}, 
+}

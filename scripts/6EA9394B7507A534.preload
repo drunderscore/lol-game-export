@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tarichammersmash_shatter.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tarichammersmash_nova.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="taric_gemstorm_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="radiance"}}, 
+}

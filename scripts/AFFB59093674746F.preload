@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Flora"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CustomTables"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Vector"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_plant_satchel"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_plant_vision"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_plant_health"}}, 
+{Function=BBPreloadSpell, Params={Name="plantwithervisibility"}}, 
+}

@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ziggse_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsq"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggseslow"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotziggseminemoverrecentlyhit"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsemine_pool.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggssnowdayemine.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsemine.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberenderwcollision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="nightmarebotziggse_mis_small.troy", SkinID="-1"}}, 
+}

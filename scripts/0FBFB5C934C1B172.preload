@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseryzeminimapborderhack"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseryzerallyindicators"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_start_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_end_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_curse_ryze_base_r_directional_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseryzer"}}, 
+{Function=BBPreloadParticle, Params={Name="ryze_base_r_portal_close.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ryze_base_r_being_teleported_sound.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ryze_base_r_portal_arrival.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotscurseryzerwillbeteleported"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="lissandrarself"}}, 
+{Function=BBPreloadSpell, Params={Name="lissandrarspellshieldcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="lissandrarenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="lissandrardamage"}}, 
+{Function=BBPreloadSpell, Params={Name="lissandrarslow"}}, 
+}

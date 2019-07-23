@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leblancp"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancrq"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancrw"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancre"}}, 
+}

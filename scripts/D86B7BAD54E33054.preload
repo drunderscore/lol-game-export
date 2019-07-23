@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="tft_gnarbig"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombots_bardcurse_stasis_quiet.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_bardcurse_stasis_full.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="turretglowparticle"}}, 
+}

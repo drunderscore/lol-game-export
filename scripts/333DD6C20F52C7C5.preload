@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zacgoomovemoving"}}, 
+{Function=BBPreloadParticle, Params={Name="zac_skn1_w_chunk_splat.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="zac_skn1_w_chunk_splat_ot.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="zacwcdrmath"}}, 
+{Function=BBPreloadSpell, Params={Name="zacpassivechunkdrop"}}, 
+}

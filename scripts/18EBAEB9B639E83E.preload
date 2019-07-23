@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camillee"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleeknockback2"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleestun"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleeattackspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleeminionghosting"}}, 
+}

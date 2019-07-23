@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="galio_taunt_unit_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_taunt_multi_unit.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="shen_shadowdash_unit_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_taunt.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odyssey_rockpillarknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="ornnqpillar"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberenderwcollision"}}, 
+{Function=BBPreloadSpell, Params={Name="rockpillarbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="crystallize"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="veigarpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="veigarphenomenalevilpower"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotveigarbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="veigarrecall"}}, 
+}

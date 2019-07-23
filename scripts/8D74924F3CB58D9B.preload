@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="nidalee_javelin_mis.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kalista_base_ba_miss_impact.troy", SkinID="-1"}}, 
+}

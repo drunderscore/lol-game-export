@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gnarbige"}}, 
+{Function=BBPreloadSpell, Params={Name="gnartransform"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Status"}}, 
+{Function=BBPreloadSpell, Params={Name="gnareattackspeed"}}, 
+{Function=BBPreloadModule, Params={Name="Gnar.GnarW"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+}

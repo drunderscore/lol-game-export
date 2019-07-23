@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_run_restrictminion"}}, 
+{Function=BBPreloadCharacter, Params={Name="cp_familiarmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_run_exitminion"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_run_endexplosion"}}, 
+}

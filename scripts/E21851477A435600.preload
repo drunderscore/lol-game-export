@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="assassinmode_oni_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcamouflage"}}, 
+{Function=BBPreloadSpell, Params={Name="globalinvisibility"}}, 
+{Function=BBPreloadSpell, Params={Name="assassinmode_killstreakbuff_nearbyvisual"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_smite_duel_monster.troy", SkinID="-1"}}, 
+}

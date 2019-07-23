@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="npc_groundprogressindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_kothcontroller"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_kotharrow"}}, 
+}

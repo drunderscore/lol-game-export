@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemmiracleboost"}}, 
+{Function=BBPreloadSpell, Params={Name="itemmiraclepermanentblessing"}}, 
+}

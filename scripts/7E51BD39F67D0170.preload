@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="doombotsbossteemo_base_flamecrown.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.DoomBotsFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsbossteemoreturnafterknockback"}}, 
+{Function=BBPreloadParticle, Params={Name="itemzhonya_base_stasis.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsbossteemoaggro"}}, 
+{Function=BBPreloadParticle, Params={Name="doombots_bossteemo_nuke_incoming.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsbossteemobigshroom"}}, 
+{Function=BBPreloadSpell, Params={Name="doombotsgiantdart"}}, 
+}

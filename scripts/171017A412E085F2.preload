@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="cursor_moveto.troy", SkinID="-1"}}, 
+}

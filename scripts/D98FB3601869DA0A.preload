@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dragonbuffair"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffair_manager"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuff_tooltipmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffearth"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffearth_manager"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbufffire"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbufffire_manager"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffwater"}}, 
+{Function=BBPreloadSpell, Params={Name="dragonbuffwater_manager"}}, 
+{Function=BBPreloadSpell, Params={Name="wyrmfire"}}, 
+}

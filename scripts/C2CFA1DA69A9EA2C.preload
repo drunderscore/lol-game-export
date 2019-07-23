@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="swainpcclistener"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoiespirit"}}, 
+}

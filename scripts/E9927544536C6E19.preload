@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="xinzhaorlasttargetattacked"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="xinzhaorrangedimmunity"}}, 
+{Function=BBPreloadSpell, Params={Name="xinzhaoebattlecry"}}, 
+}

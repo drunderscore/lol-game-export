@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_vipmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_onfirebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_event_bardleroyale"}}, 
+}

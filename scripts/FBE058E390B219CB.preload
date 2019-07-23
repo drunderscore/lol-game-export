@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="projectmode17_teleportedrecently"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_startofgame_cameradirect"}}, 
+{Function=BBPreloadParticle, Params={Name="project_spawn_platform_02.troy", SkinID="-1"}}, 
+}

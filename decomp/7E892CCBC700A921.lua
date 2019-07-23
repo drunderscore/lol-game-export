@@ -1,0 +1,1 @@
+SpellVOOverrideSkins = {"AzirSkin02"}

@@ -1,0 +1,15 @@
+local L0_0, L1_1
+L0_0 = false
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Mordekaiser/HUD/Icons2D/MordekaiserQ2.dds"
+BuffTextureName = L0_0
+L0_0 = "MordekaiserMaceOfSpades"
+BuffName = L0_0
+L0_0 = "r:Mordekaiser_Q_cas_02"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "BUFFBONE_CSTM_WEAPON_1"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = true
+IsDamagingSpell = L0_0

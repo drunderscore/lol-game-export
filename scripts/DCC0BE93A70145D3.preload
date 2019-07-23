@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadParticle, Params={Name="bwmerc14ringgreen.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bwmerc14ringred.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="bwmerc14eyes"}}, 
+}

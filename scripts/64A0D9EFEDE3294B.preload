@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camilleedash2"}}, 
+{Function=BBPreloadSpell, Params={Name="camillee"}}, 
+{Function=BBPreloadModule, Params={Name="Camille.CamilleFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="camilleelongparticle"}}, 
+}

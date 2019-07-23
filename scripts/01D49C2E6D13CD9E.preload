@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ascxerathlocuspulsedamaged"}}, 
+{Function=BBPreloadParticle, Params={Name="xerath_base_r_aoe.troy", SkinID="-1"}}, 
+}

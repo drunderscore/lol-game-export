@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="vicompliment"}}, 
+{Function=BBPreloadSpell, Params={Name="virknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="vir"}}, 
+{Function=BBPreloadSpell, Params={Name="virknockdown"}}, 
+{Function=BBPreloadSpell, Params={Name="vipassivebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="vistatstonerkilltracker"}}, 
+}

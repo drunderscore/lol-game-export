@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemdevourerassistmonitor"}}, 
+{Function=BBPreloadSpell, Params={Name="itemdevourertransform"}}, 
+{Function=BBPreloadSpell, Params={Name="enchantment_slayer_stacks"}}, 
+{Function=BBPreloadSpell, Params={Name="itemdevourerpetspawn"}}, 
+{Function=BBPreloadParticle, Params={Name="itemdevourertranformturntransparent.troy", SkinID="-1"}}, 
+}

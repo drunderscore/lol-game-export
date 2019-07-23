@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Akali.AkaliFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="akalicastbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="akalibasicattackpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="akalibasicattackpassiveminion"}}, 
+{Function=BBPreloadSpell, Params={Name="akalibasicattackpassivemelee"}}, 
+{Function=BBPreloadSpell, Params={Name="akalibasicattackpassivemeleeminion"}}, 
+{Function=BBPreloadSpell, Params={Name="akalicritattack"}}, 
+{Function=BBPreloadSpell, Params={Name="akalibasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="akalibasicattack2"}}, 
+}

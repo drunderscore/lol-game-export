@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="katarinaqinternalmark"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinaq"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinaqdaggerarc"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinaqdaggerarc2"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinaqdaggerarc3"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinaqdaggerarc4"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="katarinadaggerexpirationtimer"}}, 
+}

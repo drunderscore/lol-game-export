@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_sharedbuff_enemychampion"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_forceaggro"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_kogmaw_preparingattack"}}, 
+}

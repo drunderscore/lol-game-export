@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Sejuani.SejuaniPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanirzone"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanistun"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanistatstonertracker"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanifreeze"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuanir"}}, 
+{Function=BBPreloadSpell, Params={Name="sejuaniecd"}}, 
+}

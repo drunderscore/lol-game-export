@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="redcardlock"}}, 
+{Function=BBPreloadSpell, Params={Name="goldcardlock"}}, 
+{Function=BBPreloadSpell, Params={Name="bluecardlock"}}, 
+{Function=BBPreloadSpell, Params={Name="redcardpreattack"}}, 
+{Function=BBPreloadSpell, Params={Name="goldcardpreattack"}}, 
+{Function=BBPreloadSpell, Params={Name="bluecardpreattack"}}, 
+{Function=BBPreloadSpell, Params={Name="pickacard_tracker"}}, 
+}

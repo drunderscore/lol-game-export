@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="freljord_crown_ashe.troy", SkinID="-1"}}, 
+}

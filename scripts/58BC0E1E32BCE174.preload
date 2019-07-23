@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="luxultimateskinmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotluxbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="luxdeathparticletimer"}}, 
+{Function=BBPreloadModule, Params={Name="Lux.LuxIlluminationPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="luxprismaticwaveshield"}}, 
+}

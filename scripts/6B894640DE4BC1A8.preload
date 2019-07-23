@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.PoroSnax_Functions"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_heal_ring.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_heal.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="kingporoplayerbuffmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="globalnorender"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_enemycolor.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadCharacter, Params={Name="kingporo"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_friendlycolor.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="resistantskinvilemaw"}}, 
+{Function=BBPreloadParticle, Params={Name="poro_throw_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="kingporo_death_sound.troy", SkinID="-1"}}, 
+}

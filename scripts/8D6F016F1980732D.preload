@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="dangerzonetarget"}}, 
+{Function=BBPreloadSpell, Params={Name="carpetbomb"}}, 
+}

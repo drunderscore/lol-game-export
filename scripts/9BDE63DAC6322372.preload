@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="trinityforce"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphageminispeed"}}, 
+{Function=BBPreloadSpell, Params={Name="itemphagespeed"}}, 
+}

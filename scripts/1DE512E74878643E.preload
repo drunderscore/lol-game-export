@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="garen_steellegion_decisivestrike_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="garen_steellegion_decisivestrike_tar_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="garen_decisivestrike_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="garen_decisivestrike_tar_02.troy", SkinID="-1"}}, 
+}

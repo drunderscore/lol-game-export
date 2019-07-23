@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="volibearpassivebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="volibearpassivehealcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="volibearhatred"}}, 
+{Function=BBPreloadSpell, Params={Name="volibearhatredzilean"}}, 
+{Function=BBPreloadSpell, Params={Name="volibearw"}}, 
+}

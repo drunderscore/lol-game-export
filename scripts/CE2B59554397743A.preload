@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kindredlegendpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredmonsterbountylockout"}}, 
+}

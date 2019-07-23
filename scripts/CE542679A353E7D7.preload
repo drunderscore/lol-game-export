@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="counterstrike_cas.troy", SkinID="-1"}}, 
+}

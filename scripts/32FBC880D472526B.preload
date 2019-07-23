@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_plant_health_fruit_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_plant_healthpackheal.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="planthealthslow"}}, 
+}

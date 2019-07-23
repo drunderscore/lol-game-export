@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="asc_eggtimer_accelerated.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="asc_handoff_radius_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ascxerathrelic.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ascrevivespecialcase"}}, 
+{Function=BBPreloadSpell, Params={Name="ascbufftransfer"}}, 
+}

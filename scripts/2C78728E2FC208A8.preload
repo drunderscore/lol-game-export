@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynrtravelingawayfromhost"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynrstatstonetracker"}}, 
+{Function=BBPreloadParticle, Params={Name="global_heal.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="neekowpassiveattack"}}, 
+{Function=BBPreloadSpell, Params={Name="neekowhaste"}}, 
+{Function=BBPreloadSpell, Params={Name="neekow"}}, 
+{Function=BBPreloadSpell, Params={Name="neekowpassiveready"}}, 
+{Function=BBPreloadSpell, Params={Name="neekowpassivecounter"}}, 
+}

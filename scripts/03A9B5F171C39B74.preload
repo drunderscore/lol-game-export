@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaisarready"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisarshield"}}, 
+{Function=BBPreloadSpell, Params={Name="kaisarstatstonetracker"}}, 
+}

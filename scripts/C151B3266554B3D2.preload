@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Vector"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Marker"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Vision"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaynqspellbuffer"}}, 
+{Function=BBPreloadModule, Params={Name="Kayn.FunctionsKayn"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynqpostdashroot"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynqattacklockout"}}, 
+}

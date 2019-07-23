@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jinxpassivekill"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxpassivekillmovementspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="jinxpassivekillattackspeed"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="temp_kalista_w_idlevfx.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="unlockanimation"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistawsight"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistawseesenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistawseen"}}, 
+}

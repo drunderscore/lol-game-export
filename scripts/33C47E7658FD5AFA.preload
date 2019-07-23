@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="shenrchannelmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="shenrshield"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="blindmonkrmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkrdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="leesinstatstonerkilltracker"}}, 
+{Function=BBPreloadSpell, Params={Name="blindmonkrroot"}}, 
+}

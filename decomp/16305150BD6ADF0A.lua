@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = false
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Nami/HUD/Icons2D/NamiE.dds"
+BuffTextureName = L0_0
+L0_0 = "NamiEtt"
+BuffName = L0_0
+L0_0 = true
+IsDeathRecapSource = L0_0

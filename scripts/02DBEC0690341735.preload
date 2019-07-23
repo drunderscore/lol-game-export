@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalmonsterbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="resistantskinvilemaw"}}, 
+{Function=BBPreloadSpell, Params={Name="ttspiderdancemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbosssingedorder"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbosssingedchaos"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_bosscombat"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_actiontimer"}}, 
+{Function=BBPreloadSpell, Params={Name="hpbyplayerlevel"}}, 
+{Function=BBPreloadSpell, Params={Name="tt_spiderbossapplicator"}}, 
+}

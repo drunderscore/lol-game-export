@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="poultry_mem_singleton"}}, 
+{Function=BBPreloadModule, Params={Name="Global.MonsterEmoteFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="poultry_lockout"}}, 
+}

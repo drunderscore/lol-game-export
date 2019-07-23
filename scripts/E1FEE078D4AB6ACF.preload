@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nocturnepassivecooldownmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturneumbrabladesattack"}}, 
+{Function=BBPreloadSpell, Params={Name="nocturnepassivecooldown"}}, 
+}

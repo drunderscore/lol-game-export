@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeisonteleportexit"}}, 
+{Function=BBPreloadSpell, Params={Name="zoerattacklock"}}, 
+{Function=BBPreloadSpell, Params={Name="zoerteleportingbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="zoerendceremony"}}, 
+{Function=BBPreloadSpell, Params={Name="zoernorender"}}, 
+{Function=BBPreloadSpell, Params={Name="zoerpostcast"}}, 
+{Function=BBPreloadCharacter, Params={Name="zoe"}}, 
+{Function=BBPreloadSpell, Params={Name="zoervfxcloneofzoe"}}, 
+{Function=BBPreloadSpell, Params={Name="zoermanager"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="zoerexitminion"}}, 
+}

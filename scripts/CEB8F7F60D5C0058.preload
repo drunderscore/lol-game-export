@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_baron_deathbreath_warn.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="barondeathbreathtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="barondonotmelee"}}, 
+}

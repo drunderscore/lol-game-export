@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiteqfracture"}}, 
+{Function=BBPreloadSpell, Params={Name="seismicshard"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiteqdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphiteqtremor"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitep"}}, 
+{Function=BBPreloadSpell, Params={Name="malphiteshield"}}, 
+}

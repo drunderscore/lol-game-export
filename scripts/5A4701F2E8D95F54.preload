@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotwrhalter"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrrecast"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwlockon"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrtargetunderthreshold"}}, 
+}

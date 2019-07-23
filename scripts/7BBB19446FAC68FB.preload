@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="voidslash_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="firetorch_purple.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="swain_heal.troy", SkinID="-1"}}, 
+}

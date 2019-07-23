@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeq"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewsmitemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeeminion"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeesleepcountdownslow"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeesleepcountdown"}}, 
+{Function=BBPreloadSpell, Params={Name="zoee"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewpassivemissileanimations"}}, 
+{Function=BBPreloadSpell, Params={Name="zoebasicattackspecial1"}}, 
+{Function=BBPreloadSpell, Params={Name="zoebasicattackspecial2"}}, 
+{Function=BBPreloadSpell, Params={Name="zoebasicattackspecial3"}}, 
+{Function=BBPreloadSpell, Params={Name="zoebasicattackspecial4"}}, 
+}

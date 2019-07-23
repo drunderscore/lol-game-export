@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_athenesunholygrail_charged.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_athenesunholygrail_healbeam.troy", SkinID="-1"}}, 
+}

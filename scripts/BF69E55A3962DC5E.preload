@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gangplankrwaveimpactsound"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankrslow"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankr"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

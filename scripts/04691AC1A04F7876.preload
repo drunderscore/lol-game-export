@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="doublestrikestacks"}}, 
+{Function=BBPreloadSpell, Params={Name="doublestrike"}}, 
+{Function=BBPreloadSpell, Params={Name="masteryipassive"}}, 
+{Function=BBPreloadSpell, Params={Name="meditatedefense"}}, 
+}

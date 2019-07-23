@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="chosenyiswordbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="chosenyiswordwujustylevisualbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="chosenyiswordwujustylesuperchargedvisualbuff"}}, 
+}

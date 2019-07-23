@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slime_urfinvulnerability"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_urfroot"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_rewardurfbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="disconnecttimer"}}, 
+{Function=BBPreloadSpell, Params={Name="grievouswound"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_stasis"}}, 
+}

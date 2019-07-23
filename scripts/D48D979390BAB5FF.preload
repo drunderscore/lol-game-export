@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="viemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="vie"}}, 
+{Function=BBPreloadSpell, Params={Name="vipassivebuff"}}, 
+{Function=BBPreloadParticle, Params={Name="vi_base_skin02_e_cas.troy", SkinID="-1"}}, 
+}

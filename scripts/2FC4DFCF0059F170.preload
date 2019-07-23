@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotwcancel"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwminionghost"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="rageblade"}}, 
+{Function=BBPreloadSpell, Params={Name="itemrageblademaxstacks"}}, 
+{Function=BBPreloadSpell, Params={Name="itemragebladedoublehit"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwmissileextra"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwmissile2skin03"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwmissileextra2skin03"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotwlockon"}}, 
+}

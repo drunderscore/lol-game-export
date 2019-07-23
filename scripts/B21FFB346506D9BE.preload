@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odincenteraltarreveal"}}, 
+{Function=BBPreloadSpell, Params={Name="odincenteraltarcaptured"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_shrine_time.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_centerrelic_capture_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odincenteraltarchampionbuffempty"}}, 
+{Function=BBPreloadSpell, Params={Name="odinscorecenteraltar"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_centerrelic_capture_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_lock_center_red_lock.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_lock_center_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odincenteraltarunlocked"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_lock_center_red_unlock.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="odinspeedshrinebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="odincenteraltarchampionbuff"}}, 
+}

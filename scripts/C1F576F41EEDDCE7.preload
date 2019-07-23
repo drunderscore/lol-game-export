@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="rupture_cas_01_green_team.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="rupture_cas_01_red_team.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_chogath_rupture_cas_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_chogath_rupturelaunch"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_chogath_rupture_lockout"}}, 
+}

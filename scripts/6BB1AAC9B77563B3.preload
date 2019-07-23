@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="missilebarragemissile2"}}, 
+{Function=BBPreloadSpell, Params={Name="missilebarragemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="mbcheck2"}}, 
+{Function=BBPreloadSpell, Params={Name="corkimissilebarragenc"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindammospellcd"}}, 
+}

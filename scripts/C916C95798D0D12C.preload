@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="braumparticleholder"}}, 
+{Function=BBPreloadSpell, Params={Name="braumstundebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="braummarkstunreduction"}}, 
+{Function=BBPreloadSpell, Params={Name="braumpassive"}}, 
+}

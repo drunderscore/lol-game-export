@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="teleportmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="recallends"}}, 
+}

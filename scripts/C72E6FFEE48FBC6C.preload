@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sog_activationcheck_order"}}, 
+{Function=BBPreloadSpell, Params={Name="s5_turretdamagebonus"}}, 
+{Function=BBPreloadSpell, Params={Name="turretpackage"}}, 
+{Function=BBPreloadSpell, Params={Name="outerturretbonus"}}, 
+{Function=BBPreloadSpell, Params={Name="turretfirstblood"}}, 
+{Function=BBPreloadCharacter, Params={Name="preseason_turret_shield"}}, 
+{Function=BBPreloadSpell, Params={Name="palisaderushdownresists"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_order_turret_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="platingrewardmarker"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_orderturret_onhit_dust.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

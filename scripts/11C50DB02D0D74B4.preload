@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Pyke.PykeGetSpellData"}}, 
+{Function=BBPreloadSpell, Params={Name="pykeemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="pykee"}}, 
+{Function=BBPreloadSpell, Params={Name="pykergoldtooltip"}}, 
+{Function=BBPreloadSpell, Params={Name="pykegold"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Kayn.KaynPassive"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynpmessagekaynhastransformed"}}, 
+}

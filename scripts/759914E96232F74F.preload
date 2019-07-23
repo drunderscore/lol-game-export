@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Gnar.GnarW"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarwproc"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarwvisual"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarwhit"}}, 
+{Function=BBPreloadSpell, Params={Name="gnarwbuff"}}, 
+}

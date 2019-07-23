@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="rengarpassiveempowered"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarhatredready"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarpassivebonetoothbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarw"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarpassiveempoweredms"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarespellbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="rengare"}}, 
+{Function=BBPreloadSpell, Params={Name="rengareemp"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarpassivebonetoothbountycheck"}}, 
+}

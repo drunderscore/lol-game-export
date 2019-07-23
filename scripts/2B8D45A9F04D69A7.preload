@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="cape_neg_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_chaosturret1_break1.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="tournamentssuddendeathturretshred"}}, 
+}

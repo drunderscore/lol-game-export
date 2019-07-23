@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="towerburnfire.troy", SkinID="-1"}}, 
+}

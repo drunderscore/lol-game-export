@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tandemrecall"}}, 
+{Function=BBPreloadSpell, Params={Name="exaltedspeed"}}, 
+{Function=BBPreloadSpell, Params={Name="tandemrecallpartnerexits"}}, 
+{Function=BBPreloadSpell, Params={Name="tandemrecallpartnerjoins"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_ranked_base_b_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_ranked_base_b_indicator_rings.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_base_b_indicator.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_base_b_indicator_rings.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_base_p_recall_arrows.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_ranked_base_b_indicator_activated.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_ranked_base_b_indicator_test.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_base_b_indicator_activated.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tandemrecall_base_b_indicator_test.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="akali_base_w_speedlines_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="akali_base_w_poof_01.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="globalstealthscreentint"}}, 
+}

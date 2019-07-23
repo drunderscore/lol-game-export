@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zacqgrace"}}, 
+{Function=BBPreloadSpell, Params={Name="zacq2lockouts"}}, 
+}

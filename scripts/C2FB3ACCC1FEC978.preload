@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="corkiloaded"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_overchargebegin"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_overcharge_timer.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_overcharge_end.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="srhomeguardspeed"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_overcharge_speedbuff2.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_stolenspeed"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_overcharge_speedbuff.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_cooldown_pickup_tar.troy", SkinID="-1"}}, 
+}

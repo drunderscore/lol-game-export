@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="darkstarmode_thresh_qtagbackblock.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqfakeknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_empoweredq_hit.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshq_darkstar"}}, 
+{Function=BBPreloadParticle, Params={Name="thresh_q_stab_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfroot"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_chainbeam_hookpost.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqpullmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfccpacify"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_powerq_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_powerq.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="darkstarmode_chainbeam_centercharge.troy", SkinID="-1"}}, 
+}

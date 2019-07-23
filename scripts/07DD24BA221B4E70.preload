@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadTexture, Params={Name="rengar_base_r_screen_overlay_target.dds"}}, 
+{Function=BBPreloadSpell, Params={Name="rengarrsecondarytargetvisuals"}}, 
+}

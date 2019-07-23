@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="kindredwolf"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredwclonebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredwclonebuffvisible"}}, 
+{Function=BBPreloadSpell, Params={Name="kindredwclonebuffranged"}}, 
+}

@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="taliyahrknockaside"}}, 
+{Function=BBPreloadCharacter, Params={Name="taliyahwallchunk"}}, 
+{Function=BBPreloadModule, Params={Name="Taliyah.FunctionsTaliyah"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrwallchunk"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrendpiece"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrclickmonitor"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrblowup"}}, 
+{Function=BBPreloadSpell, Params={Name="taliyahrwalldestroyed"}}, 
+}

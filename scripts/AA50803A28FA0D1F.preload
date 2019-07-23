@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odinultraminion"}}, 
+{Function=BBPreloadSpell, Params={Name="odinminioninitialbuff"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_blueultraminion_trail.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_blueultraminion_weapon.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_blueultraminion_glow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="odin_blueultraminion_avatar.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="itemplacement_tar.troy", SkinID="-1"}}, 
+}

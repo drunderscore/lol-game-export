@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "9999_Ora_Bottle.dds"
+BuffTextureName = L0_0
+L0_0 = "Odyssey_Trinket_Bottle"
+BuffName = L0_0
+L0_0 = "Global_Item_DarkCrystalFlask.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = true
+PersistsThroughDeath = L0_0

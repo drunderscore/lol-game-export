@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="siegedeployablesharedbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeoffensewarptarget"}}, 
+{Function=BBPreloadSpell, Params={Name="siegeteleportregenerateindicators"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

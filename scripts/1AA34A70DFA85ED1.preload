@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_minibaronvulnerablecooldown"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_eyeglow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_bloodspurt.troy", SkinID="-1"}}, 
+}

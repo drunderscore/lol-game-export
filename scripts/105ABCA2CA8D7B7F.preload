@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.WaveStar_FunctionModule"}},
+{Function=BBPreloadCharacter, Params={Name="sg_voidspawn"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_spawningsickness"}},
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_portalcontroller"}},
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}},
+{Function=BBPreloadParticle, Params={Name="wavestar_portal_in.troy", SkinID="-1"}},
+{Function=BBPreloadParticle, Params={Name="wavestar_portal.troy", SkinID="-1"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_runmanager"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_runinplacemanager"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_targettime"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_bossstarted"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_wavestarted"}},
+{Function=BBPreloadSpell, Params={Name="wavestar_spawn_wavecontroller"}},
+}

@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="maokaipassiveattack"}}, 
+{Function=BBPreloadSpell, Params={Name="maokaipassiveready"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="maokaipassive"}}, 
+{Function=BBPreloadSpell, Params={Name="traplimiter_maokai"}}, 
+{Function=BBPreloadSpell, Params={Name="maokaigravediggerresurrection"}}, 
+}

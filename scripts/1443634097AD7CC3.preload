@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadModule, Params={Name="Kayle.KayleFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylebasicattack3"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylebasicattack4"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylebasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="kaylebasicattack"}}, 
+}

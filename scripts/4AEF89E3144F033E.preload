@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="global_ss_heal_speedboost.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_heal.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_ss_heal_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="summonerhealcheck"}}, 
+{Function=BBPreloadModule, Params={Name="Global.SpellAttribution"}}, 
+}

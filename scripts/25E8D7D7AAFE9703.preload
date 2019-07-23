@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="slime_lootgoblin"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_lootgoblin_spellmanager"}}, 
+}

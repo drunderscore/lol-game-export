@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="shadowwalkrestealthfadeout"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnpassive"}}, 
+}

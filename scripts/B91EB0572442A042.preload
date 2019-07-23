@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="zoe_temp_w_ahri_skin07_p_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="zoew"}}, 
+{Function=BBPreloadSpell, Params={Name="ahrifoxfire"}}, 
+{Function=BBPreloadModule, Params={Name="Zoe.ZoeFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="zoepassive"}}, 
+{Function=BBPreloadSpell, Params={Name="zoewpassivewilldie"}}, 
+}

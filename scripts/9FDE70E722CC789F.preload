@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorpassiveapperlev"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorstaffidlevfxbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorqaug"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorqeaug"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorqwaug"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorqweaug"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorwaug"}}, 
+{Function=BBPreloadSpell, Params={Name="viktorweaug"}}, 
+{Function=BBPreloadSpell, Params={Name="viktoreaug"}}, 
+}

@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_spawn_purple.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_spawn_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_spawn_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_spawn_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_death_purple.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_death_blue.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_death_green.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_snowdown_gift_death_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="emoteplayonspawnemote"}}, 
+}

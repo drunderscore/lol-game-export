@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="varuspassivebuffdisplay"}}, 
+{Function=BBPreloadSpell, Params={Name="varuspassivebuffdisplayminion"}}, 
+{Function=BBPreloadSpell, Params={Name="varuspassivetracker"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuslaywastea1"}}, 
+{Function=BBPreloadSpell, Params={Name="karthuslaywastesounddummy"}}, 
+}

@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="feelnopain_eff.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_ironback_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_ironback_shield_enemy.troy", SkinID="-1"}}, 
+}

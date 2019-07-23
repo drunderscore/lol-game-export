@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcamouflage"}}, 
+{Function=BBPreloadSpell, Params={Name="twitchhideinshadowsbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="twitchhideinshadowsrunfast"}}, 
+{Function=BBPreloadSpell, Params={Name="twitchhideinshadowsinternal"}}, 
+}

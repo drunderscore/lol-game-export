@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.ProjectMode17_FunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_endofgame_cameradirect"}}, 
+{Function=BBPreloadParticle, Params={Name="project_spawn_platform_02.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_eog_channelbeam.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_channeltarget.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_overcharge_powerup_ending.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_endceremony_explosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="projectmode17_overcharge_speedbuff2.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="emoteplayvictoryemote"}}, 
+{Function=BBPreloadSpell, Params={Name="projectmode17_victory"}}, 
+}

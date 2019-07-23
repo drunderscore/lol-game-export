@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_pykeeghosted"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_pykeemissile"}}, 
+}

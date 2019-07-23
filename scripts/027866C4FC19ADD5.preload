@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="pox_arcana_heal_tar.troy", SkinID="-1"}}, 
+}

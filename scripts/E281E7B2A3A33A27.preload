@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="burning"}}, 
+{Function=BBPreloadSpell, Params={Name="blessingofthelizardelderslow"}}, 
+{Function=BBPreloadSpell, Params={Name="blessingofthelizardelderlines"}}, 
+{Function=BBPreloadParticle, Params={Name="redbuff_heal_01.troy", SkinID="-1"}}, 
+}

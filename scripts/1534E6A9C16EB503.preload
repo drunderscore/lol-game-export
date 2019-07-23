@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="globalruncycleoverride"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrwillspread"}}, 
+{Function=BBPreloadSpell, Params={Name="zacr"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrpickup"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="zacrspread"}}, 
+}

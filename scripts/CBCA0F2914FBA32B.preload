@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="globalhit_mana.troy", SkinID="-1"}}, 
+}

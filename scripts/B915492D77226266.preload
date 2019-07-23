@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sionearmorshred"}}, 
+{Function=BBPreloadSpell, Params={Name="sione"}}, 
+{Function=BBPreloadSpell, Params={Name="sioneslow"}}, 
+{Function=BBPreloadSpell, Params={Name="sioneminion"}}, 
+}

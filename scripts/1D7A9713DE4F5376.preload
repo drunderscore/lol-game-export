@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="slime_warthog"}}, 
+{Function=BBPreloadSpell, Params={Name="slime_warthogtether"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchwdevourimmune"}}, 
+}

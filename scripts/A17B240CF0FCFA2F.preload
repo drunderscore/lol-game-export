@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gragasestun"}}, 
+{Function=BBPreloadSpell, Params={Name="gragasehitmarker"}}, 
+}

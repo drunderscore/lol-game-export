@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_baron_base_spike_animated.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="baronspikehit"}}, 
+{Function=BBPreloadSpell, Params={Name="barondebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="baronbacksidestun"}}, 
+{Function=BBPreloadSpell, Params={Name="baronbacksidedetect"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_baron_backspikes.troy", SkinID="-1"}}, 
+}

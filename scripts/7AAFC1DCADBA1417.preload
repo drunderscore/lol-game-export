@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="neutralmonster_buf_red_offense.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="entropyburning"}}, 
+{Function=BBPreloadSpell, Params={Name="internal_30slow"}}, 
+{Function=BBPreloadSpell, Params={Name="itemslow"}}, 
+{Function=BBPreloadParticle, Params={Name="spectral_fury_cas.troy", SkinID="-1"}}, 
+}

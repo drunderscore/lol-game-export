@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="varusrspellshieldcheck"}}, 
+{Function=BBPreloadSpell, Params={Name="varusr"}}, 
+{Function=BBPreloadSpell, Params={Name="varusrspellshieldcheck2"}}, 
+{Function=BBPreloadSpell, Params={Name="varusrroot"}}, 
+{Function=BBPreloadSpell, Params={Name="varusrimmune"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="varusrmissileend"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

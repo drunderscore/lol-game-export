@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="yorickwghoul"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickwwalllife"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadCharacter, Params={Name="yorickwinvisible"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickwmasterhp"}}, 
+{Function=BBPreloadSpell, Params={Name="yorickwghoulmanager"}}, 
+}

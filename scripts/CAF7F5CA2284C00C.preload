@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="reksaiq"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiqdamage"}}, 
+}

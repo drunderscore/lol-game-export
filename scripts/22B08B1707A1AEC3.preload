@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusgrandlinetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusgrandlinetarget"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusgrandlinehit"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusminorknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="nautilusknockaway"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+}

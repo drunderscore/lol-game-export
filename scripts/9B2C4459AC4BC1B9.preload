@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotfiddlestickscrowstormdamage"}}, 
+{Function=BBPreloadSpell, Params={Name="crowstormchannel"}}, 
+{Function=BBPreloadCharacter, Params={Name="fiddlesticks"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotfiddlesticksfakecrowstorm"}}, 
+{Function=BBPreloadParticle, Params={Name="mordekeiser_cotg_skin.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="crowstorm"}}, 
+{Function=BBPreloadSpell, Params={Name="fiddlesticksdread"}}, 
+}

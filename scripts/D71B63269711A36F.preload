@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="circularchampionindicator.troy", SkinID="-1"}}, 
+}

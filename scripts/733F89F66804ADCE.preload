@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="reksaiqburrowedslow"}}, 
+{Function=BBPreloadSpell, Params={Name="reksaiqburrowed"}}, 
+}

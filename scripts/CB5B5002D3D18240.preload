@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadSpell, Params={Name="threshestun"}}, 
+{Function=BBPreloadSpell, Params={Name="threshe"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfccroot"}}, 
+{Function=BBPreloadSpell, Params={Name="threshqselfccpacify"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tahmkenchreactivater"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchrallyindicator"}}, 
+{Function=BBPreloadSpell, Params={Name="perks_presenceofmindtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchrallycamerasnap"}}, 
+{Function=BBPreloadSpell, Params={Name="tahmkenchnewrpartone"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadParticle, Params={Name="tahmkench_base_audio_allyultreminder.troy", SkinID="-1"}}, 
+}

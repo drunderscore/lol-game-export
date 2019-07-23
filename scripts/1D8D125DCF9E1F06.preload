@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_malphitewactive"}}, 
+{Function=BBPreloadSpell, Params={Name="obduracy"}}, 
+}

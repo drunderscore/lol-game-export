@@ -1,0 +1,4 @@
+SpellFXOverrideSkins = {
+  "GangsterTwitch",
+  "PunkTwitch"
+}

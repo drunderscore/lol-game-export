@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="leblancwstatstonetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancwmove"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancwwallfix"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancwreturn"}}, 
+{Function=BBPreloadSpell, Params={Name="leblancwreturnsfx"}}, 
+}

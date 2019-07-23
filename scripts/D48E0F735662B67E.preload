@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="syndra_rcast.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrarspell"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrartimer"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrartrigger"}}, 
+}

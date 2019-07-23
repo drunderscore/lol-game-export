@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="oriannanoball"}}, 
+}

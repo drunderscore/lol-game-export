@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="boltsharedcd"}}, 
+{Function=BBPreloadSpell, Params={Name="globalcannotclickobjects"}}, 
+{Function=BBPreloadParticle, Params={Name="item_hextechstarburst_afterburner.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_hextechstarburst_impact_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="itemsofboltspellmissile"}}, 
+{Function=BBPreloadParticle, Params={Name="item_hextechstarburst_dash.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.PlayerTerrian"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="damageabsorbdamager"}}, 
+{Function=BBPreloadParticle, Params={Name="bw_item_martyrsgambit.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="orbofshadowspen"}}, 
+{Function=BBPreloadSpell, Params={Name="figureheadspellshield"}}, 
+}

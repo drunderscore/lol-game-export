@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "RelicYellowWard.dds"
+BuffTextureName = L0_0
+L0_0 = "RelicYellowWard"
+BuffName = L0_0
+L0_0 = "Ward_Wriggles_Idle.troy"
+AutoBuffActivateEffect = L0_0

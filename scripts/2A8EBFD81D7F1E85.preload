@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="jarvanivdemacianstandard"}}, 
+{Function=BBPreloadCharacter, Params={Name="jarvanivstandard"}}, 
+}

@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="TFT_Aatrox.TFT_AatroxFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_aatroxqmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_aatroxqknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_aatroxq"}}, 
+}

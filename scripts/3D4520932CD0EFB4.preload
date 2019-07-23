@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="bwoffenseupgrade"}}, 
+{Function=BBPreloadSpell, Params={Name="bwupgradepurchased"}}, 
+}

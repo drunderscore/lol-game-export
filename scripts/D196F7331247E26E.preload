@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="gangplankpassiveattack"}}, 
+{Function=BBPreloadSpell, Params={Name="gangplankaimanager"}}, 
+{Function=BBPreloadSpell, Params={Name="gankplankestacksforai"}}, 
+}

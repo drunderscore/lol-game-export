@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tft_summonermovecamerasetinfo"}}, 
+{Function=BBPreloadSpell, Params={Name="tft_summonermovecamerapancamera"}}, 
+}

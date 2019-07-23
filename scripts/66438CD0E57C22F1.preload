@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynentrapment"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynyordletrapinternal"}}, 
+{Function=BBPreloadSpell, Params={Name="caitlynheadshotrangecheck"}}, 
+}

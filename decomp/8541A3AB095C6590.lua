@@ -1,0 +1,9 @@
+local L0_0, L1_1
+L0_0 = "3046_Phantom_Dancer.dds"
+BuffTextureName = L0_0
+L0_0 = "ItemPhantomDancerShield"
+BuffName = L0_0
+L0_0 = 2
+OnPreDamagePriority = L0_0
+L0_0 = true
+DoOnPreDamageInExpirationOrder = L0_0

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tempsound_kindred_attackhit.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tempsound_kindred_preattack.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="tempsound_kindred_launchattack.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="temp_kindred_base_attack_cast.troy", SkinID="-1"}}, 
+}

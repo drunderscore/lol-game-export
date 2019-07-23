@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemstatikshank"}}, 
+{Function=BBPreloadSpell, Params={Name="itemrapidfirecannon"}}, 
+{Function=BBPreloadParticle, Params={Name="item_rapidfirecannon_structure_explode.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="item_rapidfirecannon_explode.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.FakeStats"}}, 
+}

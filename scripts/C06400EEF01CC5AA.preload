@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kaynwpostcastlock"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynwslow"}}, 
+{Function=BBPreloadSpell, Params={Name="kaynwknockup"}}, 
+}

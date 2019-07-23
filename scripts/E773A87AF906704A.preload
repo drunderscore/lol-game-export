@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="tandemrecallmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanpassive"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanruncyclemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="globalrecallfacingsouth"}}, 
+{Function=BBPreloadSpell, Params={Name="rakancritattack"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanbasicattack"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanbasicattack2"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanbasicattackshort"}}, 
+{Function=BBPreloadSpell, Params={Name="rakanbasicattackshort2"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="odyssey_oracloud"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_corebasic_collect_minion"}}, 
+}

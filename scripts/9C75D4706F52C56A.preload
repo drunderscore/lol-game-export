@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nunupbloodboil"}}, 
+{Function=BBPreloadSpell, Params={Name="nunupbeamvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="nunupbloodboilmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="nunupassiveimmune"}}, 
+{Function=BBPreloadModule, Params={Name="Nunu.NunuFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="nunuw"}}, 
+{Function=BBPreloadSpell, Params={Name="nunuwknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="stun"}}, 
+{Function=BBPreloadParticle, Params={Name="nunu_base_w__tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="nunuwsnowballdamageimmune"}}, 
+}

@@ -1,0 +1,14 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_controlbuff_riftherald"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_resistantskinminibaron"}}, 
+{Function=BBPreloadSpell, Params={Name="heraldinhibitorlistener"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_bloodspurt.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_minibaronincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_heraldleapattack"}}, 
+{Function=BBPreloadParticle, Params={Name="wavestar_runendexplosion.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_endgamemusiccue"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_eventbuff_endgamemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="wavestar_boss_victorychannel"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_boss_glow.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_riftherald_boss_explosion01.troy", SkinID="-1"}}, 
+}

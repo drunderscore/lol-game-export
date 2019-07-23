@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.Marker"}}, 
+{Function=BBPreloadSpell, Params={Name="plantspawndata"}}, 
+{Function=BBPreloadSpell, Params={Name="plantspawntuning"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Flora"}}, 
+}

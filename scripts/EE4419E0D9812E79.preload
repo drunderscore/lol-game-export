@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="infiniteduress_tar.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="infiniteduress"}}, 
+}

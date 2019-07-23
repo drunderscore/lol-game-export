@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="itemhurricane"}}, 
+{Function=BBPreloadModule, Params={Name="Global.FakeStats"}}, 
+}

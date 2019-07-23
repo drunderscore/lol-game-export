@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="kalistaw"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeprocadd"}}, 
+{Function=BBPreloadParticle, Params={Name="goldacquisition_glb.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeprotect"}}, 
+{Function=BBPreloadSpell, Params={Name="kalistacoopstrikeprocsynthetickill"}}, 
+}

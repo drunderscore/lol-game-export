@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_casting"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_knockup"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_transform_playerdisable"}}, 
+{Function=BBPreloadSpell, Params={Name="odyssey_bosskayn_transform_2"}}, 
+}

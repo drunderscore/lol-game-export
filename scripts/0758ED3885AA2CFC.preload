@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="wavestar_controlbuff_riftherald_positionlock"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_directcamerato"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_riftherald_heraldleapattack"}}, 
+}

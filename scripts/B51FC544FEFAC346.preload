@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="illaoiminion"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoitentacleminion"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoitentaclespawncooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoitentaclerecentattack"}}, 
+{Function=BBPreloadSpell, Params={Name="illaoitentacleheal"}}, 
+}

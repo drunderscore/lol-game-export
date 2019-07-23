@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="braumrwrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="braumpulselineknockup"}}, 
+{Function=BBPreloadSpell, Params={Name="braumpulselineslow"}}, 
+}

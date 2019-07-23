@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="heimerdingerturretlockon"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerw"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerultwdummyspell"}}, 
+{Function=BBPreloadSpell, Params={Name="heimerdingerwattack2"}}, 
+}

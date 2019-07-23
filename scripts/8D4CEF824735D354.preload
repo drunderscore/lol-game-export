@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ziggsr_flames_green_team_pool.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="ziggsr_flames_green_team.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="ziggsrimpactsound"}}, 
+}

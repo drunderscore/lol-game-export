@@ -1,0 +1,17 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = true
+DoesntBreakShields = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "ASSETS/Characters/Volibear/HUD/Icons2D/VolibearE.dds"
+BuffTextureName = L0_0
+L0_0 = "VolibearE"
+BuffName = L0_0
+L0_0 = "GLOBAL_SLOW.TROY"
+AutoBuffActivateEffect = L0_0
+L0_0 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_0
+L0_0 = true
+TriggersSpellCasts = L0_0

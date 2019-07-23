@@ -1,0 +1,19 @@
+local L0_0, L1_1
+L0_0 = true
+NotSingleTargetSpell = L0_0
+L0_0 = false
+DoesntTriggerSpellCasts = L0_0
+L0_0 = "Wolfman_FuryStance.dds"
+BuffTextureName = L0_0
+L0_0 = "Hunter's Call"
+BuffName = L0_0
+L0_0 = "Global_DmgHands_buf.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "R_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "Global_DmgHands_buf.troy"
+AutoBuffActivateEffect2 = L0_0
+L0_0 = "L_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName2 = L0_0
+L0_0 = true
+TriggersSpellCasts = L0_0

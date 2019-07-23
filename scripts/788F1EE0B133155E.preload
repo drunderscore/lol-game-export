@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="camouflagecheck"}}, 
+{Function=BBPreloadSpell, Params={Name="camouflagestealth"}}, 
+}

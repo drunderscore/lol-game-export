@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="vladdeathparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="_globalchampionbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimirbloodgorged"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimirq"}}, 
+{Function=BBPreloadSpell, Params={Name="vladimirbloodballvfxbuff"}}, 
+}

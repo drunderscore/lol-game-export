@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="lulufaerieshield"}}, 
+{Function=BBPreloadSpell, Params={Name="lulue"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieshieldcontroller"}}, 
+{Function=BBPreloadSpell, Params={Name="lulupassiveoff"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieattackaid"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieattackaidlinger"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieburn"}}, 
+{Function=BBPreloadSpell, Params={Name="luluevision"}}, 
+{Function=BBPreloadSpell, Params={Name="lulufaerieburncontroller"}}, 
+}

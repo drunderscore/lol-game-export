@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="tearofthegoddess_itm.troy", SkinID="-1"}}, 
+}

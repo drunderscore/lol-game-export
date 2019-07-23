@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nightmarebotmonkeykingspintowindamage"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingspinmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="monkeykingspinknockup"}}, 
+{Function=BBPreloadCharacter, Params={Name="monkeykingclone"}}, 
+{Function=BBPreloadCharacter, Params={Name="monkeyking"}}, 
+{Function=BBPreloadSpell, Params={Name="nightmarebotmonkeykingdecoyclone"}}, 
+}

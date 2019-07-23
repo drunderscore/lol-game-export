@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.TFT_GameManager"}},
+{Function=BBPreloadSpell, Params={Name="tft_item_buff_zhonyashourglassspell"}},
+{Function=BBPreloadSpell, Params={Name="tft_companion_actionhaste"}},
+{Function=BBPreloadSpell, Params={Name="tft_summonerdropunit"}},
+}

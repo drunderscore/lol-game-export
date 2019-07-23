@@ -1,0 +1,12 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ireliapassivestacks"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliapassivestacksmax"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliapassive"}}, 
+{Function=BBPreloadSpell, Params={Name="globalwallpush"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliar"}}, 
+{Function=BBPreloadModule, Params={Name="Global.CastInstance"}}, 
+{Function=BBPreloadModule, Params={Name="Irelia.IreliaFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="slow"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliaqkilltracker"}}, 
+{Function=BBPreloadSpell, Params={Name="ireliaq"}}, 
+}

@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_baron_meleemin_shield.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="exalted_buf.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="exalted_buf_siege.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="s5_baronminionsiegeattack"}}, 
+{Function=BBPreloadParticle, Params={Name="exalted_buf_order.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.MonsterEmoteFunctionModule"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_junglebuff_baron_siegemin_cas.troy", SkinID="-1"}}, 
+}

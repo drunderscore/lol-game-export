@@ -1,0 +1,8 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Yasuo.YasuoFunctions"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoqe1"}}, 
+{Function=BBPreloadSpell, Params={Name="yasuoisincombat"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoq1wrapper"}}, 
+{Function=BBPreloadSpell, Params={Name="odysseyaugments_yasuoq3mis"}}, 
+}

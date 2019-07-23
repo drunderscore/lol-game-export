@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="nunupbloodboiltarget"}}, 
+{Function=BBPreloadModule, Params={Name="Nunu.NunuFunctionModule"}}, 
+}

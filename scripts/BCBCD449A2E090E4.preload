@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="evelynnqmaintarget"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnqlinemissile"}}, 
+{Function=BBPreloadSpell, Params={Name="evelynnq"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="syndrawdebuff"}}, 
+{Function=BBPreloadSpell, Params={Name="syndrawfailsafe"}}, 
+}

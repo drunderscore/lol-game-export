@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="norenderexpirationbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivdemacianstandardbuff"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="jarvanivdemacianstandarddelay"}}, 
+}

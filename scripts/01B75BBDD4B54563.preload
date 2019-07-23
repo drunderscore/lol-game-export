@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="ivernpmanager"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpmonsterexit"}}, 
+{Function=BBPreloadSpell, Params={Name="ivernpapplicationtarget"}}, 
+}

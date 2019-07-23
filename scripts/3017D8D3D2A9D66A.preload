@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadModule, Params={Name="Global.SiegeModeFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="siegelaseraffixactive"}}, 
+{Function=BBPreloadSpell, Params={Name="siegelaseraffixshot"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laseraffix_targetcone.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laseraffix_targetcone_enemy.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_targetinglink.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_laser_targetinglink_start.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="siegelaseraffixreminder"}}, 
+}

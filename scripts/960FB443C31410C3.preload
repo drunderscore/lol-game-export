@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="npcinitializer"}}, 
+{Function=BBPreloadSpell, Params={Name="tracerbullet"}}, 
+{Function=BBPreloadParticle, Params={Name="krug_spawn_sound_initial.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="delayeddespawn"}}, 
+{Function=BBPreloadParticle, Params={Name="krug_spawn_sound_landing.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sru_krug_spawn_impact.troy", SkinID="-1"}}, 
+{Function=BBPreloadCharacter, Params={Name="sru_krugminimini"}}, 
+}

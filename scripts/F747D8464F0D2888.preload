@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="poachersdirkhandler"}}, 
+{Function=BBPreloadSpell, Params={Name="itemserrateddirkprocmanager"}}, 
+}

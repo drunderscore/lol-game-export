@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Sivir/HUD/Icons2D/Sivir_Passive.dds"
+BuffTextureName = L0_0
+L0_0 = "SivirPassiveSpeed"
+BuffName = L0_0
+L0_0 = "r:Sivir_passivehaste"
+AutoBuffActivateEffect = L0_0
+L0_0 = "spine"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = true
+NonDispellable = L0_0

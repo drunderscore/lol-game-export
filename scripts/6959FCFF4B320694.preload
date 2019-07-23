@@ -1,0 +1,9 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_e_weapontrails.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixequeuedspell"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_khazixetarget"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_e_land.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="sg_khazix_base_e_tar.troy", SkinID="-1"}}, 
+}

@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="pantheonrparticle"}}, 
+{Function=BBPreloadSpell, Params={Name="pantheonrfall"}}, 
+{Function=BBPreloadSpell, Params={Name="pantheonr"}}, 
+{Function=BBPreloadSpell, Params={Name="pantheonrparticlered"}}, 
+}

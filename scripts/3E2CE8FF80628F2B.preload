@@ -1,0 +1,5 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="swainr"}}, 
+{Function=BBPreloadSpell, Params={Name="swaine"}}, 
+{Function=BBPreloadSpell, Params={Name="swaineroot"}}, 
+}

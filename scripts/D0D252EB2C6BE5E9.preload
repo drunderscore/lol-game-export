@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="alistarheadbuttmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="alistarwattacklock"}}, 
+{Function=BBPreloadSpell, Params={Name="headbutttarget"}}, 
+{Function=BBPreloadSpell, Params={Name="alistarwstatstonetracker"}}, 
+{Function=BBPreloadSpell, Params={Name="stun"}}, 
+{Function=BBPreloadModule, Params={Name="Alistar.AlistarFunctions"}}, 
+}

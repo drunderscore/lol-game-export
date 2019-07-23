@@ -1,0 +1,6 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sg_reksaitunnelimmune"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaie"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaitunnelcooldown"}}, 
+{Function=BBPreloadSpell, Params={Name="sg_reksaiedestroying"}}, 
+}

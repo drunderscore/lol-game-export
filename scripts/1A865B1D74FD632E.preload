@@ -1,0 +1,10 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="akalicastbuffer"}}, 
+{Function=BBPreloadSpell, Params={Name="akalie"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="akaligeneralinvisibleminion"}}, 
+{Function=BBPreloadModule, Params={Name="Akali.AkaliFunctionModule"}}, 
+{Function=BBPreloadSpell, Params={Name="akalieanim"}}, 
+{Function=BBPreloadSpell, Params={Name="akaliweapontrailvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

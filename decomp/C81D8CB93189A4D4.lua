@@ -1,0 +1,19 @@
+local L0_0
+L0_0 = false
+NotSingleTargetSpell = L0_0
+L0_0 = "ASSETS/Characters/Lulu/HUD/Icons2D/Lulu_Whimsy.dds"
+BuffTextureName = L0_0
+L0_0 = "LuluWBuff"
+BuffName = L0_0
+L0_0 = "r:Lulu_W_cas_buf_hand"
+AutoBuffActivateEffect3 = L0_0
+L0_0 = "l_hand"
+AutoBuffActivateAttachBoneName3 = L0_0
+L0_0 = "r:Lulu_W_cas_buf_hand"
+AutoBuffActivateEffect4 = L0_0
+L0_0 = "r_hand"
+AutoBuffActivateAttachBoneName4 = L0_0
+L0_0 = {"LuluSkin05"}
+SpellFXOverrideSkins = L0_0
+L0_0 = true
+TriggersSpellCasts = L0_0

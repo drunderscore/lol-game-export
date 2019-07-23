@@ -1,0 +1,16 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="trinketorblvl3audio.troy", SkinID="-1"}}, 
+{Function=BBPreloadModule, Params={Name="Global.Brush"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_itemclairvoyance_cas.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_itemclairvoyance.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="global_trinket_itemclairvoyance_red.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="sightward"}}, 
+{Function=BBPreloadCharacter, Params={Name="sightward"}}, 
+{Function=BBPreloadCharacter, Params={Name="bluetrinket"}}, 
+{Function=BBPreloadSpell, Params={Name="relicblueward"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardbuff"}}, 
+{Function=BBPreloadSpell, Params={Name="sharedwardlogic"}}, 
+{Function=BBPreloadSpell, Params={Name="wardbounty"}}, 
+{Function=BBPreloadSpell, Params={Name="dummywardtracker"}}, 
+{Function=BBPreloadModule, Params={Name="Global.TrinketCD"}}, 
+}

@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="ivern_base_r_malphite_aoe.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="landslide"}}, 
+}

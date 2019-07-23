@@ -1,0 +1,13 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="zoeepostcast"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeedistancesolver"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeedistancesolver2"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeedistancesolver3"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeedistancesolver4"}}, 
+{Function=BBPreloadModule, Params={Name="Zoe.ZoeFunctions"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeec"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeidlemanager"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeemis"}}, 
+{Function=BBPreloadSpell, Params={Name="zoeemisaudio"}}, 
+}

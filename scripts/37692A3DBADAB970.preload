@@ -1,0 +1,3 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="item_hextechstarburst_dash.troy", SkinID="-1"}}, 
+}

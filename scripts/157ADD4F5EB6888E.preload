@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadParticle, Params={Name="siege_shieldgenerator_buff.troy", SkinID="-1"}}, 
+{Function=BBPreloadParticle, Params={Name="siege_shieldgenerator_buff_red.troy", SkinID="-1"}}, 
+}

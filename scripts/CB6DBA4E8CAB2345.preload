@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="urgotr"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrrecastchannel"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrfacing"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrsuppress"}}, 
+{Function=BBPreloadSpell, Params={Name="urgotrescapedvo"}}, 
+}

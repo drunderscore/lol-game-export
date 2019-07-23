@@ -1,0 +1,11 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserropenvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserrinsidewisp"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserr_target"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserr_statsteal"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserr_statstealenemy"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaiserr_insidespiritrealm"}}, 
+{Function=BBPreloadSpell, Params={Name="mordekaisersoulmissile"}}, 
+{Function=BBPreloadSpell, Params={Name="root"}}, 
+}

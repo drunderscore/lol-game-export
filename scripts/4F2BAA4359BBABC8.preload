@@ -1,0 +1,4 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="sorakabasicattack"}}, 
+{Function=BBPreloadParticle, Params={Name="sorakabasicattack_tar.troy", SkinID="-1"}}, 
+}

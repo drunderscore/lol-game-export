@@ -1,0 +1,11 @@
+local L0_0, L1_1
+L0_0 = "ASSETS/Characters/Lulu/HUD/Icons2D/Lulu_CommandPix.dds"
+BuffTextureName = L0_0
+L0_0 = "LuluEBurn"
+BuffName = L0_0
+L0_0 = "global_Watched.troy"
+AutoBuffActivateEffect = L0_0
+L0_0 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_0
+L0_0 = "Lulu_E_tar_pix_vision.troy"
+AutoBuffActivateEffect2 = L0_0

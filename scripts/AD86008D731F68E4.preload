@@ -1,0 +1,7 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadCharacter, Params={Name="testcuberender10vision"}}, 
+{Function=BBPreloadSpell, Params={Name="ascwarptarget"}}, 
+{Function=BBPreloadParticle, Params={Name="global_asc_teleport.troy", SkinID="-1"}}, 
+{Function=BBPreloadSpell, Params={Name="ascwarpreappear"}}, 
+{Function=BBPreloadSpell, Params={Name="ascwarpprotection"}}, 
+}

@@ -1,0 +1,15 @@
+PreLoadBuildingBlocks = {
+{Function=BBPreloadSpell, Params={Name="virtracker"}}, 
+{Function=BBPreloadSpell, Params={Name="virtarget"}}, 
+{Function=BBPreloadSpell, Params={Name="viteamwork"}}, 
+{Function=BBPreloadSpell, Params={Name="unstoppableforcemarker"}}, 
+{Function=BBPreloadSpell, Params={Name="virknockback"}}, 
+{Function=BBPreloadSpell, Params={Name="virdunkvfx"}}, 
+{Function=BBPreloadSpell, Params={Name="virhit"}}, 
+{Function=BBPreloadCharacter, Params={Name="testcube"}}, 
+{Function=BBPreloadSpell, Params={Name="virdunkmarker"}}, 
+{Function=BBPreloadSpell, Params={Name="virdunkstun"}}, 
+{Function=BBPreloadSpell, Params={Name="expirationtimer"}}, 
+{Function=BBPreloadSpell, Params={Name="virdunk"}}, 
+{Function=BBPreloadSpell, Params={Name="virvoice"}}, 
+}
